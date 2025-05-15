@@ -1,7 +1,7 @@
 **VOD Reaction License \- A Community Licensing Model for Streamers**
 
 This project provides a template for a custom license designed to facilitate content reuse, particularly "reaction" style content, among streamers on platforms like Twitch and YouTube.  
-The "VOD Reaction License Version 0.1" is an experimental, custom license that allows content creators (Licensors) to grant specific permissions to their community (Licensees) to reuse designated VODs (past live stream recordings). Key features include:
+The "VOD Reaction License Version 0.1.1" is an experimental, custom license that allows content creators (Licensors) to grant specific permissions to their community (Licensees) to reuse designated VODs (past live stream recordings). Key features include:
 
 * Permission for Reuse: Clearly grants rights to create derivative works (like reaction videos, compilations, reviews) from the Licensor's VODs.  
 * Platform Limitation: Reuse by Licensees is restricted to specified platforms (Twitch and YouTube).  
@@ -25,9 +25,9 @@ The creation of this license model was motivated by several observations and goa
 
 This repository contains the following key documents:
 
-* [VOD\_REACTION\_LICENSE\_V0.1.md](https://github.com/shibatch/grantback/blob/main/VOD_REACTION_LICENSE_V0.1.md): The full text of the "VOD Reaction License Version 0.1" template. This is the core legal document that adopting Licensors will customize.  
-* [GUIDE\_FOR\_LICENSEES\_V0.1.md](https://github.com/shibatch/grantback/blob/main/GUIDE_FOR_LICENSEES_V0.1.md): A user-friendly guide intended for the viewers and reusers of a streamer who has adopted this license. It explains how to reuse VODs under the terms set by that streamer. (Adopting Licensors should adapt this guide for their own community).  
-* [GUIDE\_FOR\_ADOPTERS\_V0.1.md](https://github.com/shibatch/grantback/blob/main/GUIDE_FOR_ADOPTERS_V0.1.md): A guide for streamers who wish to adopt this VOD Reaction License model for their own channel's VODs. It explains how to customize and implement the license template.
+* [VOD\_REACTION\_LICENSE\_V0.1.1.md](https://github.com/shibatch/grantback/blob/main/VOD_REACTION_LICENSE_V0.1.md): The full text of the "VOD Reaction License Version 0.1.1" template. This is the core legal document that adopting Licensors will customize.  
+* [GUIDE\_FOR\_LICENSEES\_V0.1.1.md](https://github.com/shibatch/grantback/blob/main/GUIDE_FOR_LICENSEES_V0.1.md): A user-friendly guide intended for the viewers and reusers of a streamer who has adopted this license. It explains how to reuse VODs under the terms set by that streamer. (Adopting Licensors should adapt this guide for their own community).  
+* [GUIDE\_FOR\_ADOPTERS\_V0.1.1.md](https://github.com/shibatch/grantback/blob/main/GUIDE_FOR_ADOPTERS_V0.1.md): A guide for streamers who wish to adopt this VOD Reaction License model for their own channel's VODs. It explains how to customize and implement the license template.
 
 **How to Use This License Model**
 
@@ -37,21 +37,21 @@ If a streamer indicates that their VODs are available under a "VOD Reaction Lice
 
 For Streamers Wanting to Adopt This License Model for Their Own VODs (Adopting Licensors):
 
-1. Read the [GUIDE\_FOR\_ADOPTERS\_V0.1.md](https://github.com/shibatch/grantback/blob/main/GUIDE_FOR_ADOPTERS_V0.1.md) in this repository carefully. This guide provides step-by-step instructions on how to adapt and implement this license model.  
-2. Customize the Template: Copy the [VOD\_REACTION\_LICENSE\_V0.1.md](https://github.com/shibatch/grantback/blob/main/VOD_REACTION_LICENSE_V0.1.md) template and fill in all the bracketed placeholders \[Placeholder\_Name\] with your specific channel information.  
+1. Read the [GUIDE\_FOR\_ADOPTERS\_V0.1.1.md](https://github.com/shibatch/grantback/blob/main/GUIDE_FOR_ADOPTERS_V0.1.md) in this repository carefully. This guide provides step-by-step instructions on how to adapt and implement this license model.  
+2. Customize the Template: Copy the [VOD\_REACTION\_LICENSE\_V0.1.1.md](https://github.com/shibatch/grantback/blob/main/VOD_REACTION_LICENSE_V0.1.md) template and fill in all the bracketed placeholders \[Placeholder\_Name\] with your specific channel information.  
 3. Host Your License: Publish your customized version of the license text on a publicly accessible platform (e.g., your own GitHub repository, a personal website, or a GitHub Gist).  
-4. Inform Your Community: Clearly state on your channel(s) that your designated VODs are offered under your instance of the "VOD Reaction License Version 0.1" and provide a direct link to your hosted version of the license.  
-5. Provide Guidance: It is highly recommended to also provide a version of the [GUIDE\_FOR\_LICENSEES\_V0.1.md](https://github.com/shibatch/grantback/blob/main/GUIDE_FOR_LICENSEES_V0.1.md), customized for your channel, to help your community understand how they can reuse your content.
+4. Inform Your Community: Clearly state on your channel(s) that your designated VODs are offered under your instance of the "VOD Reaction License Version 0.1.1" and provide a direct link to your hosted version of the license.  
+5. Provide Guidance: It is highly recommended to also provide a version of the [GUIDE\_FOR\_LICENSEES\_V0.1.1.md](https://github.com/shibatch/grantback/blob/main/GUIDE_FOR_LICENSEES_V0.1.md), customized for your channel, to help your community understand how they can reuse your content.
 
 **Licensing of These Documents**
 
-The [VOD\_REACTION\_LICENSE\_V0.1.md](https://github.com/shibatch/grantback/blob/main/VOD_REACTION_LICENSE_V0.1.md) text template in this repository is offered with specific permissions for its use as a template:
+The [VOD\_REACTION\_LICENSE\_V0.1.1.md](https://github.com/shibatch/grantback/blob/main/VOD_REACTION_LICENSE_V0.1.md) text template in this repository is offered with specific permissions for its use as a template:
 
 * You are permitted to copy and distribute verbatim copies of this license document.  
 * You are permitted to modify this license document solely by filling in the designated placeholder sections (e.g., \[Licensor's Primary Channel Name\]) with your own information to create your instance of the license.  
-* If you modify any of the core legal terms beyond these placeholders, you may not call your modified version the "VOD Reaction License Version 0.1" or any confusingly similar name. Such a modified document would be your own new, distinct license. (Please see Section 11 of the [VOD\_REACTION\_LICENSE\_V0.1.md](https://github.com/shibatch/grantback/blob/main/VOD_REACTION_LICENSE_V0.1.md) template for full details on these permissions).
+* If you modify any of the core legal terms beyond these placeholders, you may not call your modified version the "VOD Reaction License Version 0.1.1" or any confusingly similar name. Such a modified document would be your own new, distinct license. (Please see Section 11 of the [VOD\_REACTION\_LICENSE\_V0.1.1.md](https://github.com/shibatch/grantback/blob/main/VOD_REACTION_LICENSE_V0.1.md) template for full details on these permissions).
 
-The accompanying guide documents ([GUIDE\_FOR\_LICENSEES\_V0.1.md](https://github.com/shibatch/grantback/blob/main/GUIDE_FOR_LICENSEES_V0.1.md) template and [GUIDE\_FOR\_ADOPTERS\_V0.1.md](https://github.com/shibatch/grantback/blob/main/GUIDE_FOR_ADOPTERS_V0.1.md)) in this repository remain licensed under the Creative Commons Attribution-ShareAlike 4.0 International Public License (CC BY-SA 4.0). You are free to share and adapt these guide documents for your own purposes, provided you adhere to the terms of the CC BY-SA 4.0 license.
+The accompanying guide documents ([GUIDE\_FOR\_LICENSEES\_V0.1.1.md](https://github.com/shibatch/grantback/blob/main/GUIDE_FOR_LICENSEES_V0.1.md) template and [GUIDE\_FOR\_ADOPTERS\_V0.1.1.md](https://github.com/shibatch/grantback/blob/main/GUIDE_FOR_ADOPTERS_V0.1.md)) in this repository remain licensed under the Creative Commons Attribution-ShareAlike 4.0 International Public License (CC BY-SA 4.0). You are free to share and adapt these guide documents for your own purposes, provided you adhere to the terms of the CC BY-SA 4.0 license.
 
 **Important Disclaimers (From Naoki Shibata, Template Author)**
 
