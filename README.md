@@ -1,10 +1,11 @@
 **VOD Reaction License \- A Community Licensing Model for Streamers**
 
-This project provides a template for a custom license designed to facilitate content reuse, particularly "reaction" style content, among streamers on platforms like Twitch and YouTube.  
+This project provides a template for a custom license designed to facilitate content reuse, particularly "reaction" style content, among streamers on popular video sharing and streaming platforms such as Twitch and YouTube.
+
 The "VOD Reaction License Version 0.1.1" is an experimental, custom license that allows content creators (Licensors) to grant specific permissions to their community (Licensees) to reuse designated VODs (past live stream recordings). Key features include:
 
 * Permission for Reuse: Clearly grants rights to create derivative works (like reaction videos, compilations, reviews) from the Licensor's VODs.  
-* Platform Limitation: Reuse by Licensees is restricted to specified platforms (e.g., Twitch and YouTube).  
+* Platform Limitation: Reuse by Licensees is restricted to specific platforms designated by the adopting Licensor (the template provides Twitch and YouTube as primary examples).  
 * Attribution: Requires Licensees to provide clear attribution to the original Licensor.  
 * Grant-Back Clause: Licensees grant back a license to the original Licensor to reuse the new "Streamed Work" created by the Licensee, under symmetrical conditions (platform limitation and attribution back to the Licensee). This fosters dialogue and allows Licensors to engage with community creations.  
 * Community Focused: Aims to encourage interaction, collaboration, and mutual promotion within the streaming community.
@@ -19,14 +20,14 @@ The creation of this license model was motivated by several observations and goa
 2. Copyright Clarity: Simply reacting to content doesn't automatically grant the necessary rights. This license aims to provide a clear permission pathway.  
 3. Supporting Growth: For many streamers (especially those building their audience), having their content reacted to by others can significantly boost visibility and engagement. This license is designed to actively encourage such interactions.  
 4. Enabling Dialogue and Response: The grant-back feature ensures that the original Licensor can respond to, feature, or otherwise engage with reactions to their content, which is particularly useful for addressing misleading or bad-faith reactions and fostering a balanced conversation.  
-5. Controlled Sharing: By limiting reuse to specific platforms (e.g., Twitch and YouTube), Licensors can better manage the spread of their content beyond their desired ecosystems.
+5. Controlled Sharing: By allowing Licensors to designate specific Permitted Platforms (such as Twitch and YouTube) for reuse, they can better manage the spread of their content beyond their desired ecosystems.
 
 **What's in This Repository?**
 
 This repository contains the following key documents:
 
 * [VOD\_REACTION\_LICENSE\_V0.1.1.md](https://github.com/shibatch/grantback/blob/main/VOD_REACTION_LICENSE_V0.1.1.md): The full text of the "VOD Reaction License Version 0.1.1" template. This is the core legal document that adopting Licensors will customize.  
-* [GUIDE\_FOR\_LICENSEES\_V0.1.1.md](https://github.com/shibatch/grantback/blob/main/GUIDE_FOR_LICENSEES_V0.1.1.md): A user-friendly guide intended for the viewers and reusers of a streamer who has adopted this license. It explains how to reuse VODs under the terms set by that streamer. (Adopting Licensors should adapt this guide for their own community).  
+* [GUIDE\_FOR\_LICENSEES\_V0.1.1.md](https://github.com/shibatch/grantback/blob/main/GUIDE_FOR_LICENSEES_V0.1.1.md): A user-friendly guide for viewers and content creators who want to reuse VODs from a streamer who has adopted this license. It explains how to do so under the terms set by that streamer. (Adopting Licensors should adapt this guide for their own community).  
 * [GUIDE\_FOR\_ADOPTERS\_V0.1.1.md](https://github.com/shibatch/grantback/blob/main/GUIDE_FOR_ADOPTERS_V0.1.1.md): A guide for streamers who wish to adopt this VOD Reaction License model for their own channel's VODs. It explains how to customize and implement the license template.
 
 **How to Use This License Model**
