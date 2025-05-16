@@ -28,6 +28,18 @@ Step 2.2: Customize the Placeholders in Your Copy
   * \[Year\] and \[Licensor's Name or Channel Name / Operator\] (in the Copyright notice section of the License Template): The current year and your legal name, channel name, or operating entity name.  
     * (A Note on Your Copyright Line): The format Copyright (c) \[Year\] \[Your Name/Entity\] is common. For content like your VODs, you might also choose to state, for example: "Copyright (c) \[Year\] \[Your Channel Name\]. My VODs under this license are offered via the VOD Reaction License Version 0.1.1." The phrase "All rights reserved." (often seen with software) is generally optional for content, as your rights are reserved by copyright law anyway, and Section 5 of the License Template ("Reservation of Rights") already clarifies this. Select a style that you are comfortable with for your channel.  
   * \[Licensor's Designated Channel Name for Attribution\] (in Definition 1.f and Section 3.b of the License Template): The specific channel name you want *your* Licensees (your VOD reusers) to credit when they use your VODs.  
+  * Important Considerations When Choosing/Adding Permitted Platforms:  
+    * Original Context of the License Template: This License Template was primarily written with Twitch and YouTube in mind as common distribution platforms for Streamed Works, due to their widespread use and features.  
+    * Your Choice and Responsibility: As the Licensor adopting this template, you have the flexibility to designate other platforms. However, the responsibility for this choice rests entirely with you.  
+    * If you add platforms beyond or instead of Twitch and YouTube, you MUST confirm the following:  
+      * Functional Compatibility with this License: The platform must genuinely support the core mechanisms and spirit of the VOD Reaction License. Key functionalities to verify include:  
+        * The platform's general ability to host and publicly display video content.  
+        * Clear and practical ways for Licensees to provide Attribution to you (as required by Clause 3.b of your License).  
+        * Reasonable public access to content and features that allow the grant-back rights (Clause 4 of your License) to operate as intended (e.g., for you to view and potentially reuse their work).  
+      * No Conflict with the Platform's Terms of Service (ToS):  
+        * The chosen platform's own Terms of Service must not conflict with the rights granted or obligations imposed by your VOD Reaction License.  
+        * If a platform's ToS would prevent or fundamentally contradict how this license is meant to work, that platform should not be listed by you as a Permitted Platform.  
+    * Guidance if Unsure: If you are unsure about a platform's suitability regarding these points, it is advisable to conduct thorough research, seek advice if necessary, or limit your Permitted Platforms to those you are confident are compatible (such as Twitch and YouTube).  
 * Important: Ensure all bracketed placeholders \[...\] are correctly and consistently updated with *your* specific information. This customized text will become *your* license that *you* offer to your community. To use the name "VOD Reaction License Version 0.1.1" for your license, please modify only the content within these placeholders. For guidance on making other types of changes, or if this template doesn't precisely fit your needs, please refer to Section 6 of this guide ("Using and Modifying This License Template").
 
 Step 2.3: Customize and Host Your License Documents Publicly
@@ -79,7 +91,7 @@ So, a member of your community has created a Streamed Work using your VOD under 
   * Watch their content\! See what they've created.  
   * Check if they've complied with your license terms, such as:  
     * Attribution to You: Have they correctly attributed your channel (as specified in your version of Clause 3.b)?  
-    * Permitted Platforms: Is their Streamed Work published on Twitch or YouTube (as per Clause 3.a)?  
+    * Permitted Platforms: Is their Streamed Work published on one of the platforms you designated as "Permitted Platforms" in your license (as per Clause 3.a of your license)?  
 * Step 4.2: Engage with the Creator (Recommended):  
   * Acknowledge their work\! A simple thank you, comment, or shout-out can go a long way in fostering a positive community.  
 * Step 4.3: Consider Using Your Grant-Back Rights (Clause 4 of your license):  
@@ -89,14 +101,40 @@ So, a member of your community has created a Streamed Work using your VOD under 
     * Create a "reacting to reactions" segment.  
     * Use clips from their Streamed Work in a compilation or highlights reel.  
 * Step 4.4: If You Reuse Their Streamed Work \- Your Obligations to Them:  
-  * Platform Restriction: Just like them, you must only use their Streamed Work (or derivatives you make from it) on Twitch or YouTube (as per Clause 4.a of your license).  
+  * Platform Restriction: Just like your Licensee, you must only use their Streamed Work (or derivatives you make from it) on the "Permitted Platforms" as defined in your license (as per Clause 4.a of your license).  
   * Attribution to Them (the Licensee): This is crucial. You *must* provide attribution back to the creator of that Streamed Work (as per Clause 4.b of your license).  
-    * Use their primary channel name (e.g., their Twitch or YouTube channel where they published the Streamed Work).  
+    * Use their primary channel name (e.g., the channel on a Permitted Platform where they published the Streamed Work, or as they otherwise indicated).  
     * If they specified a preferred name for attribution when they notified you, use that.  
     * Make the attribution clear, either visually or audibly.  
 * Step 4.5: Regarding Third-Party Content in Their Streamed Work (Clause 4.e.iv of your license):  
   * The license states that the Licensee is responsible for ensuring they have the rights to any third-party content they included in their Streamed Work, such that you (the Licensor) can also reuse it under the grant-back.  
   * If you notice third-party content in their Streamed Work that you are unsure about (e.g., popular copyrighted music), it's wise to be cautious. You might choose to only use segments of their Streamed Work that are clearly their original reaction and your VOD, or discuss with the Licensee if you have concerns. The license (Clause 4.e.iv) provides a basis for this, as they agree to help identify or remove/replace problematic content if requested.
+
+5\. Managing or Discontinuing Your License Offer
+
+As the Licensor of your VODs under your instance of the VOD Reaction License, you have the flexibility to decide which of your VODs are offered under these terms and when you might choose to discontinue offering these terms for future reuses of your VODs. To maintain clarity with your community, continuously and clearly indicating the applicable license status (e.g., "VOD Reaction License applies" or "All Rights Reserved") on a per-VOD basis (such as in video descriptions) is highly desirable, especially when you are making changes to your licensing approach or managing a mix of licensed and unlicensed VODs.
+
+* Stopping the Offer for Future Reuses: If you decide you no longer want to offer your VODs (or specific VODs) under this VOD Reaction License for *new, future* reuses:  
+  * Do Not Delete Your Existing License Document: The version of the license text that applied to VODs already released under its terms is important for ongoing clarity and for those Licensees who relied on it. Do not delete this hosted document. Instead, you might:  
+    * Keep the existing document accessible, perhaps renaming it or clearly marking it on the document itself (e.g., adding a note like "\[ARCHIVED \- These terms applied to VODs published before \[Date of Discontinuation\] and are no longer offered for new VODs\]").  
+    * Ensure that links from older VODs (if they point to a specific URL for your license terms) continue to function or redirect appropriately to these archived terms if technically feasible. If not, ensure you can provide these historical terms if requested.  
+  * Update Your General Channel Information:  
+    * Modify any general statements on your channel (e.g., Twitch "About," YouTube description, main licensing info page) to clearly state that the VOD Reaction License is no longer being offered for VODs published after \[Date of Discontinuation\].  
+    * It's good practice to explain how older VODs are licensed. For example: "VODs published before \[Date of Discontinuation\] were offered under the VOD Reaction License v1.0 (archived terms can be found here: \[Link to your specific, now-archived or clearly marked historical license text\]). VODs published on or after \[Date of Discontinuation\] are All Rights Reserved unless otherwise indicated."  
+  * Mark New VODs Clearly: Ensure any VODs published *after* your discontinuation date explicitly state their new licensing status (e.g., "© \[Your Year\] \[Your Channel Name\]. All rights reserved.").  
+  * Communicate the Change Broadly: Clearly announce your decision to discontinue the license offer for future VODs to your community to avoid confusion and maintain trust.  
+* Changing Placeholder Information (e.g., Your Attribution Channel Name):  
+  If you need to update the information you provided in the placeholders of your published VOD Reaction License (for example, if your channel name used for attribution changes), it is crucial to handle this transparently and fairly:  
+  * Communicate Proactively: Clearly announce the change to your community, ideally in advance (e.g., on your channel, social media, or wherever you post license updates). Explain what is changing and why, if appropriate.  
+  * Specify Effective Date: Clearly state that the new information (e.g., new attribution name) applies only to Streamed Works created *after* a specific effective date of your announcement/update.  
+  * Respect Existing Compliant Works: Reassure your community that Streamed Works created and published in compliance with the placeholder information that was current *at the time of their creation* will still be considered compliant. You should not retroactively demand changes (like re-attribution) for these existing works.  
+  * Update Your Hosted License Document: Ensure the license document you host and link to reflects the updated placeholder information and clearly indicates the date of the update or a version number for that instance of your license.  
+* Crucial Note: Impact on Existing, Compliant Uses (Applies to both Updates and Discontinuation):  
+  It is very important to understand that modifying your placeholder information or discontinuing your offer of this license for future reuses generally does not affect the rights of Licensees who have already begun Reusing your VODs in compliance with the license terms that were in effect before you made the change or withdrew the general offer.  
+  Public licenses, once accepted through compliant use, grant rights that are typically irrevocable by the Licensor as long as the Licensee continues to adhere to the original conditions under which they started. The "VOD Reaction License" template's grant to the Licensee in Clause 2 explicitly includes "irrevocable (as long as the Licensee complies with all conditions of this License)," which reinforces this principle. This is crucial for building trust and encouraging good-faith reuse by your community.  
+* Record Keeping and Supporting Your Community:  
+  * Keep a personal record of when you started offering VODs under this license and the exact terms (including specific placeholder values and a copy of the license text) you offered at various times. If you make changes to placeholder values or discontinue the offer, record when those changes were made effective.  
+  * The VOD Reaction License is designed to foster positive community interaction. Being clear, transparent, and fair in how you manage your license offer and any changes to it is fundamental to supporting that spirit. Always prioritize clear communication with your community regarding your licensing decisions.
 
 5\. Managing or Discontinuing Your License Offer
 

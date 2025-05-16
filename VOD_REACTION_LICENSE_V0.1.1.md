@@ -1,6 +1,6 @@
 VOD Reaction License Version 0.1.1
 
-This license defines the terms and conditions for the reuse of recordings of past public live streams (hereinafter "VODs") from the content creation channel "**\[Licensor's Primary Channel Name\]**" (hereinafter "Licensor"), who primarily broadcasts on platforms including Twitch and/or YouTube. Our goal is to enable community members to create new and interesting content while ensuring proper attribution and allowing the Licensor to share in the community's creativity.
+This license defines the terms and conditions for the reuse of recordings of past public live streams (hereinafter "VODs") from the content creation channel "**\[Licensor's Primary Channel Name\]**" (hereinafter "Licensor"). This license is designed for creators who wish to allow community reuse of their content on designated public video sharing and streaming platforms. Our goal is to enable community members to create new and interesting content while ensuring proper attribution and allowing the Licensor to share in the community's creativity.
 
 Copyright (c) **\[Year\]**, **\[Licensor's Name or Channel Name / Operator\]**
 
@@ -12,7 +12,7 @@ b. "VODs" (Video on Demand recordings or equivalent archived live streams) refer
 
 c. "Licensee" refers to the individual or entity exercising rights under this license.
 
-d. "Permitted Platforms" refers exclusively to Twitch (www.twitch.tv) and YouTube (www.youtube.com).
+d.  \`"Permitted Platforms"\` refers to \`**\[Adopting Licensor: You MUST list at least one specific video sharing/streaming platform here by its full name and primary URL (e.g., "Twitch (www.twitch.tv)", "YouTube (www.youtube.com)"). You MAY list multiple platforms. When choosing and listing platforms, you are responsible for making a reasonable effort to ensure their Terms of Service (ToS) do not conflict with this VOD Reaction License and that the platform(s) can support this License's requirements (e.g., displaying attribution, public access to content). Please see the "Guide for Streamers Adopting this License Template" for important considerations before finalizing your list of Permitted Platforms. Once you have finalized your list, replace this entire bracketed comment with your chosen platform(s), for example: "Twitch (www.twitch.tv) and YouTube (www.youtube.com)".\]**\`
 
 e. "Streamed Work" refers to any new audio-visual work created by the Licensee that incorporates or is derived from the VODs.
 
@@ -25,7 +25,7 @@ The Licensor grants the Licensee a non-exclusive, worldwide, royalty-free, perpe
 3\. Conditions for Use of VODs
 
 a. Platform Restriction:  
-The Licensee's Streamed Work may only be published, shared, or made available on the Permitted Platforms (Twitch and YouTube). Publication on any other platform is not permitted under this license.
+The Licensee's Streamed Work may only be published, shared, or made available on the Permitted Platforms. Publication on any other platform is not permitted under this license.
 
 b. Attribution to Licensor:  
 The Licensee must provide Attribution to the Licensor in each Streamed Work. This means either visually displaying the Licensor's designated channel name for Attribution in a clear and prominent manner within the video component of the Licensee's Streamed Work (e.g., in credits, as an on-screen overlay for a reasonable duration, or in a persistent description if the platform allows) OR by audibly stating the Licensor's designated channel name for Attribution clearly within the audio component of the Licensee's Streamed Work (e.g., "Content used from channel **\[Licensor's Designated Channel Name for Attribution\]**").
@@ -41,7 +41,7 @@ Upon the Licensor's request, the Licensee must promptly provide the Licensor wit
 For each Streamed Work that the Licensee creates and publishes by using the Licensor's VODs in accordance with the terms of this license, the Licensee hereby grants back to the Licensor a non-exclusive, worldwide, royalty-free, perpetual, irrevocable, and non-transferable license to use, reproduce, distribute, display, perform, adapt, and create derivative works from such Streamed Work. This license granted back to the Licensor is subject to the following conditions. This grant-back applies only to Streamed Works created by the Licensee that incorporate the Licensor's VODs under this license and does not apply to any other works created by the Licensee.
 
 a. Platform Restriction for Licensor:  
-The Licensor's use of such Streamed Work is restricted to the Permitted Platforms (Twitch and YouTube). The Licensor may only publish, share, or make such Streamed Work (or derivatives thereof created by the Licensor from such Streamed Work) available on these platforms.
+The Licensor's use of such Streamed Work is restricted to the Permitted Platforms. The Licensor may only publish, share, or make such Streamed Work (or derivatives thereof created by the Licensor from such Streamed Work) available on these platforms.
 
 b. Attribution to Licensee by Licensor:  
 When using such Streamed Work, the Licensor must provide attribution to the Licensee. This means the Licensor will clearly display the Licensee's primary channel name (e.g., the Licensee's Twitch or YouTube channel name, whichever is primarily associated with such Streamed Work, or as the Licensee may otherwise instruct the Licensor in writing) in text on screen OR clearly announce it audibly within any new work created by the Licensor that incorporates such Streamed Work. The method of attribution shall be reasonable for the medium used by the Licensor.
@@ -51,8 +51,7 @@ The Licensor may feature such Streamed Work on the Licensor's own channels on th
 However, if such Streamed Work is to be primarily or independently broadcast or published by a collaborator on a channel not operated by the Licensor as part of a collaboration authorized by the Licensor, the Licensee's prior explicit approval for such specific use by that collaborator is required.
 
 d. Sublicensing by Licensor:  
-The Licensor may grant necessary sublicenses to Permitted Platform operators (e.g., Twitch/YouTube as per their Terms of Service) to the extent required to host, display, and enable platform features for such Streamed Work when featured on the Licensor's channels or for collaborative broadcasts conducted in accordance with Section 4.c.  
-Except as expressly permitted in this Section 4.d (specifically regarding platform operators), any other form of sublicensing of such Streamed Work by the Licensor to third parties for their independent use is not permitted by this license without the Licensee's separate approval.
+The Licensor may grant necessary sublicenses to the operators of the Permitted Platforms (as per their respective Terms of Service) to the extent required to host, display, and enable platform features for such Streamed Work when featured on the Licensor's channels or for collaborative broadcasts conducted in accordance with Section 4.c. Except as expressly permitted in this Section 4.d (specifically regarding platform operators), any other form of sublicensing of such Streamed Work by the Licensor to third parties for their independent use is not permitted by this license without the Licensee's separate approval.
 
 e. Terms Applicable to Streamed Work Provided Under Grant-Back:  
 When the Licensee grants back the license to the Licensee's Streamed Work to the Licensor under this Section 4, the following terms also apply to that specific grant:
