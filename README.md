@@ -35,7 +35,7 @@ Please choose the version that best suits your needs. For most current uses, the
 
 ## Licensing of Repository Content
 
-* **License Template Texts (e.g., `VOD_REACTION_LICENSE.md`):** The distribution and modification terms for the VOD Reaction License *template text itself* are specified within Section 11 of each version of the license template document. Generally, this allows for verbatim copying and modification only of designated placeholders if you wish to use the "VOD Reaction License Version X.Y" name.
+* **License Template Texts (e.g., `VOD_REACTION_LICENSE.md`):** The terms for distributing and modifying the "VOD Reaction License" *template text itself* are detailed within each specific version of the license template document (look for a section typically titled "Distribution and Modification of This License Document" or similar). These terms generally permit verbatim copying and allow modification only of designated placeholders if you wish to use the official "VOD Reaction License Version X.Y" name for your adapted license.
 * **Guide Documents and Other General Project Files:** Unless otherwise specified, this top-level README.md, the Adopter's Guides, and the Licensee Guide templates within this repository are made available under the **Creative Commons Attribution-ShareAlike 4.0 International Public License (CC BY-SA 4.0)**. You are free to share and adapt these specific guide documents for your own purposes, provided you adhere to the terms of the CC BY-SA 4.0 license.
 
 ## Important Disclaimers (From Naoki Shibata, Project Originator)
@@ -47,4 +47,4 @@ Please choose the version that best suits your needs. For most current uses, the
 
 ## Feedback and Contributions to the Project
 
-We welcome feedback on this VOD Reaction License model and its accompanying documentation. If you have suggestions for improvements, ideas for future versions, or questions, please `[Specify how you'd like to receive feedback, e.g., "open an Issue in this GitHub repository," "contact Naoki Shibata via shibatch@users.sourceforge.net," etc.]`.
+We welcome feedback on this VOD Reaction License model and its accompanying documentation. If you have suggestions for improvements, ideas for future versions, or questions, please use the **Discussions** tab in this GitHub repository to share your thoughts.
