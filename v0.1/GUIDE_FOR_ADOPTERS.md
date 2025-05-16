@@ -18,7 +18,7 @@ If you wish to use this license model for your VODs, you will be offering your o
 
 Step 2.1: Obtain the License Template Text
 
-* You can find the master text for the "VOD Reaction License Version 0.1" template here: [https://github.com/shibatch/grantback/blob/main/VOD\_REACTION\_LICENSE\_V0.1.md](https://github.com/shibatch/grantback/blob/main/VOD_REACTION_LICENSE_V0.1.md)
+* You can find the master text for the "VOD Reaction License Version 0.1" template here: [VOD\_REACTION\_LICENSE.md](VOD_REACTION_LICENSE.md)
 
 Step 2.2: Customize the Placeholders in Your Copy
 
@@ -34,7 +34,7 @@ Step 2.3: Customize and Host Your License Documents Publicly
 
 * Your Customized License Text: The license text you customized in Step 2.2 is your core legal document.  
 * Your Customized "Usage Guide for Licensees": It is highly recommended to also provide a user-friendly guide for your community to explain how they can reuse your VODs.  
-  * Obtain the GUIDE\_FOR\_LICENSEES.md template (available in the same repository as the License Template, or from [https://github.com/shibatch/grantback/blob/main/GUIDE\_FOR\_LICENSEES\_V0.1.md](https://github.com/shibatch/grantback/blob/main/GUIDE_FOR_LICENSEES_V0.1.md)).  
+  * Obtain the GUIDE\_FOR\_LICENSEES.md template (available in the same repository as the License Template, or from [GUIDE\_FOR\_LICENSEES.md](GUIDE_FOR_LICENSEES.md)).  
   * Customize this guide: Fill in its placeholders (e.g., \[Licensor's Primary Channel Name\], \[Link to Your Full License Text\], your preferred notification methods for Step 2.5 of that guide, your contact details for questions).  
   * You may also modify other content within this "Usage Guide for Licensees" template to better suit your community's tone and your specific operational details, as long as it accurately reflects and does not contradict the terms of *your customized* VOD Reaction License.  
 * Host Both Documents: Publish *your customized version* of the "VOD Reaction License Version 0.1" text AND *your customized version* of the "Usage Guide for Licensees" where they are publicly accessible via stable links (e.g., your own GitHub repository, a personal website, or separate GitHub Gists).
@@ -112,7 +112,7 @@ As the Licensor of your VODs under your instance of the VOD Reaction License, yo
 
 6\. Using and Modifying This License Template
 
-The "VOD Reaction License Version 0.1" text template (which you can find at [https://github.com/shibatch/grantback/blob/main/VOD\_REACTION\_LICENSE\_V0.1.md](https://github.com/shibatch/grantback/blob/main/VOD_REACTION_LICENSE_V0.1.md)) is provided to help you establish a clear framework for VOD reuse for your channel.  
+The "VOD Reaction License Version 0.1" text template (which you can find at [VOD\_REACTION\_LICENSE.md](VOD_REACTION_LICENSE.md)) is provided to help you establish a clear framework for VOD reuse for your channel.  
 Please refer to Section 11 ("Distribution and Modification of This License Document") of the License Template itself for the precise terms under which you may copy, distribute, and modify the template text. In summary, those terms allow you to:
 
 * Copy and Distribute Verbatim: You are permitted to copy and distribute verbatim copies of the License Template document.  

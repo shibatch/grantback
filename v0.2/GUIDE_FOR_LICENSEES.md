@@ -2,7 +2,7 @@ Reusing VODs from **\[Licensor's Primary Channel Name\]** under the VOD Reaction
 
 1\. Introduction: Welcome\!
 
-This guide explains the main steps and important points for reusing VODs (past stream recordings) from **\[Licensor's Primary Channel Name\]** (hereinafter "Licensor," "we," or "us") to create and publish new content (hereinafter "Streamed Work") under our "VOD Reaction License Version 0.1.1" (hereinafter "the License").
+This guide explains the main steps and important points for reusing VODs (past stream recordings) from **\[Licensor's Primary Channel Name\]** (hereinafter "Licensor," "we," or "us") to create and publish new content (hereinafter "Streamed Work") under our "VOD Reaction License Version 0.2" (hereinafter "the License").
 
 The purpose of our License is to enable you, fellow creators (hereinafter "Licensee" or "You"), to use our VODs to create new videos, particularly reaction content, on the "Permitted Platforms" (as defined in the full License text provided by **\[Licensor's Primary Channel Name\]**), and to foster creative and constructive interaction within our shared community.
 
@@ -86,5 +86,5 @@ If you have any questions about this License or guide, please contact us:
 
 5\. Legal Disclaimer
 
-This guide is intended to help understand the "VOD Reaction License Version 0.1.1" and does not replace or modify the terms of the full License text. For legal interpretation, always refer to the full License text. This guide and the License do not constitute legal advice. If you have legal questions, please consult a legal professional.
+This guide is intended to help understand the "VOD Reaction License Version 0.2" and does not replace or modify the terms of the full License text. For legal interpretation, always refer to the full License text. This guide and the License do not constitute legal advice. If you have legal questions, please consult a legal professional.
 

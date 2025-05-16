@@ -1,4 +1,4 @@
-VOD Reaction License Version 0.1.1
+VOD Reaction License Version 0.2
 
 This license defines the terms and conditions for the reuse of recordings of past public live streams (hereinafter "VODs") from the content creation channel "**\[Licensor's Primary Channel Name\]**" (hereinafter "Licensor"). This license is designed for creators who wish to allow community reuse of their content on designated public video sharing and streaming platforms. Our goal is to enable community members to create new and interesting content while ensuring proper attribution and allowing the Licensor to share in the community's creativity.
 
@@ -90,10 +90,10 @@ If any provision of this license is held to be unenforceable or invalid, such pr
 
 11\. Distribution and Modification of This License Document 
 
-This document is the "VOD Reaction License Version 0.1.1" (hereinafter "the License Template"). The authoritative source for this License Template and accompanying guides can be found at: [https://github.com/shibatch/grantback](https://github.com/shibatch/grantback)
+This document is the "VOD Reaction License Version 0.2" (hereinafter "the License Template"). The authoritative source for this License Template and accompanying guides can be found at: [https://github.com/shibatch/grantback](https://github.com/shibatch/grantback)
 
 Permission is granted to copy and distribute verbatim copies of this license document. You (meaning anyone wishing to adopt this license template for their own VODs) may modify this license document solely by accurately replacing the content within the clearly designated placeholder sections (typically marked with \[square brackets and placeholder text\], such as \[Licensor's Primary Channel Name\], \[Year\], \[Licensor's Name or Channel Name / Operator\], and \[Licensor's Designated Channel Name for Attribution\]) with your own specific information to create your instance of this license. Such modification of placeholder content is necessary to adapt this license template for your use as a Licensor.
 
-Changing any other part of the core legal terms of this document is not permitted if you wish to distribute your version or refer to it as the "VOD Reaction License Version 0.1.1" or any confusingly similar name. If you create a modified version by altering the core legal terms (beyond the designated placeholders), that version constitutes a new and distinct license, and you may not represent it as being this "VOD Reaction License Version 0.1.1".
+Changing any other part of the core legal terms of this document is not permitted if you wish to distribute your version or refer to it as the "VOD Reaction License Version 0.2" or any confusingly similar name. If you create a modified version by altering the core legal terms (beyond the designated placeholders), that version constitutes a new and distinct license, and you may not represent it as being this "VOD Reaction License Version 0.2".
 
 This permission applies only to the text of this license document itself and does not grant any rights to VODs or Streamed Works, which are governed solely by the terms an implementing Licensor offers through their specific instance of this license.  

@@ -2,7 +2,7 @@ Guide for Streamers: Adopting and Using the VOD Reaction License Template
 
 1\. Introduction: What is the VOD Reaction License and Why Use It?
 
-Welcome\! This guide is for streamers interested in using the "VOD Reaction License Version 0.1.1" template (hereinafter "the License Template") to license their own VODs (past public live stream recordings) for reuse by their community.  
+Welcome\! This guide is for streamers interested in using the "VOD Reaction License Version 0.2" template (hereinafter "the License Template") to license their own VODs (past public live stream recordings) for reuse by their community.  
 The VOD Reaction License model is designed to foster a more interactive and collaborative streaming community. Its core purposes and benefits include:
 
 * Encouraging Community Content: By clearly stating terms for reuse, you make it easier for viewers and other creators to make reaction content, compilations, reviews, or other derivative works ("Streamed Works") using your VODs.  
@@ -10,7 +10,7 @@ The VOD Reaction License model is designed to foster a more interactive and coll
 * Facilitating Dialogue (The Grant-Back Feature): A key feature is the "grant-back" clause. When someone creates a Streamed Work from your VODs, they grant you a license to reuse *their* Streamed Work. This allows you to "react to their reaction," engage directly with community content, or address any points raised.  
 * Maintaining Some Control: The license restricts reuse to specific platforms (Twitch and YouTube by default) and requires clear attribution to your original VODs, helping you manage how your content is shared and acknowledged.
 
-This License Template is a custom-designed license. We believe it offers a unique way to engage with your community. It's important to understand its terms and how to implement it correctly for your channel. The text of this License Template itself is offered with specific permissions regarding its copying and modification: you can copy and distribute it, and you can adapt it for your own use by filling in the designated placeholders. However, to maintain consistency for the "VOD Reaction License Version 0.1.1" model, modifications to the core legal terms (beyond placeholders) mean your version should be considered a new, distinct license. Full details on how you can use and adapt the license template text are provided in Section 11 of the License Template document itself, and further explained in Section 6 of this guide.
+This License Template is a custom-designed license. We believe it offers a unique way to engage with your community. It's important to understand its terms and how to implement it correctly for your channel. The text of this License Template itself is offered with specific permissions regarding its copying and modification: you can copy and distribute it, and you can adapt it for your own use by filling in the designated placeholders. However, to maintain consistency for the "VOD Reaction License Version 0.2" model, modifications to the core legal terms (beyond placeholders) mean your version should be considered a new, distinct license. Full details on how you can use and adapt the license template text are provided in Section 11 of the License Template document itself, and further explained in Section 6 of this guide.
 
 2\. How to Adopt This License for Your Channel: Step-by-Step
 
@@ -18,7 +18,7 @@ If you wish to use this license model for your VODs, you will be offering your o
 
 Step 2.1: Obtain the License Template Text
 
-* You can find the master text for the "VOD Reaction License Version 0.1.1" template here: [https://github.com/shibatch/grantback/blob/main/VOD\_REACTION\_LICENSE\_V0.1.1.md](https://github.com/shibatch/grantback/blob/main/VOD_REACTION_LICENSE_V0.1.1.md)
+* You can find the master text for the "VOD Reaction License Version 0.2" template here: [VOD\_REACTION\_LICENSE.md](VOD_REACTION_LICENSE.md)
 
 Step 2.2: Customize the Placeholders in Your Copy
 
@@ -26,7 +26,7 @@ Step 2.2: Customize the Placeholders in Your Copy
 * Carefully find and replace all bracketed placeholders \[...\] with your own specific information. These include:  
   * \[Licensor's Primary Channel Name\]: Your main channel name (e.g., "YourStreamChannel"). This will appear in the Preamble, Definition 1.a, and Section 11 (of the VOD Reaction License text, referring to "Distribution and Modification of This License Document").  
   * \[Year\] and \[Licensor's Name or Channel Name / Operator\] (in the Copyright notice section of the License Template): The current year and your legal name, channel name, or operating entity name.  
-    * (A Note on Your Copyright Line): The format Copyright (c) \[Year\] \[Your Name/Entity\] is common. For content like your VODs, you might also choose to state, for example: "Copyright (c) \[Year\] \[Your Channel Name\]. My VODs under this license are offered via the VOD Reaction License Version 0.1.1." The phrase "All rights reserved." (often seen with software) is generally optional for content, as your rights are reserved by copyright law anyway, and Section 5 of the License Template ("Reservation of Rights") already clarifies this. Select a style that you are comfortable with for your channel.  
+    * (A Note on Your Copyright Line): The format Copyright (c) \[Year\] \[Your Name/Entity\] is common. For content like your VODs, you might also choose to state, for example: "Copyright (c) \[Year\] \[Your Channel Name\]. My VODs under this license are offered via the VOD Reaction License Version 0.2." The phrase "All rights reserved." (often seen with software) is generally optional for content, as your rights are reserved by copyright law anyway, and Section 5 of the License Template ("Reservation of Rights") already clarifies this. Select a style that you are comfortable with for your channel.  
   * \[Licensor's Designated Channel Name for Attribution\] (in Definition 1.f and Section 3.b of the License Template): The specific channel name you want *your* Licensees (your VOD reusers) to credit when they use your VODs.  
   * Important Considerations When Choosing/Adding Permitted Platforms:  
     * Original Context of the License Template: This License Template was primarily written with Twitch and YouTube in mind as common distribution platforms for Streamed Works, due to their widespread use and features.  
@@ -40,32 +40,32 @@ Step 2.2: Customize the Placeholders in Your Copy
         * The chosen platform's own Terms of Service must not conflict with the rights granted or obligations imposed by your VOD Reaction License.  
         * If a platform's ToS would prevent or fundamentally contradict how this license is meant to work, that platform should not be listed by you as a Permitted Platform.  
     * Guidance if Unsure: If you are unsure about a platform's suitability regarding these points, it is advisable to conduct thorough research, seek advice if necessary, or limit your Permitted Platforms to those you are confident are compatible (such as Twitch and YouTube).  
-* Important: Ensure all bracketed placeholders \[...\] are correctly and consistently updated with *your* specific information. This customized text will become *your* license that *you* offer to your community. To use the name "VOD Reaction License Version 0.1.1" for your license, please modify only the content within these placeholders. For guidance on making other types of changes, or if this template doesn't precisely fit your needs, please refer to Section 6 of this guide ("Using and Modifying This License Template").
+* Important: Ensure all bracketed placeholders \[...\] are correctly and consistently updated with *your* specific information. This customized text will become *your* license that *you* offer to your community. To use the name "VOD Reaction License Version 0.2" for your license, please modify only the content within these placeholders. For guidance on making other types of changes, or if this template doesn't precisely fit your needs, please refer to Section 6 of this guide ("Using and Modifying This License Template").
 
 Step 2.3: Customize and Host Your License Documents Publicly
 
 * Your Customized License Text: The license text you customized in Step 2.2 is your core legal document.  
 * Your Customized "Usage Guide for Licensees": It is highly recommended to also provide a user-friendly guide for your community to explain how they can reuse your VODs.  
-  * Obtain the GUIDE\_FOR\_LICENSEES.md template (available in the same repository as the License Template, or from [https://github.com/shibatch/grantback/blob/main/GUIDE\_FOR\_LICENSEES\_V0.1.1.md](https://github.com/shibatch/grantback/blob/main/GUIDE_FOR_LICENSEES_V0.1.1.md)).  
+  * Obtain the GUIDE\_FOR\_LICENSEES.md template (available in the same repository as the License Template, or from [GUIDE\_FOR\_LICENSEES.md](GUIDE_FOR_LICENSEES.md)).  
   * Customize this guide: Fill in its placeholders (e.g., \[Licensor's Primary Channel Name\], \[Link to Your Full License Text\], your preferred notification methods for Step 2.5 of that guide, your contact details for questions).  
   * You may also modify other content within this "Usage Guide for Licensees" template to better suit your community's tone and your specific operational details, as long as it accurately reflects and does not contradict the terms of *your customized* VOD Reaction License.  
-* Host Both Documents: Publish *your customized version* of the "VOD Reaction License Version 0.1.1" text AND *your customized version* of the "Usage Guide for Licensees" where they are publicly accessible via stable links (e.g., your own GitHub repository, a personal website, or separate GitHub Gists).
+* Host Both Documents: Publish *your customized version* of the "VOD Reaction License Version 0.2" text AND *your customized version* of the "Usage Guide for Licensees" where they are publicly accessible via stable links (e.g., your own GitHub repository, a personal website, or separate GitHub Gists).
 
 Step 2.4: Inform Your Community and Indicate Licensed VODs
 
-* General Announcement: Clearly state on your channel(s) (e.g., in your Twitch "About" section, YouTube channel description, or a pinned "Licensing Information" post) that you offer some or all of your VODs for reuse under *your instance* of the "VOD Reaction License Version 0.1.1."  
+* General Announcement: Clearly state on your channel(s) (e.g., in your Twitch "About" section, YouTube channel description, or a pinned "Licensing Information" post) that you offer some or all of your VODs for reuse under *your instance* of the "VOD Reaction License Version 0.2."  
   * Provide a direct link to your hosted version of the customized license text.  
   * Also, provide a direct link to your hosted version of the customized "Usage Guide for Licensees."  
 * Per-VOD Indication (Highly Recommended): To provide maximum clarity for your viewers and potential Licensees, it is highly recommended that for each VOD you publish:  
   * Include your standard copyright notice (e.g., "© \[Your Year\] \[Your Channel Name\]").  
   * Clearly indicate its licensing status directly in the video's description, as an on-screen graphic (e.g., at the end of the video), or in a pinned comment. Examples:  
-    * For VODs offered under this license: "This VOD is available for reuse under the VOD Reaction License Version 0.1.1. Full license terms: \[Link to Your Hosted License Text\]. Usage Guide: \[Link to Your Hosted Licensee Guide\]"  
+    * For VODs offered under this license: "This VOD is available for reuse under the VOD Reaction License Version 0.2. Full license terms: \[Link to Your Hosted License Text\]. Usage Guide: \[Link to Your Hosted Licensee Guide\]"  
     * For VODs NOT offered under this license: "© \[Your Year\] \[Your Channel Name\]. All rights reserved. This VOD is not available for reuse under the VOD Reaction License."  
   * This practice helps avoid confusion and ensures reusers know exactly which of your content they can use under your specific terms and how to do so.
 
 3\. Important Considerations for You (as an Adopting Licensor)
 
-When you choose to adopt and implement your version of the "VOD Reaction License Version 0.1.1" for your channel's VODs, please keep these key points in mind:
+When you choose to adopt and implement your version of the "VOD Reaction License Version 0.2" for your channel's VODs, please keep these key points in mind:
 
 * You Are the Licensor:  
   By customizing and publishing this license text for your VODs, you become the "Licensor" in the agreement between you and anyone who reuses your VODs under its terms. The original author of this License Template is not a party to your agreements. You are solely responsible for offering this license and its application to your content.  
@@ -138,16 +138,16 @@ As the Licensor of your VODs under your instance of the VOD Reaction License, yo
 
 6\. Using and Modifying This License Template
 
-The "VOD Reaction License Version 0.1.1" text template (which you can find at [https://github.com/shibatch/grantback/blob/main/VOD\_REACTION\_LICENSE\_V0.1.1.md](https://github.com/shibatch/grantback/blob/main/VOD_REACTION_LICENSE_V0.1.1.md)) is provided to help you establish a clear framework for VOD reuse for your channel.  
+The "VOD Reaction License Version 0.2" text template (which you can find at [VOD\_REACTION\_LICENSE.md](VOD_REACTION_LICENSE.md)) is provided to help you establish a clear framework for VOD reuse for your channel.  
 Please refer to Section 11 ("Distribution and Modification of This License Document") of the License Template itself for the precise terms under which you may copy, distribute, and modify the template text. In summary, those terms allow you to:
 
 * Copy and Distribute Verbatim: You are permitted to copy and distribute verbatim copies of the License Template document.  
-* Adapt by Filling Placeholders: To create *your instance* of the "VOD Reaction License Version 0.1.1" for your VODs, you must modify the template only by accurately filling in the clearly designated placeholder sections (e.g., \[Licensor's Primary Channel Name\], \[Your Year\], \[Licensor's Designated Channel Name for Attribution\], etc.) with your specific information. No other changes to the core legal clauses are permitted if you wish to call your license the "VOD Reaction License Version 0.1.1" or a confusingly similar name.  
-* Creating a New, Different License: If you wish to modify the core legal terms of the License Template (beyond the designated placeholders), the resulting document will be a new and distinct license. In such a case, you must not call your modified license the "VOD Reaction License Version 0.1.1" or use any name that could cause confusion with it. You should give your new license a unique name.
+* Adapt by Filling Placeholders: To create *your instance* of the "VOD Reaction License Version 0.2" for your VODs, you must modify the template only by accurately filling in the clearly designated placeholder sections (e.g., \[Licensor's Primary Channel Name\], \[Your Year\], \[Licensor's Designated Channel Name for Attribution\], etc.) with your specific information. No other changes to the core legal clauses are permitted if you wish to call your license the "VOD Reaction License Version 0.2" or a confusingly similar name.  
+* Creating a New, Different License: If you wish to modify the core legal terms of the License Template (beyond the designated placeholders), the resulting document will be a new and distinct license. In such a case, you must not call your modified license the "VOD Reaction License Version 0.2" or use any name that could cause confusion with it. You should give your new license a unique name.
 
-This approach to the License Template text is designed to ensure that any license publicly identified as a "VOD Reaction License Version 0.1.1" maintains a consistent set of core terms, which benefits both Licensors and Licensees by providing predictability and clarity across the community.  
+This approach to the License Template text is designed to ensure that any license publicly identified as a "VOD Reaction License Version 0.2" maintains a consistent set of core terms, which benefits both Licensors and Licensees by providing predictability and clarity across the community.  
 The accompanying guide documents in this repository (like this "Guide for Streamers Adopting..." and the GUIDE\_FOR\_LICENSEES.md template, if provided by the original template author) are typically offered under a more permissive license like Creative Commons CC BY-SA 4.0, allowing you to adapt them for your own community (with attribution and by sharing your adaptations under similar terms). Check the specific licensing for guide documents in the repository where you obtained this template.
 
 7\. Disclaimer from the Author of this Template
 
-This "VOD Reaction License Version 0.1.1" template and this accompanying guide are provided "AS-IS," without any warranties of any kind. The author of this template ([Naoki Shibata](https://github.com/shibatch)) is not providing legal advice. You are solely responsible for your use and implementation of any license based on this template and for ensuring its suitability for your specific needs and legal context.  
+This "VOD Reaction License Version 0.2" template and this accompanying guide are provided "AS-IS," without any warranties of any kind. The author of this template ([Naoki Shibata](https://github.com/shibatch)) is not providing legal advice. You are solely responsible for your use and implementation of any license based on this template and for ensuring its suitability for your specific needs and legal context.  
