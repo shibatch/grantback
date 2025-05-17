@@ -140,7 +140,9 @@ As the Licensor of your VODs under your instance of the VOD Reaction License, yo
 
 This section covers how to handle certain situations that may arise in practice.
 
-6.1 Handling Potential Non-Compliance or Rights Issues by a Licensee The VOD Reaction License aims for clarity, but misunderstandings or mistakes can occur. Clause 8 of the License states that if a Licensee fails to comply with any condition, their rights under the License terminate automatically. This means their permission to use your VODs in their Streamed Work technically ceases.
+6.1 Handling Potential Non-Compliance or Rights Issues by a Licensee
+
+The VOD Reaction License aims for clarity, but misunderstandings or mistakes can occur. Clause 8 of the License states that if a Licensee fails to comply with any condition, their rights under the License terminate automatically. This means their permission to use your VODs in their Streamed Work technically ceases.
 
 However, this automatic termination doesn't always mean that the only option is immediate deletion of the Licensee's Streamed Work. Open communication can often lead to a resolution:
 
