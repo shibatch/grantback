@@ -129,6 +129,31 @@ However, this automatic termination doesn't always mean that the only option is 
 
 The goal is to balance the enforcement of your license terms with practical community management. Having a clear license helps set expectations, and open communication can help resolve many issues constructively.
 
+5.2 Understanding Rights in Chain Reactions or Multi-Layered Content The VOD Reaction License primarily governs the reuse of the *original Licensor's VODs*. Complex situations can arise when reactions are made to reactions, involving multiple creators' rights. Consider this scenario:
+
+* Scenario:  
+  * Streamer A (Original Licensor) publishes their VOD 'v' under their VOD Reaction License.  
+  * Streamer B creates a reaction video 'w' using Streamer A's VOD 'v'. Under the terms, Streamer B grants back to Streamer A a license to reuse 'w'.  
+  * Streamer A then creates a new video 'x' (e.g., "reacting to Streamer B's reaction"), which incorporates parts of Streamer B's video 'w' (Streamer A is using their grant-back right).  
+* Now, what if Streamer C (an unrelated third streamer) wants to react to Streamer A's video 'x' to create their own video 'y'?
+
+* Analysis of Rights:
+
+  * Streamer A's video 'x' contains:  
+    * Original content from Streamer A (Streamer A's new reaction commentary, excerpts of Streamer A's original VOD 'v').  
+    * Original content from Streamer B (Streamer B's commentary and original contributions from video 'w').  
+  * The VOD Reaction License that Streamer A offers for Streamer A's original VODs (like 'v') does not automatically grant Streamer C the right to reuse the portions of video 'x' that contain *Streamer B's copyrighted material* (from 'w'). Streamer A cannot license out rights Streamer A does not own or have specific sublicensing authority for beyond Streamer A's own use under the grant-back from Streamer B.  
+  * Therefore, Streamer C would typically need to secure permission directly from Streamer B to reuse the parts of video 'x' that originate from Streamer B's video 'w', *unless Streamer B has also offered their video 'w' under its own separate VOD Reaction License or another permissive license.*  
+* If Streamer B Also Uses a VOD Reaction License for Their Work 'w':  
+  * If Streamer B had published *their* video 'w' under their own instance of the VOD Reaction License (or a similarly permissive license), then Streamer C *could* potentially reuse the "Streamer B" portions of video 'x' under the terms of *Streamer B's license for 'w'*.  
+  * In such a case, if Streamer C creates video 'y' (reacting to Streamer A's 'x'):  
+    * Streamer C would need to comply with Streamer A's VOD Reaction License for the parts of 'x' that are Streamer A's content (attributing Streamer A, and granting back rights to 'y' to Streamer A for Streamer A's portions).  
+    * Streamer C would *also* need to comply with Streamer B's VOD Reaction License for the parts of 'x' that are Streamer B's content (attributing Streamer B, and granting back rights to 'y' to Streamer B for Streamer B's portions).  
+    * This means Streamer C, by creating 'y', might be granting back rights to *both* Streamer A and Streamer B concerning their respective contributions to the material Streamer C reused.  
+* Overarching Principle: All of this assumes that any *other* third-party materials (e.g., music, clips not from Streamer A or Streamer B) within any of these videos (v, w, x, y) have been properly cleared by their respective creators for the uses involved. The VOD Reaction License primarily addresses the reuse of the Licensor's own contributions.
+
+* Guidance for You (as an Adopting Licensor, similar to Streamer A in this scenario): When you create content like video 'x' (reacting to a reaction that used your VODs), it's good practice to be clear in your video 'x' description about the rights involved. You might state: *"My original commentary and reuse of my VOD 'v' in this video are covered by my VOD Reaction License. For reuse of Streamer B's content featured herein (from their video 'w'), please refer to Streamer B's channel for their licensing terms regarding video 'w'."* This helps guide potential reusers like Streamer C.
+
 6\. Managing or Discontinuing Your License Offer
 
 As the Licensor of your VODs under your instance of the VOD Reaction License, you have the flexibility to decide which of your VODs are offered under these terms and when you might choose to discontinue offering these terms for future reuses of your VODs. To maintain clarity with your community, continuously and clearly indicating the applicable license status (e.g., "VOD Reaction License applies" or "All Rights Reserved") on a per-VOD basis (such as in video descriptions) is highly desirable, especially when you are making changes to your licensing approach or managing a mix of licensed and unlicensed VODs.
