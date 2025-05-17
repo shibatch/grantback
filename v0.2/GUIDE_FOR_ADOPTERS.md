@@ -83,7 +83,7 @@ A Note on Complexity: While these considerations about third-party content might
 * Final Important Notes:  
   This License Template is experimental and provided as a starting point. You are solely responsible for the license you implement. It is strongly recommended to have your customized license reviewed by legal counsel to ensure it meets your specific needs and legal context before offering it to your community.
 
-4\. A Licensee Reused Your VOD Under Your License: What Next?
+4\. A Licensee Reused Your VOD Under Your License: Initial Steps
 
 So, a member of your community has created a Streamed Work using your VOD under your VOD Reaction License and (as per Clause 3.c of the license you offer) has notified you. Here’s what you might do:
 
@@ -110,7 +110,26 @@ So, a member of your community has created a Streamed Work using your VOD under 
   * The license states that the Licensee is responsible for ensuring they have the rights to any third-party content they included in their Streamed Work, such that you (the Licensor) can also reuse it under the grant-back.  
   * If you notice third-party content in their Streamed Work that you are unsure about (e.g., popular copyrighted music), it's wise to be cautious. You might choose to only use segments of their Streamed Work that are clearly their original reaction and your VOD, or discuss with the Licensee if you have concerns. The license (Clause 4.e.iv) provides a basis for this, as they agree to help identify or remove/replace problematic content if requested.
 
-5\. Managing or Discontinuing Your License Offer
+5\. Addressing Specific Scenarios and Potential Issues
+
+This section covers how to handle certain situations that may arise in practice.
+
+5.1 Handling Potential Non-Compliance or Rights Issues by a Licensee The VOD Reaction License aims for clarity, but misunderstandings or mistakes can occur. Clause 8 of the License states that if a Licensee fails to comply with any condition, their rights under the License terminate automatically. This means their permission to use your VODs in their Streamed Work technically ceases.
+
+However, this automatic termination doesn't always mean that the only option is immediate deletion of the Licensee's Streamed Work. Open communication can often lead to a resolution:
+
+* Identify the Issue: If you (the Licensor) become aware of a Streamed Work that appears to violate the terms of your VOD Reaction License (e.g., improper attribution, use of uncleared third-party content by the Licensee that affects your grant-back rights as per Clause 4.e.iv, publication on a non-Permitted Platform), the first step is to verify the issue.  
+* Communicate with the Licensee: Reach out to the Licensee. Explain your concern clearly and politely. Often, non-compliance might be due to a misunderstanding rather than malicious intent.  
+* Possible Resolutions (Beyond Automatic Termination and Takedown):  
+  * Correction by Licensee: The Licensee might be able to correct the issue (e.g., fix attribution, re-edit to remove or replace problematic third-party content they added, move the content to a Permitted Platform). If they do so promptly to your satisfaction, you might, at your discretion, choose to consider the matter resolved and allow continued publication. This is often the simplest path.  
+  * New, Separate Agreement or Understanding: Even if the original VOD Reaction License technically terminated due to the breach, alternative arrangements might be possible:  
+    * For Corrected or Partially Used Content: If the Licensee corrects their Streamed Work (e.g., by removing the problematic third-party content), you and the Licensee can reach a new, separate understanding or grant specific permission for that corrected version to remain public. Similarly, you might agree that only certain "clean" portions of the original Streamed Work can continue to be used or be re-edited for publication under a new understanding. This new understanding would operate outside the terms of the original VOD Reaction License that was breached.  
+    * For Continued Use of Content with Uncleared Third-Party Materials (Requires Consent from *All* Relevant Rights Holders): If the breach involved the Licensee including third-party copyrighted material (e.g., music, video clips not originating from your VODs) for which they did not secure the necessary rights to grant back to you for your reuse, and if the desire is for the Streamed Work to remain available *with that third-party material still included*, then any new agreement or permission would require the explicit consent not only from You (the Licensor) and the Licensee, but critically, also from the original copyright holder(s) of that embedded third-party material. Simply agreeing between You and the Licensee is insufficient if third-party rights are involved and those rights holders have not authorized the continued use by both the Licensee and potentially You (if you reuse the Streamed Work). Securing these permissions can be complex and may require direct licensing from those third-party copyright holders.  
+* Your Discretion: As the Licensor, the decision on how to handle non-compliance ultimately rests with you. While the license provides for automatic termination for a breach, fostering a positive and collaborative community often involves dialogue and giving creators a reasonable chance to rectify mistakes where appropriate. However, for serious, repeated, or bad-faith breaches, relying on the termination clause and requesting removal of the content might be necessary to protect your rights and the integrity of your licensing approach.
+
+The goal is to balance the enforcement of your license terms with practical community management. Having a clear license helps set expectations, and open communication can help resolve many issues constructively.
+
+6\. Managing or Discontinuing Your License Offer
 
 As the Licensor of your VODs under your instance of the VOD Reaction License, you have the flexibility to decide which of your VODs are offered under these terms and when you might choose to discontinue offering these terms for future reuses of your VODs. To maintain clarity with your community, continuously and clearly indicating the applicable license status (e.g., "VOD Reaction License applies" or "All Rights Reserved") on a per-VOD basis (such as in video descriptions) is highly desirable, especially when you are making changes to your licensing approach or managing a mix of licensed and unlicensed VODs.
 
@@ -136,7 +155,7 @@ As the Licensor of your VODs under your instance of the VOD Reaction License, yo
   * Keep a personal record of when you started offering VODs under this license and the exact terms (including specific placeholder values and a copy of the license text) you offered at various times. If you make changes to placeholder values or discontinue the offer, record when those changes were made effective.  
   * The VOD Reaction License is designed to foster positive community interaction. Being clear, transparent, and fair in how you manage your license offer and any changes to it is fundamental to supporting that spirit. Always prioritize clear communication with your community regarding your licensing decisions.
 
-6\. Using and Modifying This License Template
+7\. Using and Modifying This License Template
 
 The "VOD Reaction License Version 0.2" text template (which you can find at [VOD\_REACTION\_LICENSE.md](VOD_REACTION_LICENSE.md)) is provided to help you establish a clear framework for VOD reuse for your channel.  
 Please refer to Section 11 ("Distribution and Modification of This License Document") of the License Template itself for the precise terms under which you may copy, distribute, and modify the template text. In summary, those terms allow you to:
@@ -148,6 +167,6 @@ Please refer to Section 11 ("Distribution and Modification of This License Docum
 This approach to the License Template text is designed to ensure that any license publicly identified as a "VOD Reaction License Version 0.2" maintains a consistent set of core terms, which benefits both Licensors and Licensees by providing predictability and clarity across the community.  
 The accompanying guide documents in this repository (like this "Guide for Streamers Adopting..." and the GUIDE\_FOR\_LICENSEES.md template, if provided by the original template author) are typically offered under a more permissive license like Creative Commons CC BY-SA 4.0, allowing you to adapt them for your own community (with attribution and by sharing your adaptations under similar terms). Check the specific licensing for guide documents in the repository where you obtained this template.
 
-7\. Disclaimer from the Author of this Template
+8\. Disclaimer from the Author of this Template
 
 This "VOD Reaction License Version 0.2" template and this accompanying guide are provided "AS-IS," without any warranties of any kind. The author of this template ([Naoki Shibata](https://github.com/shibatch)) is not providing legal advice. You are solely responsible for your use and implementation of any license based on this template and for ensuring its suitability for your specific needs and legal context.  
