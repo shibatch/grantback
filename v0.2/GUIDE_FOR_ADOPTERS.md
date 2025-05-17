@@ -164,7 +164,7 @@ The VOD Reaction License primarily governs the reuse of the *original Licensor's
 * Scenario:  
   * Streamer A (Original Licensor) publishes their VOD 'v' under their VOD Reaction License.  
   * Streamer B creates a reaction video 'w' using Streamer A's VOD 'v'. Under the terms, Streamer B grants back to Streamer A a license to reuse 'w'.  
-  * Streamer A then creates a new video 'x' (e.g., "reacting to Streamer B's reaction"), which incorporates parts of Streamer B's video 'w' (Streamer A is using their grant-back right).  
+  * Streamer A then creates a new video 'x' (e.g., "reacting to Streamer B's reaction"), which incorporates parts of Streamer B's video 'w'. Crucially, let's assume Streamer A also publishes this new video 'x' under Streamer A's VOD Reaction License.
 
 * Now, what if Streamer C (an unrelated third streamer) wants to react to Streamer A's video 'x' to create their own video 'y'?
 
