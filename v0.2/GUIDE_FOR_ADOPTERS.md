@@ -100,11 +100,11 @@ So, a member of your community has created a Streamed Work using your VOD under 
 
 #### Step 4.3: Consider Using Your Grant-Back Rights (Clause 4 of your license)
 
-  * Remember, the license grants you (the Licensor) rights to reuse their Streamed Work.  
-  * You could:  
-    * Feature their Streamed Work on your own stream or in a video.  
+  * Remember, the license grants the Licensor rights to reuse the Licensee's Streamed Work.
+  * The Licensor could:  
+    * Feature the Streamed Work on the Licensor's own stream or in a video. (Under the grant-back, this use is generally intended for the Licensor's own channels on the Permitted Platforms. Publishing primarily on a collaborator's channel, rather than the Licensor's own, has further conditions outlined in Clause 4.c of the license.)
     * Create a "reacting to reactions" segment.  
-    * Use clips from their Streamed Work in a compilation or highlights reel.  
+    * Use clips from the Streamed Work in a compilation or highlights reel.
 
 #### Step 4.4: If You Reuse Their Streamed Work \- Your Obligations to Them
 
