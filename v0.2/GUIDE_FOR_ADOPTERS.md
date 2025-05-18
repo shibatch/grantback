@@ -173,7 +173,24 @@ The VOD Reaction License is built on reciprocity. Just as Licensees must adhere 
 * Maintaining Trust and Reciprocity:  
   * It's vital for the Licensor to diligently follow the grant-back terms. This upholds the fairness and mutual respect central to the VOD Reaction License model. Mistakes can happen, but promptly correcting any oversight (e.g., by adding missing attribution and acknowledging the error) is important for maintaining a positive relationship with community creators.
 
-6.3 Understanding Rights in Chain Reactions or Multi-Layered Content
+6.3 Scenario: Licensee Non-Compliance Discovered After Licensor Reuses Streamed Work
+
+A more complex situation can arise if a Licensee's non-compliance with the VOD Reaction License is discovered *after* the Licensor has already exercised their grant-back rights to reuse the Licensee's Streamed Work (e.g., by creating a "reaction to the reaction" video).
+
+* Licensee's Rights Terminate: If a Licensee's failure to comply with the conditions of the VOD Reaction License is discovered (e.g., improper attribution, publication on a non-Permitted Platform, or other breaches), the Licensee's rights to use the Licensor's VODs under that license terminate automatically, as per Clause 8 of the license.  
+* Survival of Grant-Back to Licensor: Clause 8 of the VOD Reaction License also specifies that Section 4 ("Grant-Back License for the Licensee's Streamed Works"), among others, shall survive any termination of this license. This means the license granted by the Licensee back to the Licensor for the reuse of the Streamed Work generally remains in effect.  
+* Implications for the Licensor's Content:  
+  * General Case: Because the grant-back rights survive, the Licensor is typically not required to delete or alter their own content that incorporates the (now non-compliant) Licensee's Streamed Work, provided the Licensor's use still complies with the terms of the grant-back (attribution to Licensee, platform restrictions).  
+  * Critical Exception – Third-Party Rights Issues in Licensee's Work: A significant exception occurs if the Licensee's non-compliance involved a failure to secure necessary rights for third-party content that *they* incorporated into their Streamed Work.  
+    * Clause 4.e.iv of the VOD Reaction License includes a representation and warranty from the Licensee that they have obtained all necessary rights, licenses, consents, and permissions for all content within their Streamed Work to grant the full scope of the license to the Licensor as described in Section 4, free of any encumbrances or restrictions that would prevent the Licensor's exercise of such rights.  
+    * If it turns out the Licensee breached this warranty (e.g., their Streamed Work included copyrighted music or video clips for which they didn't have sublicensable rights), then the Licensor's video, by incorporating this problematic Streamed Work, may inadvertently infringe on the rights of those third parties.  
+    * In such a scenario, the survival of the grant-back from the Licensee does not cure the underlying third-party rights issue. The Licensor would then need to:  
+      * Remove their video, or at least the portions containing the infringing third-party material originating from the Licensee's Streamed Work.  
+      * Independently secure the necessary rights or permissions from the actual third-party rights holders to continue using that content.  
+      * Potentially edit their video to remove the problematic segment.  
+    * It's important for the Licensor to be aware that relying on the Licensee's warranty (Clause 4.e.iv) carries some risk, and if a third-party rights issue emerges from the Licensee's content, the Licensor may need to take corrective action regarding their own derivative work.
+
+6.4 Understanding Rights in Chain Reactions or Multi-Layered Content
 
 The VOD Reaction License primarily governs the reuse of the *original Licensor's VODs*. Complex situations can arise when reactions are made to reactions, involving multiple creators' rights. Consider this scenario:
 
