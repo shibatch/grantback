@@ -1,4 +1,4 @@
-**VOD Reaction License \- A Community Licensing Model for Streamers**
+## VOD Reaction License \- A Community Licensing Model for Streamers
 
 This project provides a template for a custom license designed to facilitate content reuse, particularly "reaction" style content, among streamers on popular video sharing and streaming platforms such as Twitch and YouTube.
 
@@ -12,7 +12,7 @@ The "VOD Reaction License Version 0.2" is an experimental, custom license that a
 
 This License Template was originally conceived and drafted by [Naoki Shibata](https://github.com/shibatch/). The drafting and refinement process for this template and its accompanying guides involved iterative conceptual exploration and textual assistance from Google's AI model, Gemini. The final structure, terms, and intent of this license model are those of Naoki Shibata.
 
-**Why This License Model?**
+### Why This License Model?
 
 The creation of this license model was motivated by several observations and goals common in the streaming world:
 
@@ -22,7 +22,7 @@ The creation of this license model was motivated by several observations and goa
 4. Enabling Dialogue and Response: The grant-back feature ensures that the original Licensor can respond to, feature, or otherwise engage with reactions to their content, which is particularly useful for addressing misleading or bad-faith reactions and fostering a balanced conversation.  
 5. Controlled Sharing: By allowing Licensors to designate specific Permitted Platforms (such as Twitch and YouTube) for reuse, they can better manage the spread of their content beyond their desired ecosystems.
 
-**What's in This Repository?**
+### What's in This Repository?
 
 This repository contains the following key documents:
 
@@ -30,7 +30,7 @@ This repository contains the following key documents:
 * [GUIDE\_FOR\_ADOPTERS.md](GUIDE_FOR_ADOPTERS.md): A guide for streamers who wish to adopt this VOD Reaction License model for their own channel's VODs. It explains how to customize and implement the license template.
 * [GUIDE\_FOR\_LICENSEES.md](GUIDE_FOR_LICENSEES.md): A user-friendly guide for viewers and content creators who want to reuse VODs from a streamer who has adopted this license. It explains how to do so under the terms set by that streamer. (Adopting Licensors should adapt this guide for their own community).  
 
-**How to Use This License Model**
+### How to Use This License Model
 
 For Viewers/Creators (Potential Licensees of a Streamer's VODs):
 
@@ -44,7 +44,7 @@ For Streamers Wanting to Adopt This License Model for Their Own VODs (Adopting L
 4. Inform Your Community: Clearly state on your channel(s) that your designated VODs are offered under your instance of the "VOD Reaction License Version 0.2" and provide a direct link to your hosted version of the license.  
 5. Provide Guidance: It is highly recommended to also provide a version of the [GUIDE\_FOR\_LICENSEES.md](GUIDE_FOR_LICENSEES.md), customized for your channel, to help your community understand how they can reuse your content.
 
-**Licensing of These Documents**
+### Licensing of These Documents
 
 The [VOD\_REACTION\_LICENSE.md](VOD_REACTION_LICENSE.md) text template in this repository is offered with specific permissions for its use as a template:
 
@@ -54,9 +54,8 @@ The [VOD\_REACTION\_LICENSE.md](VOD_REACTION_LICENSE.md) text template in this r
 
 The accompanying guide documents ([GUIDE\_FOR\_LICENSEES.md](GUIDE_FOR_LICENSEES.md) template and [GUIDE\_FOR\_ADOPTERS.md](GUIDE_FOR_ADOPTERS.md)) in this repository remain licensed under the Creative Commons Attribution-ShareAlike 4.0 International Public License (CC BY-SA 4.0). You are free to share and adapt these guide documents for your own purposes, provided you adhere to the terms of the CC BY-SA 4.0 license.
 
-**Important Disclaimers (From Naoki Shibata, Template Author)**
+### Important Disclaimers (From Naoki Shibata, Template Author)
 
 * Experimental Model: The "VOD Reaction License" is an experimental, custom license model. Its legal effectiveness and community reception may vary.  
 * No Warranty: The license template and associated guides in this repository are provided "AS-IS," without any warranty of any kind.  
 * Not Legal Advice: The information and documents provided here by Naoki Shibata do not constitute legal advice. You are solely responsible for your use and implementation of any license based on this template. It is strongly recommended to consult with a qualified legal professional to ensure any license you adopt is suitable for your specific needs and legal context. The AI (Gemini) involved in assisting with drafting and refining these documents does not provide legal advice, and its outputs should always be reviewed for suitability and accuracy.
-
