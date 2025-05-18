@@ -27,8 +27,8 @@ The creation of this license model was motivated by several observations and goa
 This repository contains the following key documents:
 
 * [VOD\_REACTION\_LICENSE.md](VOD_REACTION_LICENSE.md): The full text of the "VOD Reaction License Version 0.2" template. This is the core legal document that adopting Licensors will customize.  
-* [GUIDE\_FOR\_LICENSEES.md](GUIDE_FOR_LICENSEES.md): A user-friendly guide for viewers and content creators who want to reuse VODs from a streamer who has adopted this license. It explains how to do so under the terms set by that streamer. (Adopting Licensors should adapt this guide for their own community).  
 * [GUIDE\_FOR\_ADOPTERS.md](GUIDE_FOR_ADOPTERS.md): A guide for streamers who wish to adopt this VOD Reaction License model for their own channel's VODs. It explains how to customize and implement the license template.
+* [GUIDE\_FOR\_LICENSEES.md](GUIDE_FOR_LICENSEES.md): A user-friendly guide for viewers and content creators who want to reuse VODs from a streamer who has adopted this license. It explains how to do so under the terms set by that streamer. (Adopting Licensors should adapt this guide for their own community).  
 
 **How to Use This License Model**
 

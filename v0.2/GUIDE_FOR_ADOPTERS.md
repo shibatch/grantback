@@ -157,7 +157,23 @@ However, this automatic termination doesn't always mean that the only option is 
 
 The goal is to balance the enforcement of your license terms with practical community management. Having a clear license helps set expectations, and open communication can help resolve many issues constructively.
 
-6.2 Understanding Rights in Chain Reactions or Multi-Layered Content
+6.2 Handling Non-Compliance by the Licensor When Reusing a Licensee's Streamed Work
+
+The VOD Reaction License is built on reciprocity. Just as Licensees must adhere to the Licensor's license terms when using the Licensor's VODs, the Licensor must also adhere to the conditions of the grant-back license (Clause 4 of the Licensor's VOD Reaction License) when the Licensor reuses a Licensee's Streamed Work. These conditions typically include restricting the Licensor's reuse to Permitted Platforms and, crucially, providing clear attribution to the Licensee.
+
+* What if the Licensor Fails to Comply?  
+  * For instance, imagine the Licensor features a Licensee's Streamed Work on the Licensor's channel but forgets to include the required attribution to them as specified in Clause 4.b of the Licensor's license.  
+* Consequences of Non-Compliance with Grant-Back Terms:  
+  * The grant-back license the Licensor received from the Licensee (under Clause 4\) is conditional upon the Licensor's adherence to its terms (e.g., attribution, platform limits).  
+  * If the Licensor fails to meet these conditions, the Licensor's reuse of the Licensee's Streamed Work is technically no longer authorized *by that grant-back license*. While the grant-back license itself might not explicitly state it "terminates" in the same way a Licensee's rights under Clause 8 do for their breaches, the Licensor's use effectively falls outside the scope of the permission granted to the Licensor. The content the Licensor publishes would be treated as if it were published outside the terms of the grant-back license.  
+  * The Licensee retains copyright in their original contributions to their Streamed Work. If the Licensor's use is non-compliant with the grant-back terms, it could be considered an unlicensed use of their content.  
+* Potential Actions by the Licensee:  
+  * The Licensee could request that the Licensor correct the non-compliance (e.g., add the missing attribution).  
+  * They might also request that the Licensor cease using their Streamed Work or remove the portions containing their original contributions if the issue is not rectified, as the Licensor's use would not be covered by the agreed-upon license terms.  
+* Maintaining Trust and Reciprocity:  
+  * It's vital for the Licensor to diligently follow the grant-back terms. This upholds the fairness and mutual respect central to the VOD Reaction License model. Mistakes can happen, but promptly correcting any oversight (e.g., by adding missing attribution and acknowledging the error) is important for maintaining a positive relationship with community creators.
+
+6.3 Understanding Rights in Chain Reactions or Multi-Layered Content
 
 The VOD Reaction License primarily governs the reuse of the *original Licensor's VODs*. Complex situations can arise when reactions are made to reactions, involving multiple creators' rights. Consider this scenario:
 
