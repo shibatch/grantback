@@ -65,9 +65,10 @@ After publishing Your Streamed Work, You must promptly notify us (the Licensor) 
 
 Step 2.6: Providing a Copy of Your Streamed Work if Requested (License Clause 3.d)
 
-After You have published Your Streamed Work, we (the Licensor) may request a digital copy of the relevant portions of Your Streamed Work that incorporate our VODs. If we make such a request, You are required to promptly provide this copy to us in a common digital format and via a reasonable delivery method, provided You still possess such a copy and are reasonably able to fulfill this request.  
+After You have published Your Streamed Work, we (the Licensor) may request a digital copy of the relevant portions of Your Streamed Work that incorporate our VODs. If we make such a request, You are, in principle, required to promptly provide this copy to us in a common digital format and via a reasonable delivery method; however, this obligation is exceptionally excused if your specific situation meets the criteria for "Excusable Non-Performance" as detailed in Section 9 of the full License text. (Please note: The full License text, in Section 9 "Excusable Non-Performance," includes provisions for situations where You might be unable to fulfill this obligation due to circumstances genuinely beyond Your reasonable control and without Your fault or negligence.)
+
 This obligation helps us to be aware of Your creation and allows us to potentially exercise our rights to feature Your work under the Grant-Back terms (see Section 3 of this guide and Clause 4 of the full License).  
-(Please note: The full License text, in Section 9 "Excusable Non-Performance," includes provisions for situations where You might be unable to fulfill this obligation due to circumstances genuinely beyond Your reasonable control and without Your fault or negligence.)
+
 
 3\. The Grant-Back to \[**Licensor's Primary Channel Name\]**: A Brief Explanation (License Clause 4\)
 
