@@ -54,6 +54,12 @@ The [VOD\_REACTION\_LICENSE.md](VOD_REACTION_LICENSE.md) text template in this r
 
 The accompanying guide documents ([GUIDE\_FOR\_LICENSEES.md](GUIDE_FOR_LICENSEES.md) template and [GUIDE\_FOR\_ADOPTERS.md](GUIDE_FOR_ADOPTERS.md)) in this repository remain licensed under the Creative Commons Attribution-ShareAlike 4.0 International Public License (CC BY-SA 4.0). You are free to share and adapt these guide documents for your own purposes, provided you adhere to the terms of the CC BY-SA 4.0 license.
 
+### A Note on Minors and Legal Capacity
+
+This VOD Reaction License, like any agreement, is subject to applicable laws regarding an individual's legal capacity to be bound by its terms. In the United States, for example, individuals are generally considered minors until they reach the age of 18 (though this can vary by state for specific purposes). Agreements entered into by minors may not be legally binding on them or might be voidable at their option under state law.
+
+If you are a minor considering using VODs under this license, or offering your VODs under this license, it is strongly recommended to involve a parent or legal guardian. Similarly, if you are a Licensor adopting this license for a community that may include minors, or a Licensee interacting with content from a minor Licensor, awareness of these legal principles is important. Minors should typically seek consent and guidance from a parent or legal guardian before agreeing to terms that have legal implications.
+
 ### Important Disclaimers (From Naoki Shibata, Template Author)
 
 * Experimental Model: The "VOD Reaction License" is an experimental, custom license model. Its legal effectiveness and community reception may vary.  
