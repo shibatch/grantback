@@ -58,7 +58,7 @@ When the Licensee grants back the license to the Licensee's Streamed Work to the
 
 (i) The Licensee provides the Licensee's Streamed Work to the Licensor "AS-IS," without any warranties from the Licensee to the Licensor, express or implied. The Licensee specifically disclaims any implied warranties of merchantability, fitness for a particular purpose, or non-infringement regarding the Licensee's Streamed Work.
 
-(ii) In no event shall the Licensee be liable to the Licensor for a1ny direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the Licensor's use or inability to use such Streamed Work, even if the Licensee were advised of the possibility of such damage.
+(ii) In no event shall the Licensee be liable to the Licensor for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the Licensor's use or inability to use such Streamed Work, even if the Licensee were advised of the possibility of such damage.
 
 (iii) All rights in the Licensee's Streamed Work not expressly granted back to the Licensor under this Section 4 are reserved by the Licensee.
 
