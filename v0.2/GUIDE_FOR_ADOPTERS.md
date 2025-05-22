@@ -80,6 +80,8 @@ A Note on Complexity: While these considerations about third-party content might
 
 * Understanding the Grant-Back (Clause 4 of the License Template):  
   Remember, your Licensees (those who reuse your VODs) will grant you rights back to reuse their "Streamed Works" (the new content they create using your VODs). You, in turn, must adhere to the conditions in Clause 4 (platform limits, attributing the Licensee) when reusing their work.  
+* Beyond Copyright:
+  While this VOD Reaction License provides a framework for the copyright aspects of reusing your VODs, please remember that all content creation and streaming activities – both your own and those of your Licensees – are subject to other applicable laws and third-party rights. These can include areas such as trademark, privacy, publicity rights, defamation, and unfair competition. This license does not override those other legal obligations, and compliance with all relevant laws is essential.
 * Final Important Notes:  
   This License Template is experimental and provided as a starting point. You are solely responsible for the license you implement. It is strongly recommended to have your customized license reviewed by legal counsel to ensure it meets your specific needs and legal context before offering it to your community.
 

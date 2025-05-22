@@ -36,6 +36,9 @@ After publishing the Licensee's Streamed Work, the Licensee must promptly notify
 d. Provision of Streamed Work Data to Licensor:  
 Upon the Licensor's request, the Licensee must promptly provide the Licensor with a digital copy of the relevant portions of the Licensee's Streamed Work that incorporate the Licensor's VODs. This copy shall be in a common digital format and delivered via a reasonable method.
 
+e. General Responsibility for Streamed Work:
+The Licensee is solely responsible for all content within their Streamed Work and for ensuring that such Streamed Work complies with all applicable laws and does not infringe upon any third-party rights, including but not limited to copyright (beyond the rights granted herein for the Licensor's VODs), trademark, publicity rights, privacy rights, or any other personal or proprietary rights. The Licensor assumes no liability for the content or consequences of the Licensee's Streamed Work.
+
 4\. Grant-Back License for the Licensee's Streamed Works
 
 For each Streamed Work that the Licensee creates and publishes by using the Licensor's VODs in accordance with the terms of this license, the Licensee hereby grants back to the Licensor a non-exclusive, worldwide, royalty-free, perpetual, irrevocable, and non-transferable license to use, reproduce, distribute, display, perform, adapt, and create derivative works from such Streamed Work. This license granted back to the Licensor is subject to the following conditions. This grant-back applies only to Streamed Works created by the Licensee that incorporate the Licensor's VODs under this license and does not apply to any other works created by the Licensee.
