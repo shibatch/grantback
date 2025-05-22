@@ -1,8 +1,10 @@
 ## VOD Reaction License \- A Community Licensing Model for Streamers
 
-This project provides a template for a custom license designed to facilitate content reuse, particularly "reaction" style content, among streamers on popular video sharing and streaming platforms such as Twitch and YouTube.
+This project provides a template for a custom license designed to facilitate content reuse, particularly "reaction" style content, among streamers on popular video sharing and streaming platforms such as Twitch and YouTube.  
 
-The "VOD Reaction License Version 0.2" is an experimental, custom license that allows content creators (Licensors) to grant specific permissions to their community (Licensees) to reuse designated VODs (past live stream recordings). Key features include:
+The "VOD Reaction License Version 0.2" is an experimental, custom license that allows content creators (Licensors) to grant specific permissions to their community (Licensees) to reuse designated VODs.  
+
+Key features include:  
 
 * Permission for Reuse: Clearly grants rights to create derivative works (like reaction videos, compilations, reviews) from the Licensor's VODs.  
 * Platform Limitation: Reuse by Licensees is restricted to specific platforms designated by the adopting Licensor (the template provides Twitch and YouTube as primary examples).  
@@ -10,7 +12,8 @@ The "VOD Reaction License Version 0.2" is an experimental, custom license that a
 * Grant-Back Clause: Licensees grant back a license to the original Licensor to reuse the new "Streamed Work" created by the Licensee, under symmetrical conditions (platform limitation and attribution back to the Licensee). This fosters dialogue and allows Licensors to engage with community creations.  
 * Community Focused: Aims to encourage interaction, collaboration, and mutual promotion within the streaming community.
 
-This License Template was originally conceived and drafted by [Naoki Shibata](https://github.com/shibatch/). The drafting and refinement process for this template and its accompanying guides involved iterative conceptual exploration and textual assistance from Google's AI model, Gemini. The final structure, terms, and intent of this license model are those of Naoki Shibata.
+This License Template was originally conceived and drafted by [Naoki Shibata](https://github.com/shibatch/). The drafting and refinement process for this template and its accompanying guides involved iterative conceptual exploration and textual assistance from Google's AI model, Gemini. The final structure, terms, and intent of this license model are those of Naoki Shibata.  
+
 
 ### Why This License Model?
 
@@ -43,6 +46,9 @@ For Streamers Wanting to Adopt This License Model for Their Own VODs (Adopting L
 3. Host Your License: Publish your customized version of the license text on a publicly accessible platform (e.g., your own GitHub repository, a personal website, or a GitHub Gist).  
 4. Inform Your Community: Clearly state on your channel(s) that your designated VODs are offered under your instance of the "VOD Reaction License Version 0.2" and provide a direct link to your hosted version of the license.  
 5. Provide Guidance: It is highly recommended to also provide a version of the [GUIDE\_FOR\_LICENSEES.md](GUIDE_FOR_LICENSEES.md), customized for your channel, to help your community understand how they can reuse your content.
+
+A Note on VODs in Documentation: While this README and the guides often discuss VODs in the context of live stream recordings (due to the license's origins and common streamer use-cases), the VOD Reaction License text itself defines "VODs" more broadly. For the precise definition, please always refer to the actual license document.  
+
 
 ### Licensing of These Documents
 

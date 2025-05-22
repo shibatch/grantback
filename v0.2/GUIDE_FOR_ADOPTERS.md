@@ -2,7 +2,8 @@
 
 ### 1\. Introduction: What is the VOD Reaction License and Why Use It?
 
-Welcome\! This guide is for streamers interested in using the "VOD Reaction License Version 0.2" template (hereinafter "the License Template") to license their own VODs (past public live stream recordings) for reuse by their community.  
+Welcome\! This guide is for streamers interested in using the "VOD Reaction License Version 0.2" template (hereinafter "the License Template") to license their own VODs for reuse by their community.  
+
 The VOD Reaction License model is designed to foster a more interactive and collaborative streaming community. Its core purposes and benefits include:
 
 * Encouraging Community Content: By clearly stating terms for reuse, you make it easier for viewers and other creators to make reaction content, compilations, reviews, or other derivative works ("Streamed Works") using your VODs.  

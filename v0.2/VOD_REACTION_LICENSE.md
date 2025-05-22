@@ -8,7 +8,7 @@ Copyright (c) **\[Year\]**, **\[Licensor's Name or Channel Name / Operator\]**
 
 a. "Licensor" refers to the operator(s) of the content creation channel "**\[Licensor's Primary Channel Name\]**".
 
-b. "VODs" (Video on Demand recordings or equivalent archived live streams) refers to the video recordings of past public live streams originally created and broadcast by the Licensor (e.g., on Twitch as VODs, or on YouTube as archived live streams or public videos derived from such streams) and which the Licensor has indicated are available for use under the terms of this license.
+b. "VODs" (Video on Demand) refers to any audio-visual content created and made publicly available by the Licensor (e.g., on video sharing and streaming platforms such as Twitch or YouTube, including but not limited to, recordings of past live streams, fully pre-edited videos, or other forms of public video material) and which the Licensor has indicated are available for use under the terms of this license.
 
 c. "Licensee" refers to the individual or entity exercising rights under this license.
 
