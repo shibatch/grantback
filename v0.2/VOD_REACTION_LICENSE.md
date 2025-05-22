@@ -36,7 +36,7 @@ After publishing the Licensee's Streamed Work, the Licensee must promptly notify
 d. Provision of Streamed Work Data to Licensor:  
 Upon the Licensor's request, the Licensee must promptly provide the Licensor with a digital copy of the relevant portions of the Licensee's Streamed Work that incorporate the Licensor's VODs. This copy shall be in a common digital format and delivered via a reasonable method.
 
-e. General Responsibility for Streamed Work:
+e. General Responsibility for Streamed Work:  
 The Licensee is solely responsible for all content within their Streamed Work and for ensuring that such Streamed Work complies with all applicable laws and does not infringe upon any third-party rights, including but not limited to copyright (beyond the rights granted herein for the Licensor's VODs), trademark, publicity rights, privacy rights, or any other personal or proprietary rights. The Licensor assumes no liability for the content or consequences of the Licensee's Streamed Work.
 
 4\. Grant-Back License for the Licensee's Streamed Works
@@ -57,7 +57,7 @@ d. Sublicensing by Licensor:
 The Licensor may grant necessary sublicenses to the operators of the Permitted Platforms (as per their respective Terms of Service) to the extent required to host, display, and enable platform features for such Streamed Work when featured on the Licensor's channels or for collaborative broadcasts conducted in accordance with Section 4.c. Except as expressly permitted in this Section 4.d (specifically regarding platform operators), any other form of sublicensing of such Streamed Work by the Licensor to third parties for their independent use is not permitted by this license without the Licensee's separate approval.
 
 e. Terms Applicable to Streamed Work Provided Under Grant-Back:  
-When the Licensee grants back the license to the Licensee's Streamed Work to the Licensor under this Section 4, the following terms also apply to that specific grant:
+When the Licensee grants back the license to the Licensee's Streamed Work to the Licensor under this Section 4, the following terms also apply to that specific grant:  
 
 (i) The Licensee provides the Licensee's Streamed Work to the Licensor "AS-IS," without any warranties from the Licensee to the Licensor, express or implied. The Licensee specifically disclaims any implied warranties of merchantability, fitness for a particular purpose, or non-infringement regarding the Licensee's Streamed Work.
 
