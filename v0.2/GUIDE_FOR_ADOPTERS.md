@@ -195,6 +195,7 @@ The VOD Reaction License is built on reciprocity. Just as Licensees must adhere 
 * Potential Actions by the Licensee:  
   * The Licensee could request that the Licensor correct the non-compliance (e.g., add the missing attribution).  
   * They might also request that the Licensor cease using their Streamed Work or remove the portions containing their original contributions if the issue is not rectified, as the Licensor's use would not be covered by the agreed-upon license terms.  
+  * Alternatively, the Licensee may choose to grant the Licensor separate, individual permission for that specific reuse. This would mean that, even if the Licensor's use was not compliant with the original grant-back terms, the Licensee can allow the Licensor's video to remain publicly available as is, under terms agreed upon directly between the Licensee and Licensor, independent of the VOD Reaction License.
 * Maintaining Trust and Reciprocity:  
   * It's vital for the Licensor to diligently follow the grant-back terms. This upholds the fairness and mutual respect central to the VOD Reaction License model. Mistakes can happen, but promptly correcting any oversight (e.g., by adding missing attribution and acknowledging the error) is important for maintaining a positive relationship with community creators.
 
