@@ -9,7 +9,7 @@ Key features include:
 * Permission for Reuse: Clearly grants rights to create derivative works (like reaction videos, compilations, reviews) from the Licensor's VODs.  
 * Platform Limitation: Reuse by Licensees is restricted to specific platforms designated by the adopting Licensor (the template provides Twitch and YouTube as primary examples).  
 * Attribution: Requires Licensees to provide clear attribution to the original Licensor.  
-* Grant-Back Clause: Licensees grant back a license to the original Licensor to reuse the new "Streamed Work" created by the Licensee, under symmetrical conditions (platform limitation and attribution back to the Licensee). This fosters dialogue and allows Licensors to engage with community creations.  
+* Grant-Back Clause: Licensees grant back a license to the original Licensor to reuse the new "Derivative Work" created by the Licensee, under symmetrical conditions (platform limitation and attribution back to the Licensee). This fosters dialogue and allows Licensors to engage with community creations.  
 * Community Focused: Aims to encourage interaction, collaboration, and mutual promotion within the streaming community.
 
 This License Template was originally conceived and drafted by [Naoki Shibata](https://github.com/shibatch/). The drafting and refinement process for this template and its accompanying guides involved iterative conceptual exploration and textual assistance from Google's AI model, Gemini. The final structure, terms, and intent of this license model are those of Naoki Shibata.  
