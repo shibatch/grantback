@@ -77,7 +77,7 @@ When you choose to adopt and implement your version of the "VOD Reaction License
 
 Practical Guidance for You (as Licensor) on This Topic:To help your community reuse your VODs safely and effectively under this License, it is crucial to be transparent about third-party content within your VODs. Clearly designate which of your VODs are offered under this License (as advised in Step 2.4). For those VODs, if they contain significant third-party materials with known restrictive licenses that could impact reuse, making this information available to your viewers (e.g., in video descriptions or a channel FAQ) is crucial. Offering VODs or segments with minimal or broadly-licensed third-party content will simplify reuse for everyone.
 
-A Note on Complexity: While these considerations about third-party content might seem to add complexity, it's important to remember that these copyright issues and responsibilities are inherent to any form of content reuse. This License doesn't aim to create new complications; rather, it strives to provide a more structured and transparent framework for navigating these existing issues when you wish to allow community reuse of your VODs. Granting permissions on an ad-hoc, case-by-case basis without a clear license often leaves these same issues unaddressed and potentially more confusing for everyone involved.
+A Note on Complexity: While these considerations about third-party content might seem to add complexity, it's important to remember that these copyright issues and responsibilities are inherent to any form of content reuse. Granting permissions on an ad-hoc, case-by-case basis without a clear license often leaves these same issues unaddressed and potentially more confusing for everyone involved. This License doesn't aim to create new complications; rather, it strives to provide a more structured and transparent framework for navigating these existing issues when you wish to allow community reuse of your VODs.  
 
 * Understanding the Grant-Back (Clause 4 of the License Template):  
   Remember, your Licensees (those who reuse your VODs) will grant you rights back to reuse their "Streamed Works" (the new content they create using your VODs). You, in turn, must adhere to the conditions in Clause 4 (platform limits, attributing the Licensee) when reusing their work.  
@@ -131,6 +131,7 @@ As the Licensor of your VODs under your instance of the VOD Reaction License, yo
 #### 5.1 Stopping the Offer for Future Reuses
 
 If you decide you no longer want to offer your VODs (or specific VODs) under this VOD Reaction License for *new, future* reuses:  
+
   * Do Not Delete Your Existing License Document: The version of the license text that applied to VODs already released under its terms is important for ongoing clarity and for those Licensees who relied on it. Do not delete this hosted document. Instead, you might:  
     * Keep the existing document accessible, perhaps renaming it or clearly marking it on the document itself (e.g., adding a note like "\[ARCHIVED \- These terms applied to VODs published before \[Date of Discontinuation\] and are no longer offered for new VODs\]").  
     * Ensure that links from older VODs (if they point to a specific URL for your license terms) continue to function or redirect appropriately to these archived terms if technically feasible. If not, ensure you can provide these historical terms if requested.  
@@ -143,6 +144,7 @@ If you decide you no longer want to offer your VODs (or specific VODs) under thi
 #### 5.2 Changing Placeholder Information (e.g., Your Attribution Channel Name)
 
 If you need to update the information you provided in the placeholders of your published VOD Reaction License (for example, if your channel name used for attribution changes), it is crucial to handle this transparently and fairly:  
+
   * Communicate Proactively: Clearly announce the change to your community, ideally in advance (e.g., on your channel, social media, or wherever you post license updates). Explain what is changing and why, if appropriate.  
   * Specify Effective Date: Clearly state that the new information (e.g., new attribution name) applies only to Streamed Works created *after* a specific effective date of your announcement/update.  
   * Respect Existing Compliant Works: Reassure your community that Streamed Works created and published in compliance with the placeholder information that was current *at the time of their creation* will still be considered compliant. You should not retroactively demand changes (like re-attribution) for these existing works.  
