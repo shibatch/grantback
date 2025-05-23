@@ -117,6 +117,8 @@ So, a member of your community has created a Streamed Work using your VOD under 
     * If they specified a preferred name for attribution when they notified you, use that.  
     * Make the attribution clear, either visually or audibly.  
 
+  * While the VOD Reaction License does not specifically require you to notify the Licensee when you exercise your grant-back rights to reuse their Streamed Work, doing so can be a positive gesture. This notification can be as simple as a social media mention, a comment on their Streamed Work, or a direct message, depending on your established communication channels with your community.
+
 #### Step 4.5: Regarding Third-Party Content in Their Streamed Work (Clause 4.e.iv of your license)
 
   * The license states that the Licensee is responsible for ensuring they have the rights to any third-party content they included in their Streamed Work, such that you (the Licensor) can also reuse it under the grant-back.  
