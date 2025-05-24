@@ -11,7 +11,18 @@ The VOD Reaction License model is designed to foster a more interactive and coll
 * Facilitating Dialogue (The Grant-Back Feature): A key feature is the "grant-back" clause. When someone creates a Derivative Work from your VODs, they grant you a license to reuse *their* Derivative Work. This allows you to "react to their reaction," engage directly with community content, or address any points raised.  
 * Maintaining Some Control: The license restricts reuse to specific platforms (Twitch and YouTube by default) and requires clear attribution to your original VODs, helping you manage how your content is shared and acknowledged.
 
-This License Template is a custom-designed license. We believe it offers a unique way to engage with your community. It's important to understand its terms and how to implement it correctly for your channel. The text of this License Template itself is offered with specific permissions regarding its copying and modification: you can copy and distribute it, and you can adapt it for your own use by filling in the designated placeholders. However, to maintain consistency for the "VOD Reaction License Version 0.2" model, modifications to the core legal terms (beyond placeholders) mean your version should be considered a new, distinct license. Full details on how you can use and adapt the license template text are provided in Section 11 of the License Template document itself, and further explained in Section 7 of this guide.
+This License Template is a custom-designed license. We believe it offers a unique way to engage with your community. It's important to understand its terms and how to implement it correctly for your channel. The text of this License Template itself is offered with specific permissions regarding its copying and modification: you can copy and distribute it, and you can adapt it for your own use by filling in the designated placeholders. However, to maintain consistency for the "VOD Reaction License Version 0.2" model, modifications to the core legal terms (beyond placeholders) mean your version should be considered a new, distinct license. Full details on how you can use and adapt the license template text are provided in Section 11 of the License Template document itself, and further explained in Section 7 of this guide.  
+
+To help you smoothly adopt and operationalize the VOD Reaction License model, this guide will detail the following steps and considerations:  
+
+* **Section 2: How to Adopt This License for Your Channel: Step-by-Step** - Explains the concrete steps from obtaining the License Template to customizing it and announcing it to your community.
+* **Section 3: Important Considerations for You (as an Adopting Licensor)** - Describes key points to keep in mind when offering the license, such as handling third-party content and understanding the grant-back.
+* **Section 4: A Licensee Reused Your VOD Under Your License: Initial Steps** - Guides you on actions to take and points to check when a community member reuses your VOD.
+* **Section 5: Managing or Discontinuing Your License Offer** - Explains the appropriate procedures and precautions when changing your license offer terms or discontinuing the offer.
+* **Section 6: Addressing Specific Scenarios and Potential Issues** - Details responses to various situations that might arise in practice, such as Licensee non-compliance or rights issues.
+* **Section 7: Using and Modifying This License Template** - Explains the terms of use for the License Template itself.
+* **Section 8: Disclaimer from the Author of this Template** - Contains disclaimers regarding this template.
+
 
 ### 2\. How to Adopt This License for Your Channel: Step-by-Step
 
