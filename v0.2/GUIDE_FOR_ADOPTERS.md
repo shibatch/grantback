@@ -81,6 +81,19 @@ If you wish to use this license model for your VODs, you will be offering your o
     * For VODs NOT offered under this license: "© \[Your Year\] \[Your Channel Name\]. All rights reserved. This VOD is not available for reuse under the VOD Reaction License."  
   * This practice helps avoid confusion and ensures reusers know exactly which of your content they can use under your specific terms and how to do so.
 
+#### Regarding YouTube Licensing and its Relation to the Standard YouTube License
+
+When you upload a VOD to YouTube, you can select either the "Standard YouTube License" or "Creative Commons (CC BY)" as the license setting. This VOD Reaction License is a custom license, different from these options.  
+
+Therefore, if you are applying this VOD Reaction License to VODs you publish on YouTube, please keep the following in mind:  
+
+* Upload Setting: In YouTube's upload settings, please select the "Standard YouTube License."
+* Clearly Indicate Additional Permissions: Then, in your video description or on your channel's "About" page, provide a link to the full text of your VOD Reaction License and clearly state that you grant additional permissions for reuse under this license.
+* Permitted Uses: Your VODs may be used to the extent permitted under the terms of either the Standard YouTube License or this VOD Reaction License. The Standard YouTube License provides users with a license for basic viewing on the YouTube platform, while the VOD Reaction License grants your community additional permissions for more specific secondary uses of your VODs (such as creating reaction videos) under the conditions you have set.
+
+By clearly indicating the application of the VOD Reaction License in this way, you can permit your community to reuse your VODs under the clear conditions you've established, for uses that might not typically be allowed under the Standard YouTube License alone.
+
+
 ### 3\. Important Considerations for You (as an Adopting Licensor)
 
 When you choose to adopt and implement your version of the "VOD Reaction License Version 0.2" for your channel's VODs, please keep these key points in mind:
