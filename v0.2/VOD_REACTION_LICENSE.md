@@ -50,7 +50,7 @@ b. Attribution to Licensee by Licensor:
 When using such Derivative Work, the Licensor must provide attribution to the Licensee. This means the Licensor will clearly display the Licensee's primary channel name (e.g., the Licensee's Twitch or YouTube channel name, whichever is primarily associated with such Derivative Work, or as the Licensee may otherwise instruct the Licensor in writing) in text on screen OR clearly announce it audibly within any new work created by the Licensor that incorporates such Derivative Work. The method of attribution shall be reasonable for the medium used by the Licensor.
 
 c. Collaborative Use by Licensor:  
-The Licensor may feature such Derivative Work on the Licensor's own channels on the Permitted Platforms, including during collaborative streams or videos with other creators appearing on the Licensor's channel(s) as guests or co-hosts.  
+The Licensor may feature such Derivative Work on the Licensor's own channels on the Permitted Platforms, including during collaborative streams or videos with other creators appearing on the Licensor's channel(s) as guests or co-hosts.
 However, if such Derivative Work is to be primarily or independently broadcast or published by a collaborator on a channel not operated by the Licensor as part of a collaboration authorized by the Licensor, the Licensee's prior explicit approval for such specific use by that collaborator is required.
 
 d. Sublicensing by Licensor:  

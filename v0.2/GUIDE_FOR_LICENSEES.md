@@ -22,6 +22,7 @@ Step 2.2: Core Requirements for Your New Work (Derivative Work)
 
 * Your created Derivative Work may only be published on the Permitted Platforms (as defined in the full License text from **\[Licensor's Primary Channel Name\]**).  
 * Attribution to us (the Licensor) is required in each Derivative Work you create.
+* Note on Uploading to YouTube: If YouTube is a Permitted Platform and you upload Your Derivative Work there, you should select the "Standard YouTube License" for your video. This selection is compatible with your obligations under this VOD Reaction License. The VOD Reaction License specifically governs your permission to use our VOD and the grant-back license you provide to us for Your Derivative Work.
 
 Step 2.3: How to Provide Attribution to "**\[Licensor's Designated Channel Name for Attribution\]**"
 
