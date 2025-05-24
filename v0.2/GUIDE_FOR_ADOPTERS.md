@@ -68,6 +68,12 @@ If you wish to use this license model for your VODs, you will be offering your o
 * General Announcement: Clearly state on your channel(s) (e.g., in your Twitch "About" section, YouTube channel description, or a pinned "Licensing Information" post) that you offer some or all of your VODs for reuse under *your instance* of the "VOD Reaction License Version 0.2."  
   * Provide a direct link to your hosted version of the customized license text.  
   * Also, provide a direct link to your hosted version of the customized "Usage Guide for Licensees."  
+  * Below is an example of this announcement:  
+>    * **VODs from this channel may be reused under the following conditions:**
+>      * Directly recording and rebroadcasting live streams is prohibited. Only VODs (archived recordings) are eligible for reuse under this license.
+>      * The applicable distribution license for each VOD is indicated at the beginning or end of the video, or in its description. If no license is indicated for a VOD, please seek individual permission before reusing it.
+>      * The full VOD Reaction License text can be viewed here: \[Link to Your Hosted License Text\]
+>      * A usage guide is available here: \[Link to Your Hosted Licensee Guide\]  
 * Per-VOD Indication (Highly Recommended): To provide maximum clarity for your viewers and potential Licensees, it is highly recommended that for each VOD you publish:  
   * Include your standard copyright notice (e.g., "© \[Your Year\] \[Your Channel Name\]").  
   * Clearly indicate its licensing status directly in the video's description, as an on-screen graphic (e.g., at the end of the video), or in a pinned comment. Examples:  
