@@ -18,13 +18,17 @@ This repository is organized by version. Each version directory contains the spe
 
 Please choose the version that best suits your needs. For most current uses, the latest stable version is recommended.
 
-* **Version 0.1 (Stable Release)**
-    * Description: Initial stable release of the VOD Reaction License.
+* **Version 0.2 (Stable Release)**
+    * Description: The latest stable release of the VOD Reaction License.
+    * **[Access Version 0.2 Files and Documentation](./v0.2/README.md)**
+
+* **Version 0.1 (Previous Release)**
+    * Description: Initial stable release of the VOD Reaction License. This repository stores all previous release versions.
     * **[Access Version 0.1 Files and Documentation](./v0.1/README.md)**
 
-* **Version 0.2 (Work in Progress)**
+* **Version 0.3 (Work in Progress)**
     * Description: This version is currently under development. Terms and documents may be unstable, incomplete, or subject to significant change. Use with caution or for testing and feedback purposes only.
-    * **[Access Version 0.2 (WIP) Files and Documentation](./v0.2/README.md)**
+    * **[Access Version 0.3 (WIP) Files and Documentation](./v0.3/README.md)**
 
 ## How This Repository is Organized
 
@@ -34,6 +38,25 @@ Please choose the version that best suits your needs. For most current uses, the
     * `GUIDE_FOR_ADOPTERS.md`: A guide for streamers who wish to adopt that version of the license template for their own VODs.
     * `GUIDE_FOR_LICENSEES.md`: A template for a user-friendly guide that adopting streamers can customize for their own community members.
     * `README.md`: A README specific to that version, detailing its features, changes (if any from previous versions), and status.
+
+## History
+
+* Version 0.2 (Released 2025-05-25)
+  * As a Permitted Platform, more than just Twitch and YouTube can now be added at the licensor's discretion.
+  * Eligible VODs have been generalized.
+  * The guide has been expanded.
+
+* Version 0.1 (Released 2025-05-15)
+  * The initial release of the VOD Reaction License.
+  * The most significant feature of this license is that it has a
+    grant-back clause. Traditional grantbacks focus on a one-way
+    “return” of rights from the licensee to the licensor. In contrast,
+    under this license, when the licensor exercises its returned
+    rights, the licensor in turn has obligations to the licensee
+    similar to the obligations of the licensee in the original
+    licensing relationship. This differs from a traditional license in
+    that it is seen as bi-directional/mutual.
+
 
 ## Licensing of Repository Content
 
