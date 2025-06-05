@@ -36,7 +36,7 @@ After publishing the Licensee's Derivative Work, the Licensee must promptly noti
 d. Provision of Derivative Work Data to Licensor:
 Upon the Licensor's request, the Licensee must promptly provide the Licensor with a digital copy of the relevant portions of the Licensee's Derivative Work that incorporate the Licensor's VODs. Such digital copy, particularly when intended to enable the Licensor's exercise of rights under Section 4 (Grant-Back License) (hereinafter "Provided Copy"), must satisfy the following conditions in relation to the version of the Derivative Work publicly distributed by the Licensee (hereinafter "Published Version"):
 
-(i) The Provided Copy must completely include all parts within the Published Version that incorporate the Licensor's VODs and all parts constituting reactions to the Licensor's VODs.
+(i) The Provided Copy must completely include all parts within the Published Version that incorporate the Licensor's VODs.
 
 (ii) Editing of the Provided Copy, transforming it from the Published Version, shall be limited to the minimum extent objectively necessary to clear third-party copyrights present in the Published Version (e.g., muting of relevant segments, replacement or removal of third-party materials). No other substantive or stylistic editing altering the content or presentation of the parts described in Section 3.d(i) as they appeared in the Published Version is permitted.
 
