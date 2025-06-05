@@ -33,8 +33,16 @@ The Licensee must provide Attribution to the Licensor in each Derivative Work. T
 c. Reporting to Licensor:  
 After publishing the Licensee's Derivative Work, the Licensee must promptly notify the Licensor of its publication in a reasonable manner.
 
-d. Provision of Derivative Work Data to Licensor:  
-Upon the Licensor's request, the Licensee must promptly provide the Licensor with a digital copy of the relevant portions of the Licensee's Derivative Work that incorporate the Licensor's VODs. This copy shall be in a common digital format and delivered via a reasonable method.
+d. Provision of Derivative Work Data to Licensor:
+Upon the Licensor's request, the Licensee must promptly provide the Licensor with a digital copy of the relevant portions of the Licensee's Derivative Work that incorporate the Licensor's VODs. Such digital copy, particularly when intended to enable the Licensor's exercise of rights under Section 4 (Grant-Back License) (hereinafter "Provided Copy"), must satisfy the following conditions in relation to the version of the Derivative Work publicly distributed by the Licensee (hereinafter "Published Version"):
+
+(i) The Provided Copy must completely include all parts within the Published Version that incorporate the Licensor's VODs and all parts constituting reactions to the Licensor's VODs.
+
+(ii) Editing of the Provided Copy, transforming it from the Published Version, shall be limited to the minimum extent objectively necessary to clear third-party copyrights present in the Published Version (e.g., muting of relevant segments, replacement or removal of third-party materials). No other substantive or stylistic editing altering the content or presentation of the parts described in Section 3.d(i) as they appeared in the Published Version is permitted.
+
+(iii) If, as a direct result of the editing permitted under Section 3.d(ii), important parts (such as the Licensee's own speech) present in the Published Version are unavoidably lost or obscured in the Provided Copy, the Licensee must, concurrently with providing the Provided Copy, notify the Licensor of the nature and content of such lost parts by reasonable and good-faith means (e.g., by providing a textual transcript of the lost speech).
+
+The digital copy provided under this Section 3.d shall be in a common digital format and delivered via a reasonable method.
 
 e. General Responsibility for Derivative Work:  
 The Licensee is solely responsible for all content within their Derivative Work and for ensuring that such Derivative Work complies with all applicable laws and does not infringe upon any third-party rights, including but not limited to copyright (beyond the rights granted herein for the Licensor's VODs), trademark, publicity rights, privacy rights, or any other personal or proprietary rights. The Licensor assumes no liability for the content or consequences of the Licensee's Derivative Work.
