@@ -49,12 +49,16 @@ A. Regarding Third-Party Content *within the Licensor's VODs* (see License Claus
 
 B. Preparing and Providing the "Provided Copy" of Your Derivative Work (Corresponds to the License Sections 3.d and 4.e.iv):
 
-After You have published Your Derivative Work, we (the Licensor) may request a digital copy of relevant portions of Your Derivative Work that incorporate our VODs. If we make such a request, You are, in principle, required to promptly provide this copy to us. The VOD Reaction License (in its Section 3.d) details specific legal requirements for this copy (which the License calls the "Provided Copy"), particularly when it's intended for our grant-back reuse, and also states that it shall be in a common digital format and delivered via a reasonable method.
+When you publish a Derivative Work using our VODs, how we (the Licensor) engage with it can vary. We might not always create a direct response to every Derivative Work. Sometimes, if your publicly available video (the "Published Version") appears to have no copyright issues that would affect our reuse and is readily accessible to us, we might choose to react to it or feature it directly.
 
-Our main goal, when you prepare and provide this Provided Copy, is that we can reuse it smoothly and legally if it's for grant-back. Here’s a step-by-step way to think about meeting the License requirements:
+However, there are situations where we may need to request that you provide us with a separate digital copy of your work. This request might occur if we believe your Published Version could contain third-party copyrighted material that needs to be addressed before we can reuse it under our grant-back rights, or if we are unable to access your Published Version in the first place (for instance, if it's behind a subscriber-only restriction, has been archived, or is otherwise not directly viewable by us).
+
+If we do decide to request a copy for such reasons, You are, in principle, required by the VOD Reaction License to promptly provide this copy to us. The License (in its Section 3.d) then details specific legal requirements for this copy (which the License calls the "Provided Copy"), particularly when it's intended for our grant-back reuse. The License also states that this copy shall be in a common digital format and delivered via a reasonable method.
+
+Our main goal, when you prepare and provide this Provided Copy for grant-back, is that we can reuse it smoothly and legally. Here’s a step-by-step way to think about meeting the License requirements:
 
 1. Be Mindful of Copyright from the Start (Ideal Scenario for Your Published Version):
-Ideally, when you are first creating and editing your publicly available video (the "Published Version"), try to be mindful of any third-party copyrighted material you include (like background music, other video clips, game audio that might need clearance, etc.). If your Published Version is already "clean" – or the key parts reacting to our VOD are clean – preparing the Provided Copy for us will be much simpler. This is the best approach.
+Ideally, when you are first creating and editing your publicly available video (the "Published Version"), try to be mindful of any third-party copyrighted material you include (like background music, other video clips, game audio that might need clearance, etc.). If your Published Version is already "clean" – or the key parts related to our VOD are clean – preparing the Provided Copy for us will be much simpler. This is the best approach.
 
 2. Isolate Key Segments for the Provided Copy (Basic Method):
 Often, your full Published Version (e.g., a long stream recording) will contain various segments. A common and straightforward way to prepare the core of the Provided Copy for us is to edit your Published Version to isolate the main segment(s) where you directly engage with our VOD. This typically means:
