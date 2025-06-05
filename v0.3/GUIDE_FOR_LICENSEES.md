@@ -47,9 +47,11 @@ A. Regarding Third-Party Content *within the Licensor's VODs* (see License Claus
   3. Obtaining any necessary permissions directly from the rights holders of that third-party content if your use requires it.  
 * We (the Licensor) make no warranties that all third-party content within our VODs is cleared for your specific reuse.
 
-B. Preparing the "Provided Copy" of Your Derivative Work for Our Grant-Back Reuse (Corresponds to the License Sections 3.d and 4.e.iv):
+B. Preparing and Providing the "Provided Copy" of Your Derivative Work (Corresponds to the License Sections 3.d and 4.e.iv):
 
-When you provide us with a copy of your Derivative Work for our grant-back reuse (the "Provided Copy" mentioned in Section 3.d of the License), our main goal is that we can reuse it smoothly and legally. Here’s a step-by-step way to think about preparing this copy:
+After You have published Your Derivative Work, we (the Licensor) may request a digital copy of relevant portions of Your Derivative Work that incorporate our VODs. If we make such a request, You are, in principle, required to promptly provide this copy to us. The VOD Reaction License (in its Section 3.d) details specific legal requirements for this copy (which the License calls the "Provided Copy"), particularly when it's intended for our grant-back reuse, and also states that it shall be in a common digital format and delivered via a reasonable method.
+
+Our main goal, when you prepare and provide this Provided Copy, is that we can reuse it smoothly and legally if it's for grant-back. Here’s a step-by-step way to think about meeting the License requirements:
 
 1. Be Mindful of Copyright from the Start (Ideal Scenario for Your Published Version):
 Ideally, when you are first creating and editing your publicly available video (the "Published Version"), try to be mindful of any third-party copyrighted material you include (like background music, other video clips, game audio that might need clearance, etc.). If your Published Version is already "clean" – or the key parts reacting to our VOD are clean – preparing the Provided Copy for us will be much simpler. This is the best approach.
@@ -65,7 +67,7 @@ Now, review the Primary Reaction Segment you've isolated.
    * If it still contains uncleared third-party copyrighted material (e.g., background music you don't have the rights to for this reuse, uncleared game audio): You will need to edit this segment further to make it "clean" before providing it to us. The License (Section 3.d(ii)) is very specific about these edits:
       * They must be strictly limited to the minimum objectively necessary to remove or replace that uncleared third-party material.
       * No other creative or stylistic changes should be made to the content or presentation of your Primary Reaction Segment as it appeared in your Published Version. (For example, this is not the opportunity to cut your own speech for brevity, change your opinions, or re-edit the flow of your reaction, unless those changes are a direct and unavoidable part of the copyright clearance itself).
-   * If Your Speech or Other Important Original Content is Lost During Cleaning: If these essential copyright-clearing edits (like muting a section with background music that also contained your speech) unavoidably cause your own important original content within the Primary Reaction Segment to be lost or obscured, the License (Section 3.d(iii)) requires you to inform us of what was lost. A practical way to do this is to provide a simple text file with the Provided Copy, noting, for example: "Segment from [timestamp] to [timestamp] was muted due to background music. During this time, my speech was: '[Your lost speec]'."
+   * If Your Speech or Other Important Original Content is Lost During Cleaning: If these essential copyright-clearing edits (like muting a section with background music that also contained your speech) unavoidably cause your own important original content within the Primary Reaction Segment to be lost or obscured, the License (Section 3.d(iii)) requires you to inform us of what was lost. A practical way to do this is to provide a simple text file with the Provided Copy, noting, for example: "Segment from [timestamp] to [timestamp] was muted due to background music. During this time, my speech was: '[Your lost speech]'."
 
 4. Consider Including Your Broader Reactions (Highly Recommended for Community Spirit!):
 The License (Section 3.d(i)) legally requires the Provided Copy to include segments where our VOD is directly used. However, your overall engagement with our VOD might be much broader and equally interesting! For example:
@@ -86,17 +88,11 @@ After publishing Your Derivative Work, You must promptly notify us (the Licensor
 
 Step 2.6: Providing a Copy of Your Derivative Work if Requested (Corresponds to Section 3.d of the License)
 
-If we (the Licensor) request a digital copy of your Derivative Work after you've published it, the VOD Reaction License (in its Section 3.d) outlines specific legal requirements for this copy. This is especially important if the copy is intended for our grant-back reuse (which the License calls the "Provided Copy").
+As highlighted at the beginning of Section 2.4.B, we (the Licensor) may request a digital copy of your Derivative Work after you've published it. The VOD Reaction License (in its Section 3.d) outlines important legal requirements for any copy you provide, especially if it's for our grant-back reuse.
 
-We strongly advise you to carefully review Section 3.d of the License. In essence, it details:
+Please refer to Section 3.d of the full License text for these binding conditions. Section 2.4.B of this guide provides a step-by-step approach and practical advice for preparing such a copy in line with those requirements.
 
-   * Exactly which parts of your publicly available video (the "Published Version") must be included in the copy you provide to us.
-   * Strict limitations on how those parts can be edited (changes are only for essential third-party copyright clearance when compared to how they appeared in your Published Version).
-   * Your obligation to notify us if your important original content (like speech) within those parts is unavoidably lost during such cleaning.
-
-Section 2.4.B of this guide provides a step-by-step approach and practical advice for preparing this Provided Copy in line with these requirements from the License. Remember, the copy should be in a common digital format and delivered via a reasonable method, as also stated in Section 3.d of the License. (The "Excusable Non-Performance" clause in Section 9 of the License applies to this obligation if extreme circumstances prevent you from providing the copy).
-
-Providing this copy helps us engage with your work and potentially feature it under the grant-back terms.
+Remember that the "Excusable Non-Performance" clause (Section 9 of the License) may apply if extreme circumstances genuinely beyond your reasonable control prevent you from providing the copy.
 
 
 3\. The Grant-Back to \[**Licensor's Primary Channel Name\]**: A Brief Explanation (License Clause 4\)
