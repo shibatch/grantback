@@ -133,6 +133,8 @@ In summary, this creates a clear choice for you as the Licensor: The grant-back 
 
 Therefore, while the Provided Copy may be shorter than the full Published Version (as it is only legally required to contain segments that incorporate your VODs), it is the version that comes with the Licensee's explicit warranty regarding its copyright status for your reuse. If you choose to reuse parts of the Published Version directly without requesting and relying on the warranted Provided Copy, you do so without the benefit of that specific warranty from the Licensee.
 
+This detailed framework regarding the "Provided Copy" exists to provide a robust solution for various corner cases, ensuring the grant-back can function smoothly and safely when needed. However, it is important to understand that the License is designed with the expectation that you (the Licensor) can simply react directly to the Licensee's Published Version without needing to request a Provided Copy in most common cases. This allows the Licensee to create and publish their content much as they normally would, with their primary responsibility, beyond the basic conditions of the License, being to ensure their work is copyright-clean, particularly in the segments where they reuse your VODs.
+
 Understanding these details helps you know what to expect and what your rights are when a Licensee provides you with their Derivative Work for your grant-back purposes.
 
 #### 3.5 Beyond Copyright: Other Legal Considerations
