@@ -31,7 +31,7 @@ To help you smoothly adopt and operationalize the VOD Reaction License model, th
 
 &nbsp;
 
-**A Note on Navigating This Guide:** Throughout this guide, you will see headings marked with a &#11208; icon. These sections are collapsible. You can click on the heading to expand it and reveal more detailed information. This allows you to quickly skim the main topics and then dive deeper into the sections that are most relevant to you.
+**A Note on Navigating This Guide:** Throughout this guide, you will see headings marked with a &#9656; icon. These sections are collapsible. You can click on the heading to expand it and reveal more detailed information. This allows you to quickly skim the main topics and then dive deeper into the sections that are most relevant to you.
 
 &nbsp;
 
@@ -255,7 +255,7 @@ As the Licensor of your VODs under your instance of the VOD Reaction License, yo
 If you decide you no longer want to offer your VODs (or specific VODs) under this VOD Reaction License for *new, future* reuses:  
 
 <details>
-<summary>Do Not Delete Your Existing License Document</summary>
+<summary>Do Not Delete Your Existing License Document.</summary>
 
 The version of the license text that applied to VODs already released under its terms is important for ongoing clarity and for those Licensees who relied on it. Do not delete this hosted document. Instead, you might:  
 * Keep the existing document accessible, perhaps renaming it or clearly marking it on the document itself (e.g., adding a note like "\[ARCHIVED \- These terms applied to VODs published before \[Date of Discontinuation\] and are no longer offered for new VODs\]").  
@@ -263,14 +263,14 @@ The version of the license text that applied to VODs already released under its 
 </details>
 
 <details>
-<summary>Update Your General Channel Information</summary>
+<summary>Update Your General Channel Information.</summary>
 
 * Modify any general statements on your channel (e.g., Twitch "About," YouTube description, main licensing info page) to clearly state that the VOD Reaction License is no longer being offered for VODs published after \[Date of Discontinuation\].  
 * It's good practice to explain how older VODs are licensed. For example: "VODs published before \[Date of Discontinuation\] were offered under the VOD Reaction License v0.3 (archived terms can be found here: \[Link to your specific, now-archived or clearly marked historical license text\]). VODs published on or after \[Date of Discontinuation\] are All Rights Reserved unless otherwise indicated."  
 </details>
 
 <details>
-<summary>Mark New VODs Clearly</summary>
+<summary>Mark New VODs Clearly.</summary>
 
 Ensure any VODs published *after* your discontinuation date explicitly state their new licensing status (e.g., "© \[Your Year\] \[Your Channel Name\]. All rights reserved.").  
 * Communicate the Change Broadly: Clearly announce your decision to discontinue the license offer for future VODs to your community to avoid confusion and maintain trust.  
@@ -278,45 +278,46 @@ Ensure any VODs published *after* your discontinuation date explicitly state the
 
 #### 5.2 Changing Placeholder Information (e.g., Your Attribution Channel Name)
 
-If you need to update the information you provided in the placeholders of your published VOD Reaction License (for example, if your channel name used for attribution changes), it is crucial to handle this transparently and fairly:  
+If you need to update the information you provided in the placeholders of your published VOD Reaction License (for example, if your channel name used for attribution changes), it is crucial to handle this transparently and fairly.  
 
 <details>
-<summary>Communicate Proactively</summary>
+<summary>Communicate Proactively.</summary>
 
 Clearly announce the change to your community, ideally in advance (e.g., on your channel, social media, or wherever you post license updates). Explain what is changing and why, if appropriate.  
 </details>
 
 <details>
-<summary>Specify Effective Date</summary>
+<summary>Specify Effective Date.</summary>
 
 Clearly state that the new information (e.g., new attribution name) applies only to Derivative Works created *after* a specific effective date of your announcement/update.
 </details>
 
 <details>
-<summary>Respect Existing Compliant Works</summary>
+<summary>Respect Existing Compliant Works.</summary>
 
 Reassure your community that Derivative Works created and published in compliance with the placeholder information that was current *at the time of their creation* will still be considered compliant. You should not retroactively demand changes (like re-attribution) for these existing works.  
 </details>
 
 <details>
-<summary>Update Your Hosted License Document</summary>
+<summary>Update Your Hosted License Document.</summary>
 
 Ensure the license document you host and link to reflects the updated placeholder information and clearly indicates the date of the update or a version number for that instance of your license.
 </details>
 
 
-#### 5.3 Crucial Note: Impact on Existing, Compliant Uses (Applies to both Updates and Discontinuation)
+#### 5.3 Impact on Existing, Compliant Uses (Applies to both Updates and Discontinuation)
 
 <details>
 <summary>It is very important to understand that modifying your placeholder information or discontinuing your offer of this license for future reuses generally does not affect the rights of Licensees who have already begun Reusing your VODs in compliance with the license terms that were in effect before you made the change or withdrew the general offer.</summary>
+&nbsp;  
 
 Public licenses, once accepted through compliant use, grant rights that are typically irrevocable by the Licensor as long as the Licensee continues to adhere to the original conditions under which they started. The "VOD Reaction License" template's grant to the Licensee in Clause 2 explicitly includes "irrevocable (as long as the Licensee complies with all conditions of this License)," which reinforces this principle. This is crucial for building trust and encouraging good-faith reuse by your community.  
+
+**Record Keeping and Supporting Your Community**
+
+* Keep a personal record of when you started offering VODs under this license and the exact terms (including specific placeholder values and a copy of the license text) you offered at various times. If you make changes to placeholder values or discontinue the offer, record when those changes were made effective.  
+* The VOD Reaction License is designed to foster positive community interaction. Being clear, transparent, and fair in how you manage your license offer and any changes to it is fundamental to supporting that spirit. Always prioritize clear communication with your community regarding your licensing decisions.
 </details>
-
-#### 5.4 Record Keeping and Supporting Your Community
-
-  * Keep a personal record of when you started offering VODs under this license and the exact terms (including specific placeholder values and a copy of the license text) you offered at various times. If you make changes to placeholder values or discontinue the offer, record when those changes were made effective.  
-  * The VOD Reaction License is designed to foster positive community interaction. Being clear, transparent, and fair in how you manage your license offer and any changes to it is fundamental to supporting that spirit. Always prioritize clear communication with your community regarding your licensing decisions.
 
 ### 6\. Addressing Specific Scenarios and Potential Issues
 
@@ -326,10 +327,10 @@ This section covers how to handle certain situations that may arise in practice.
 
 The VOD Reaction License Version 0.3 aims for clarity, but misunderstandings or mistakes can occur. Section 8 of the License states that if a Licensee fails to comply with any condition, their rights under the License terminate automatically. This means their permission to use your VODs in their Derivative Work technically ceases.  
 
-However, this automatic termination doesn't always mean that the only option is immediate deletion of the Licensee's Derivative Work. Open communication can often lead to a resolution:
+However, this automatic termination doesn't always mean that the only option is immediate deletion of the Licensee's Derivative Work. Open communication can often lead to a resolution.  
 
 <details>
-<summary>Identify the Issue</summary>
+<summary>Identify the Issue.</summary>
 
 If you (the Licensor) become aware of a Derivative Work that appears to violate the terms of your VOD Reaction License Version 0.3, the first step is to verify the issue. Examples of non-compliance could include:  
 * Improper attribution to you.  
@@ -340,7 +341,7 @@ If you (the Licensor) become aware of a Derivative Work that appears to violate 
 </details>
 
 <details>
-<summary>Communicate with the Licensee</summary>
+<summary>Communicate with the Licensee.</summary>
 
 Reach out to the Licensee. Explain your concern clearly and politely. Often, non-compliance might be due to a misunderstanding rather than malicious intent.  
 </details>
@@ -389,10 +390,8 @@ The VOD Reaction License is built on reciprocity. Just as Licensees must adhere 
 <summary>What if the Licensor Fails to Comply?</summary>
 
 * For instance, imagine the Licensor features a Licensee's Derivative Work on the Licensor's channel but forgets to include the required attribution to them as specified in Clause 4.b of the Licensor's license.  
-</details>
 
-<details>
-<summary>Consequences of Non-Compliance with Grant-Back Terms</summary>
+Consequences of Non-Compliance with Grant-Back Terms</summary>
 
 * The grant-back license the Licensor received from the Licensee (under Clause 4\) is conditional upon the Licensor's adherence to its terms (e.g., attribution, platform limits).  
 * If the Licensor fails to meet these conditions, the Licensor's reuse of the Licensee's Derivative Work is technically no longer authorized *by that grant-back license*. While the grant-back license itself might not explicitly state it "terminates" in the same way a Licensee's rights under Clause 8 do for their breaches, the Licensor's use effectively falls outside the scope of the permission granted to the Licensor. The content the Licensor publishes would be treated as if it were published outside the terms of the grant-back license.  
@@ -450,7 +449,7 @@ Section 8 of the License also specifies that Section 4 ("Grant-Back License for 
 
 #### 6.4 Understanding Rights in Chain Reactions or Multi-Layered Content
 
-The VOD Reaction License primarily governs the reuse of the *original Licensor's VODs*. Complex situations can arise when reactions are made to reactions, involving multiple creators' rights. Consider this scenario:
+The VOD Reaction License primarily governs the reuse of the *original Licensor's VODs*. Complex situations can arise when reactions are made to reactions, involving multiple creators' rights. Consider the scenario below.
 
 <details>
 <summary>Scenario</summary>
