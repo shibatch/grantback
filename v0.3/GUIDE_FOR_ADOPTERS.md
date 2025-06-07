@@ -15,19 +15,20 @@ This License Template is a custom-designed license. We believe it offers a uniqu
 
 <details>
 <summary>The text of this License Template itself is offered with specific permissions regarding its copying and modification.</summary>
+&nbsp;  
 
 You can copy and distribute it, and you can adapt it for your own use by filling in the designated placeholders. However, to maintain consistency for the "VOD Reaction License Version 0.3" model, modifications to the core legal terms (beyond placeholders) mean your version should be considered a new, distinct license. Full details on how you can use and adapt the license template text are provided in Section 11 of the License Template document itself, and further explained in Section 7 of this guide.  
 </details>
 
 To help you smoothly adopt and operationalize the VOD Reaction License model, this guide will detail the following steps and considerations:  
 
-* **Section 2: How to Adopt This License for Your Channel: Step-by-Step** - Explains the concrete steps from obtaining the License Template to customizing it and announcing it to your community.
-* **Section 3: Important Considerations for You (as an Adopting Licensor)** - Describes key points to keep in mind when offering the license, such as handling third-party content and understanding the grant-back.
-* **Section 4: A Licensee Reused Your VOD Under Your License: Initial Steps** - Guides you on actions to take and points to check when a community member reuses your VOD.
-* **Section 5: Managing or Discontinuing Your License Offer** - Explains the appropriate procedures and precautions when changing your license offer terms or discontinuing the offer.
-* **Section 6: Addressing Specific Scenarios and Potential Issues** - Details responses to various situations that might arise in practice, such as Licensee non-compliance or rights issues.
-* **Section 7: Using and Modifying This License Template** - Explains the terms of use for the License Template itself.
-* **Section 8: Disclaimer from the Author of this Template** - Contains disclaimers regarding this template.
+* **[Section 2: How to Adopt This License for Your Channel: Step-by-Step](#2-how-to-adopt-this-license-for-your-channel-step-by-step)** - Explains the concrete steps from obtaining the License Template to customizing it and announcing it to your community.
+* **[Section 3: Important Considerations for You (as an Adopting Licensor)](#3-important-considerations-for-you-as-an-adopting-licensor)** - Describes key points to keep in mind when offering the license, such as handling third-party content and understanding the grant-back.
+* **[Section 4: A Licensee Reused Your VOD Under Your License: Initial Steps](#4-a-licensee-reused-your-vod-under-your-license-initial-steps)** - Guides you on actions to take and points to check when a community member reuses your VOD.
+* **[Section 5: Managing or Discontinuing Your License Offer](#5-managing-or-discontinuing-your-license-offer)** - Explains the appropriate procedures and precautions when changing your license offer terms or discontinuing the offer.
+* **[Section 6: Addressing Specific Scenarios and Potential Issues](#6-addressing-specific-scenarios-and-potential-issues)** - Details responses to various situations that might arise in practice, such as Licensee non-compliance or rights issues.
+* **[Section 7: Using and Modifying This License Template](#7-using-and-modifying-this-license-template)** - Explains the terms of use for the License Template itself.
+* **[Section 8: Disclaimer from the Author of this Template](#8-disclaimer-from-the-author-of-this-template)** - Contains disclaimers regarding this template.
 
 &nbsp;
 
@@ -160,7 +161,7 @@ Remember, your Licensees (those who reuse your VODs under your instance of the V
 A significant aspect of the VOD Reaction License Version 0.3 relates to the specific copy of the Licensee's Derivative Work that you may request and receive for your grant-back reuse. Section 3.d of the License defines terms like the "Published Version" (the Derivative Work as publicly distributed by the Licensee) and the "Provided Copy" (the digital copy the Licensee gives you, particularly for grant-back).  
 
 <details>
-<summary>Understanding what you are entitled to in this "Provided Copy" is key</summary>
+<summary>Understanding what you are entitled to in this "Provided Copy" is key.</summary>
 
 * Your Right to Request: You have the right to request a digital copy of relevant portions of a Licensee's Derivative Work that incorporates your VODs (as per Section 3.d of the License).  
 * Content of the Provided Copy: The License (Section 3.d(i)) specifies that this Provided Copy *must completely include all parts within the Licensee's Published Version that incorporate your VODs*.  
