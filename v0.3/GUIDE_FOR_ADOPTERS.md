@@ -375,6 +375,12 @@ Reach out to the Licensee. Explain your concern clearly and politely. Often, non
 </details>
 
 <details>
+<summary>A Further Note on Good-Faith Handling</summary>
+
+As a matter of community management and good faith, if the uncleared third-party content originated from your own original VOD, you (the Licensor) should carefully consider the situation. While the License is structured to place the ultimate legal responsibility on the Licensee for the content they choose to reuse, you may decide that the most constructive and fair approach is to handle any costs related to your own initial publication and subsequent reuse yourself, given you were the original source of the material.
+</details>
+
+<details>
 <summary>Your Discretion</summary>
 
 As the Licensor, the decision on how to handle non-compliance ultimately rests with you. While the license provides for automatic termination for a breach, fostering a positive and collaborative community often involves dialogue and giving creators a reasonable chance to rectify mistakes where appropriate. However, for serious, repeated, or bad-faith breaches, relying on the termination clause and requesting removal of the content might be necessary to protect your rights and the integrity of your licensing approach.
