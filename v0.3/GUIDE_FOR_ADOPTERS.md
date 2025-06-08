@@ -347,13 +347,13 @@ Ensure the license document you host and link to reflects the updated placeholde
 </details>
 
 
-#### 5.4 Impact on Existing, Compliant Uses (Applies to both Updates and Discontinuation)
+#### 5.4 Impact on Existing, Compliant Uses (Applies to All Changes to Your License Offer)
 
 <details>
-<summary>It is very important to understand that modifying your placeholder information or discontinuing your offer of this license for future reuses generally does not affect the rights of Licensees who have already begun Reusing your VODs in compliance with the license terms that were in effect before you made the change or withdrew the general offer.</summary>
+<summary>It is very important to understand that stopping your offer of this license for future VODs (Section 5.1), upgrading the license version for existing VODs (Section 5.2), or modifying your placeholder information (Section 5.3) generally does not affect the rights of Licensees who have already begun Reusing your VODs in compliance with the license terms that were in effect before you made the change.</summary>
 &nbsp;  
 
-Public licenses, once accepted through compliant use, grant rights that are typically irrevocable by the Licensor as long as the Licensee continues to adhere to the original conditions under which they started. The "VOD Reaction License" template's grant to the Licensee in Clause 2 explicitly includes "irrevocable (as long as the Licensee complies with all conditions of this License)," which reinforces this principle. This is crucial for building trust and encouraging good-faith reuse by your community.  
+Public licenses, once accepted through compliant use, grant rights that are typically irrevocable by the Licensor as long as the Licensee continues to adhere to the original conditions under which they started. The "VOD Reaction License" template's grant to the Licensee in Clause 2 explicitly includes "irrevocable (as long as the Licensee complies with all conditions of this License)," which reinforces this principle. This is crucial for building trust and encouraging good-faith reuse by your community.
 
 **Record Keeping and Supporting Your Community**
 
