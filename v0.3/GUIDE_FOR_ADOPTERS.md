@@ -91,9 +91,14 @@ If you wish to use this license model for your VODs, you will be offering your o
   * Below is an example of this announcement:  
    > * **VODs from this channel may be reused under the following conditions:**
    >   * Directly recording and rebroadcasting live streams is prohibited. Only VODs (archived recordings) are eligible for reuse under this license.
-   >   * The applicable distribution license for each VOD is indicated at the beginning or end of the video, or in its description. If no license is indicated for a VOD, please seek individual permission before reusing it.
-   >   * The full VOD Reaction License text can be viewed here: \[Link to Your Hosted License Text\]
-   >   * A usage guide is available here: \[Link to Your Hosted Licensee Guide\]  
+   >   * The applicable distribution license and its version for each VOD is indicated at the beginning or end of the video, or in its description. If no license is indicated for a VOD, please seek individual permission before reusing it.
+   >   * The license versions currently or previously used on this channel, along with their respective license texts and usage guides, are listed below. Please refer to the materials corresponding to the version applicable to the VOD you are using. 
+   >   * VOD Reaction License Version 0.X:
+   >      * License Text: \[Link to Your Hosted V0.X License Text\]
+   >      * Usage guide for Licensees: \[Link to Your Hosted V0.X Licensee Guide\]  
+   >   * VOD Reaction License Version 0.Y:
+   >      * License Text: \[Link to Your Hosted V0.Y License Text\]
+   >      * Usage guide for Licensees: \[Link to Your Hosted V0.Y Licensee Guide\]  
 * Per-VOD Indication (Highly Recommended): To provide maximum clarity for your viewers and potential Licensees, it is highly recommended that for each VOD you publish:  
   * Include your standard copyright notice (e.g., "© \[Your Year\] \[Your Channel Name\]").  
   * Clearly indicate its licensing status directly in the video's description, as an on-screen graphic (e.g., at the end of the video), or in a pinned comment. Examples:  
@@ -293,23 +298,23 @@ From time to time, new versions of the VOD Reaction License template may be rele
 <details>
 <summary>Here’s how to handle that correctly.</summary>
 
-* Core Principle: You Cannot Revoke Existing Rights: The most important principle to remember is that you cannot unilaterally revoke rights that have already been granted under a specific license version. A Licensee who has already started a project using your VOD under Version 0.2, for instance, is entitled to continue their use under the Version 0.2 terms. You cannot force them to move to Version 0.3.
+* Core Principle: You Cannot Revoke Existing Rights: The most important principle to remember is that you cannot unilaterally revoke rights that have already been granted under a specific license version. A Licensee who has already started a project using your VOD under Version 0.X is entitled to continue their use under the Version 0.X terms. You cannot force them to move to Version 0.Y.
 
-* The Correct Approach: Dual-Licensing (or Multi-Licensing): The correct way to handle this is to offer the VOD under both the old and the new license terms, giving the community the choice. This is often called "dual-licensing." You are effectively saying, "This VOD is now available under Version 0.2 OR Version 0.3. You, the Licensee, may choose which version's terms to comply with."
+* The Correct Approach: Dual-Licensing (or Multi-Licensing): The correct way to handle this is to offer the VOD under both the old and the new license terms, giving the community the choice. This is often called "dual-licensing." You are effectively saying, "This VOD is now available under Version 0.X OR Version 0.Y. You, the Licensee, may choose which version's terms to comply with."
 
 How to Implement an Upgrade
 
-1. Host the New License Text: First, ensure you have customized and hosted the new version of **the License** (e.g., Version 0.3) at a stable, public URL.
+1. Host the New License Text: First, ensure you have customized and hosted the new version of **the License** (e.g., Version 0.Y) at a stable, public URL.
 2. Update Your VOD Indications: Go back to the location where you originally indicated that a VOD was available under the old license (e.g., the YouTube description, a pinned comment, a public spreadsheet, etc.).
 3. Clearly State the New Options: Update the text to reflect the new, dual-license offer. Make sure you provide links to *both* license versions.  
    * Example Before:  
 
-      > This VOD is available for reuse under the VOD Reaction License v0.2.  
-      > License Text: \[Link to your V0.2 license text\]  
+      > This VOD is available for reuse under the VOD Reaction License v0.X.  
+      > License Text: \[Link to your V0.X license text\]  
    * Example After:
-      > This VOD is available for reuse under EITHER the VOD Reaction License v0.2 OR the VOD Reaction License v0.3. Licensees may choose which version's terms to comply with.  
-      > License v0.2 Text: \[Link to your V0.2 license text\]  
-      > License v0.3 Text: \[Link to your V0.3 license text\]  
+      > This VOD is available for reuse under EITHER the VOD Reaction License v0.X OR the VOD Reaction License v0.Y. Licensees may choose which version's terms to comply with.  
+      > License v0.X Text: \[Link to your V0.X license text\]  
+      > License v0.Y Text: \[Link to your V0.Y license text\]  
 4. Communicate with Your Community: It's good practice to announce this change to your community (e.g., on a stream, social media, or Discord). This helps avoid confusion and explains the benefits of the new version, encouraging them to use it for new projects.
 </details>
 
