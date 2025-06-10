@@ -58,7 +58,7 @@ f. Additional Restrictions by Licensor:
 
 4\. Grant-Back License for the Licensee's Derivative Works
 
-For each Derivative Work that the Licensee creates and publishes by using the Licensor's VODs in accordance with the terms of this license, the Licensee hereby grants back to the Licensor a non-exclusive, worldwide, perpetual, irrevocable, and non-transferable license, for which no monetary compensation is due to the Licensor, to use, reproduce, distribute, display, perform, adapt, and create derivative works from such Derivative Work. The permissibility of commercial use of the Derivative Work by the Licensor under this grant-back shall be the same as the permissibility of commercial use granted to the Licensee as set forth by the Licensor in Section 3.f.
+For each Derivative Work that the Licensee creates and publishes by using the Licensor's VODs in accordance with the terms of this license, the Licensee hereby grants back to the Licensor a non-exclusive, worldwide, perpetual, irrevocable, and non-transferable license, for which no monetary compensation is due to the Licensor, to use, reproduce, distribute, display, perform, adapt, and create derivative works from such Derivative Work. The permissibility of commercial use of the Derivative Work by the Licensor under this grant-back shall be the same as the permissibility of commercial use granted to the Licensee under Section 2 of this license.
 
 This license granted back to the Licensor is subject to the following conditions. This grant-back applies only to Derivative Works created by the Licensee that incorporate the Licensor's VODs under this license and does not apply to any other works created by the Licensee.
 
