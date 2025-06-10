@@ -78,24 +78,26 @@ If you wish to use this license model for your VODs, you will be offering your o
 <summary>Customizing Section 3.f: Adding Your Own Rules (Optional)</summary>
 &nbsp;  
 
-The VOD Reaction License Version 0.3 template includes an optional section, Section 3.f "Additional Restrictions by Licensor," where you can add your own custom rules. Using this section is entirely optional. If you have no rules to add, simply replace the placeholder comment in your license text with the word "None.".  
+The VOD Reaction License Version 0.3 template includes an optional section, Section 3.f "Additional Restrictions by Licensor," where you can add your own custom rules. 
+
+Crucially, the License itself limits the types of rules you can add in this section. As stated in the main text of Section 3.f, your custom restrictions may only pertain to (i) the permissibility of commercial use, and (ii) conditions regarding the Derivative Work itself. You cannot add restrictions unrelated to these topics (e.g., demanding royalties or requiring social media follows).
+
+If you have no rules to add, simply replace the placeholder comment in your license text with the word "None.".
 
 Understanding the Default Rule for Commercial Use:  
 Before you decide, please be aware of the important default behavior set in Section 2 of the License: If you do not add a specific restriction on commercial use in Section 3.f, commercial use WILL BE PERMITTED. Therefore, you only need to add a rule here if you wish to *change* this default permission.  
 
 How to Use Section 3.f:
-* If you want to PROHIBIT commercial use: You must add an explicit rule here to override the default.
+* To PROHIBIT commercial use: You must add an explicit rule here to override the default.
 
   Example: Commercial use of the Derivative Work is not permitted under this license.  
 
-* If you want to add OTHER content restrictions: You can also list other brand-safety or conduct rules here.
+* To add OTHER conditions regarding the Derivative Work: You can also list other brand-safety or conduct rules, as long as they relate directly to the content of the Derivative Work.
 
   Example:  
   * Derivative Works must not be presented in a way that could reasonably be mistaken for official content produced by the Licensor.
   * Derivative Works must not contain content that is contrary to public order and morals, or that is intended to harm the image of the Licensor or any third party.
   * Use of the VODs in content primarily focused on expressing or promoting specific ideologies, beliefs, religions, or political positions is not permitted.  
-
-* If you are happy with the default (Commercial use PERMITTED) and have NO other rules:As mentioned above, simply replace the entire placeholder in Section 3.f with the word "None."
 
 IMPORTANT: As advised in the guide's "Important Considerations" section (Section 3), be careful not to add rules in this placeholder that would contradict the core terms of the License (e.g., demanding royalties, changing the terms of the grant-back). This placeholder is for setting the commercial use policy and adding specific content/conduct guidelines. To ensure fairness and clarity, the conditions described within this placeholder should be objectively predictable.
 </details>
