@@ -8,6 +8,8 @@ The purpose of our License is to enable you, fellow creators (hereinafter "Licen
 
 This guide is intended to aid your understanding. The full License text is the legally binding document that governs your use. Please ensure you review the full License text carefully.
 
+&nbsp;
+
 &#10148; Full License Text: **\[\[Link to the Licensor's Full VOD Reaction License Text e.g., on GitHub Gist, website page\]\]**
 
 &nbsp;

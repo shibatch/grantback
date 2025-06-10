@@ -87,7 +87,9 @@ If you have no rules to add, simply replace the placeholder comment in your lice
 Understanding the Default Rule for Commercial Use:  
 Before you decide, please be aware of the important default behavior set in Section 2 of the License: If you do not add a specific restriction on commercial use in Section 3.f, commercial use WILL BE PERMITTED. Therefore, you only need to add a rule here if you wish to *change* this default permission.  
 
-How to Use Section 3.f:
+How to Use Section 3.f:  
+You can use this section to set your policy on commercial use and to add specific conditions regarding the Derivative Work.
+
 * To PROHIBIT commercial use: You must add an explicit rule here to override the default.
 
   Example: Commercial use of the Derivative Work is not permitted under this license.  
@@ -99,7 +101,7 @@ How to Use Section 3.f:
   * Derivative Works must not contain content that is contrary to public order and morals, or that is intended to harm the image of the Licensor or any third party.
   * Use of the VODs in content primarily focused on expressing or promoting specific ideologies, beliefs, religions, or political positions is not permitted.  
 
-IMPORTANT: As advised in the guide's "Important Considerations" section (Section 3), be careful not to add rules in this placeholder that would contradict the core terms of the License (e.g., demanding royalties, changing the terms of the grant-back). This placeholder is for setting the commercial use policy and adding specific content/conduct guidelines. To ensure fairness and clarity, the conditions described within this placeholder should be objectively predictable.
+IMPORTANT: As advised in the guide's "Important Considerations" section (Section 3), be careful not to add rules in this placeholder that would contradict the core terms of the License (e.g., demanding royalties, changing the terms of the grant-back). This placeholder is for setting the commercial use policy and adding specific content/conduct guidelines that are consistent with the limitations described above. To ensure fairness and clarity, the conditions described within this placeholder should be objectively predictable.
 </details>
 
 <details>

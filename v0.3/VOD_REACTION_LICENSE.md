@@ -53,7 +53,7 @@ The digital copy provided under this Section 3.d shall be in a common digital fo
 e. General Responsibility for Derivative Work:  
 The Licensee is solely responsible for all content within their Derivative Work and for ensuring that such Derivative Work complies with all applicable laws and does not infringe upon any third-party rights, including but not limited to copyright (beyond the rights granted herein for the Licensor's VODs), trademark, publicity rights, privacy rights, or any other personal or proprietary rights. The Licensor assumes no liability for the content or consequences of the Licensee's Derivative Work.
 
-f. Additional Restrictions by Licensor:
+f. Additional Restrictions by Licensor:  
 The Licensor may specify additional restrictions below. Such restrictions may only pertain to (i) the permissibility of commercial use, and (ii) conditions regarding the Derivative Work itself.
 
 **\[Adopting Licensor: This is where you specify your rules according to the limitations described above. To prohibit or place conditions on commercial use, you MUST state those restrictions here. As stated in Section 2, if this section contains no explicit restriction on commercial use, then commercial use will be permitted by default. If you have no additional restrictions to add at all, replace this entire comment with the word "None." For detailed instructions and examples, please see the Guide for Adopters.\]**
