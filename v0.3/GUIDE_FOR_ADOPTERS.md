@@ -97,7 +97,7 @@ How to Use Section 3.f:
 
 * If you are happy with the default (Commercial use PERMITTED) and have NO other rules:As mentioned above, simply replace the entire placeholder in Section 3.f with the word "None."
 
-IMPORTANT: As advised in the guide's "Important Considerations" section (Section 3), be careful not to add rules in this placeholder that would contradict the core terms of the License (e.g., demanding royalties, changing the terms of the grant-back). This placeholder is for setting the commercial use policy and adding specific content/conduct guidelines.
+IMPORTANT: As advised in the guide's "Important Considerations" section (Section 3), be careful not to add rules in this placeholder that would contradict the core terms of the License (e.g., demanding royalties, changing the terms of the grant-back). This placeholder is for setting the commercial use policy and adding specific content/conduct guidelines. To ensure fairness and clarity, the conditions described within this placeholder should be objectively predictable.
 </details>
 
 <details>
