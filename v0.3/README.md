@@ -25,6 +25,32 @@ The creation of this license model was motivated by several observations and goa
 4. Enabling Dialogue and Response: The grant-back feature ensures that the original Licensor can respond to, feature, or otherwise engage with reactions to their content, which is particularly useful for addressing misleading or bad-faith reactions and fostering a balanced conversation.  
 5. Controlled Sharing: By allowing Licensors to designate specific Permitted Platforms (such as Twitch and YouTube) for reuse, they can better manage the spread of their content beyond their desired ecosystems.
 
+
+<details>
+<summary>Relationship Between This License Model and the Hosseinzadeh v. Klein Case</summary>
+&nbsp;  
+
+To understand the background of this license model, the landmark U.S. copyright case Hosseinzadeh v. Klein (the h3h3Productions case) serves as a helpful reference. In this case, a court ruled that a critical commentary video on YouTube (a "reaction video") did not infringe on the original work's copyright and was protected by the U.S. doctrine of "fair use".
+
+While this ruling was a significant victory for creators of reaction videos, its scope is limited. Judge Katherine B. Forrest, who delivered the judgment, made a clear distinction between critical commentary, like the Kleins' video, and a mere "group watching session without comment," cautioning that not all reaction videos would qualify as fair use. Furthermore, YouTube's own official policy states that the final determination of whether a use is fair is made by a court of law, not the platform.
+
+This means that creators who rely on "fair use" always face the following uncertainties:
+
+* The ambiguity of whether their video will be legally recognized as "transformative" criticism.
+* The fact that the platform will not necessarily protect them from a copyright infringement claim.
+* The need to be prepared for a potentially expensive legal battle to ultimately prove fair use in court.
+
+The VOD Reaction License offers a clear solution to these problems.
+
+This license eliminates the need for community creators (Licensees) to guess whether their content qualifies as fair use and to bear the associated legal risks. This is because the license provides explicit, upfront permission from the original creator (Licensor) to create derivative works like reaction videos.
+
+Furthermore, this license features a Grant-Back clause, which is not found in the fair use doctrine. This clause allows the Licensor to reuse the Licensee's derivative work, which encourages a two-way dialogue and activates the entire community, moving beyond one-sided content use.
+
+In addition, it is important to note that the concept of fair use itself is fundamentally specific to the U.S. legal system. Legal systems vary significantly from country to country; for example, Canada, the EU, and Japan—which has no general fair use provision—all have different laws. For creators who operate globally, this legal diversity is a source of further uncertainty.
+
+The VOD Reaction License is designed to overcome these differences in national laws and provide a consistent, collaborative framework that allows creators to produce content with peace of mind.
+</details>
+
 ### What's in This Repository?
 
 This repository contains the following key documents:
