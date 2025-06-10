@@ -70,6 +70,8 @@ Our main goal, when you prepare and provide this Provided Copy for grant-back, i
 1. First, Check for Additional Licensor Rules in Section 3.f:
 Before you create, it is crucial to check Section 3.f ("Additional Restrictions by Licensor") of our specific License text. This is a special section where we, the Licensor, may add our own specific rules that apply to your Derivative Work. The rules in this section can change from one licensor to another, so you must always check Section 3.f to ensure your work will be compliant.
 
+   Please be aware that if the conditions the Licensor presents in Section 3.f are not objectively predictable and include unilateral discretion, creating content under that license carries a high degree of risk. In such cases, voicing your concerns to the Licensor or the community is also an important action for fostering a healthy licensing culture.
+
 2. Be Mindful of Copyright from the Start (Ideal Scenario for Your Published Version):
 Ideally, when you are first creating and editing your publicly available video (the "Published Version"), try to be mindful of any third-party copyrighted material you include (like background music, other video clips, game audio that might need clearance, etc.). If your Published Version is already "clean" – or the key parts related to our VOD are clean – preparing the Provided Copy for us will be much simpler. This is the best approach.
 
