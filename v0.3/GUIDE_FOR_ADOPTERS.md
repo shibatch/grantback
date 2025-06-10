@@ -68,7 +68,36 @@ If you wish to use this license model for your VODs, you will be offering your o
         * The chosen platform's own Terms of Service must not conflict with the rights granted or obligations imposed by your VOD Reaction License.  
         * If a platform's ToS would prevent or fundamentally contradict how this license is meant to work, that platform should not be listed by you as a Permitted Platform.  
     * Guidance if Unsure: If you are unsure about a platform's suitability regarding these points, it is advisable to conduct thorough research, seek advice if necessary, or limit your Permitted Platforms to those you are confident are compatible (such as Twitch and YouTube).  
-* Important: Ensure all bracketed placeholders \[...\] are correctly and consistently updated with *your* specific information. This customized text will become *your* license that *you* offer to your community. To use the name "VOD Reaction License Version 0.3" for your license, please modify only the content within these placeholders. For guidance on making other types of changes, or if this template doesn't precisely fit your needs, please refer to Section 7 of this guide ("Using and Modifying This License Template").
+* Basic notes on replacing placeholders:
+  * When you customize the license by replacing placeholder text, please be sure to delete the entire bracketed comment, including the square brackets \[ and \] themselves. The final, published license should only contain your own information, not the instructional comments from the template.
+  * Ensure all bracketed placeholders \[...\] are correctly and consistently updated with *your* specific information. This customized text will become *your* license that *you* offer to your community.
+  * To use the name "VOD Reaction License Version 0.3" for your license, please modify only the content within these placeholders. For guidance on making other types of changes, or if this template doesn't precisely fit your needs, please refer to Section 7 of this guide ("Using and Modifying This License Template").
+</details>
+
+<details>
+<summary>Customizing Section 3.f: Adding Your Own Rules (Optional)</summary>
+&nbsp;  
+
+The VOD Reaction License Version 0.3 template includes an optional section, Section 3.f "Additional Restrictions by Licensor," where you can add your own custom rules. Using this section is entirely optional. If you have no rules to add, simply replace the placeholder comment in your license text with the word "None.".  
+
+Understanding the Default Rule for Commercial Use:  
+Before you decide, please be aware of the important default behavior set in Section 2 of the License: If you do not add a specific restriction on commercial use in Section 3.f, commercial use WILL BE PERMITTED. Therefore, you only need to add a rule here if you wish to *change* this default permission.  
+
+How to Use Section 3.f:
+* If you want to PROHIBIT commercial use: You must add an explicit rule here to override the default.
+
+  Example: Commercial use of the Derivative Work is not permitted under this license.  
+
+* If you want to add OTHER content restrictions: You can also list other brand-safety or conduct rules here.
+
+  Example:  
+  * Derivative Works must not be presented in a way that could reasonably be mistaken for official content produced by the Licensor.
+  * Derivative Works must not contain content that is contrary to public order and morals, or that is intended to harm the image of the Licensor or any third party.
+  * Use of the VODs in content primarily focused on expressing or promoting specific ideologies, beliefs, religions, or political positions is not permitted.  
+
+* If you are happy with the default (Commercial use PERMITTED) and have NO other rules:As mentioned above, simply replace the entire placeholder in Section 3.f with the word "None."
+
+IMPORTANT: As advised in the guide's "Important Considerations" section (Section 3), be careful not to add rules in this placeholder that would contradict the core terms of the License (e.g., demanding royalties, changing the terms of the grant-back). This placeholder is for setting the commercial use policy and adding specific content/conduct guidelines.
 </details>
 
 <details>
@@ -164,7 +193,15 @@ While these considerations about third-party content might seem to add complexit
 
 #### 3.3 Understanding the Grant-Back (License Section 4\)
 
-Remember, your Licensees (those who reuse your VODs under your instance of the VOD Reaction License Version 0.3) will grant you rights back to reuse their "Derivative Works" (the new content they create using your VODs). This is a core feature detailed in Section 4 of the License. You, in turn, must adhere to the conditions in Section 4 (such as platform limits and, importantly, attributing the Licensee) when reusing their work.
+<details>
+<summary>A core feature of the License is the "grant-back" (detailed in Section 4), where your Licensees grant you rights back to reuse their "Derivative Works."</summary>
+
+It is vital to understand the nature of the rights you receive.  
+
+The terms of this grant-back are fixed by the License and are designed to be symmetrical to the rights you grant. The **Licensee cannot unilaterally change these grant-back terms**. This means that, by default (unless you use Section 3.f to prohibit commercial use entirely), the license you receive back from the Licensee allows you to use their Derivative Work for commercial purposes and without paying them royalties, just as they can use yours.  
+
+This ensures a fair and predictable exchange. You allow your community to build upon your work, and in return, you have the right to celebrate, comment on, and incorporate their creative responses back into your own content stream under the same basic financial terms. When reusing their work, you, in turn, must adhere to the conditions in Section 4 (such as platform limits and, importantly, attributing the Licensee).
+</details>
 
 #### 3.4 The "Provided Copy": What You Receive for Grant-Back Use (License Sections 3.d & 4.e.iv)
 

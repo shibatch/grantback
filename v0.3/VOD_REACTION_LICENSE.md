@@ -24,9 +24,11 @@ h. "Provided Copy" means the specific digital copy of a Derivative Work, or rele
 
 2\. License Grant for VODs
 
-The Licensor grants the Licensee a non-exclusive, worldwide, royalty-free, perpetual (for the duration of copyright in the VODs), irrevocable (as long as the Licensee complies with all conditions of this License), and non-transferable license to copy, adapt, remix, transform, excerpt, and create new works based on the VODs (resulting in Derivative Works), solely for the purpose of creating and publishing such Derivative Works on the Permitted Platforms, subject to all conditions in this license.
+The Licensor grants the Licensee a non-exclusive, worldwide, perpetual (for the duration of copyright in the VODs), irrevocable (as long as the Licensee complies with all conditions of this License), and non-transferable license, for which no monetary compensation is due to the Licensor, to copy, adapt, remix, transform, excerpt, and create new works based on the VODs (resulting in Derivative Works), solely for the purpose of creating and publishing such Derivative Works on the Permitted Platforms.
 
-3\. Conditions for Use of VODs
+This grant is subject to all conditions in this license. The permissibility of commercial use of the Derivative Work under this license is governed exclusively by the terms, if any, set forth by the Licensor in Section 3.f. Unless Section 3.f explicitly states that commercial use is not permitted, commercial use is permitted under the terms of this license.
+
+3\. Conditions of this License
 
 a. Platform Restriction:  
 The Licensee's Derivative Work may only be published, shared, or made available on the Permitted Platforms. Publication on any other platform is not permitted under this license.
@@ -51,9 +53,14 @@ The digital copy provided under this Section 3.d shall be in a common digital fo
 e. General Responsibility for Derivative Work:  
 The Licensee is solely responsible for all content within their Derivative Work and for ensuring that such Derivative Work complies with all applicable laws and does not infringe upon any third-party rights, including but not limited to copyright (beyond the rights granted herein for the Licensor's VODs), trademark, publicity rights, privacy rights, or any other personal or proprietary rights. The Licensor assumes no liability for the content or consequences of the Licensee's Derivative Work.
 
+f. Additional Restrictions by Licensor:
+**\[Adopting Licensor: This section is for specifying your policy on commercial use and for adding any other optional content restrictions. To prohibit or place conditions on commercial use, you MUST state those restrictions here. As stated in Section 2, if this section contains no explicit restriction on commercial use, then commercial use will be permitted by default. If you have no additional restrictions to add at all, replace this entire comment with the word "None." For detailed instructions and examples, please see the Guide for Adopters.\]**
+
 4\. Grant-Back License for the Licensee's Derivative Works
 
-For each Derivative Work that the Licensee creates and publishes by using the Licensor's VODs in accordance with the terms of this license, the Licensee hereby grants back to the Licensor a non-exclusive, worldwide, royalty-free, perpetual, irrevocable, and non-transferable license to use, reproduce, distribute, display, perform, adapt, and create derivative works from such Derivative Work. This license granted back to the Licensor is subject to the following conditions. This grant-back applies only to Derivative Works created by the Licensee that incorporate the Licensor's VODs under this license and does not apply to any other works created by the Licensee.
+For each Derivative Work that the Licensee creates and publishes by using the Licensor's VODs in accordance with the terms of this license, the Licensee hereby grants back to the Licensor a non-exclusive, worldwide, perpetual, irrevocable, and non-transferable license, for which no monetary compensation is due to the Licensor, to use, reproduce, distribute, display, perform, adapt, and create derivative works from such Derivative Work. The permissibility of commercial use of the Derivative Work by the Licensor under this grant-back shall be the same as the permissibility of commercial use granted to the Licensee as set forth by the Licensor in Section 3.f.
+
+This license granted back to the Licensor is subject to the following conditions. This grant-back applies only to Derivative Works created by the Licensee that incorporate the Licensor's VODs under this license and does not apply to any other works created by the Licensee.
 
 a. Platform Restriction for Licensor:  
 The Licensor's use of such Derivative Work is restricted to the Permitted Platforms. The Licensor may only publish, share, or make such Derivative Work (or derivatives thereof created by the Licensor from such Derivative Work) available on these platforms.
@@ -101,7 +108,11 @@ Neither party shall be held liable for any failure or delay in performing any of
 
 10\. General Provisions
 
-If any provision of this license is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect. This license constitutes the entire agreement between the Licensee and the Licensor concerning the subject matter hereof.
+a. If any provision of this license is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
+
+b. This license constitutes the entire agreement between the Licensee and the Licensor concerning the subject matter hereof.
+
+c. Order of Precedence. In the event of any conflict, ambiguity, or inconsistency between the information provided by the Licensor within any placeholder of this License and the standard, non-placeholder provisions of this License, the standard, non-placeholder provisions shall govern and control.
 
 11\. Distribution and Modification of This License Document 
 
