@@ -8,7 +8,17 @@ The purpose of our License is to enable you, fellow creators (hereinafter "Licen
 
 This guide is intended to aid your understanding. The full License text is the legally binding document that governs your use. Please ensure you review the full License text carefully.
 
-▶ Full License Text: **\[\[Link to the Licensor's Full VOD Reaction License Text e.g., on GitHub Gist, website page\]\]**
+&#10148; Full License Text: **\[\[Link to the Licensor's Full VOD Reaction License Text e.g., on GitHub Gist, website page\]\]**
+
+&nbsp;
+
+An Important Note for Corporate-Affiliated Streamers
+
+If you are a creator affiliated with a corporation or agency, it is crucial that you check your own contract and your agency's policies before using VODs under this License.
+
+By using a VOD under this License, you are automatically agreeing to grant back a license to the original creator (the Licensor) under the terms described in Section 4 of their License. You cannot change these grant-back terms. You must ensure that these grant-back terms do not conflict with your obligations to your own agency.
+
+&nbsp;
 
 2\. Creating Your Content: A Step-by-Step Guide
 
