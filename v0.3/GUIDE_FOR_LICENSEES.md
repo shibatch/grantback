@@ -12,7 +12,7 @@ This guide is intended to aid your understanding. The full License text is the l
 
 &nbsp;
 
-An Important Note for Corporate-Affiliated Streamers
+An Important Note for Corporate-Affiliated Creators
 
 If you are a creator affiliated with a corporation or agency, it is crucial that you check your own contract and your agency's policies before using VODs under this License.
 

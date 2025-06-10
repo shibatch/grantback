@@ -24,7 +24,7 @@ The creation of this license model was motivated by several observations and goa
 3. Supporting Growth: For many streamers (especially those building their audience), having their content reacted to by others can significantly boost visibility and engagement. This license is designed to actively encourage such interactions.  
 4. Enabling Dialogue and Response: The grant-back feature ensures that the original Licensor can respond to, feature, or otherwise engage with reactions to their content, which is particularly useful for addressing misleading or bad-faith reactions and fostering a balanced conversation.  
 5. Controlled Sharing: By allowing Licensors to designate specific Permitted Platforms (such as Twitch and YouTube) for reuse, they can better manage the spread of their content beyond their desired ecosystems.
-
+6. Flexibility for Corporate or Agency Guidelines: The license is adaptable to specific reuse guidelines set by a company or agency a licensor may be affiliated with. The license template provides a dedicated section where the licensor can add their own custom rules—such as prohibiting commercial use or restricting use with certain types of content—to align with corporate policies.
 
 <details>
 <summary>Relationship Between This License Model and the Hosseinzadeh v. Klein Case</summary>
