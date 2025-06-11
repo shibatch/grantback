@@ -17,7 +17,7 @@ This License Template is a custom-designed license. We believe it offers a uniqu
 <summary>The text of this License Template itself is offered with specific permissions regarding its copying and modification.</summary>
 &nbsp;  
 
-You can copy and distribute it, and you can adapt it for your own use by filling in the designated placeholders. However, to maintain consistency for the "VOD Reaction License Version 0.3" model, modifications to the core legal terms (beyond placeholders) mean your version should be considered a new, distinct license. Full details on how you can use and adapt the license template text are provided in Section 11 of the License Template document itself, and further explained in Section 7 of this guide.  
+You can copy and distribute it, and you can adapt it for your own use by filling in the designated placeholders. However, to maintain consistency for the "VOD Reaction License Version 0.3" model, modifications to the core legal terms (beyond placeholders) mean your version should be considered a new, distinct license. Full details on how you can use and adapt the license template text are provided in Clause 11 of the License Template document itself, and further explained in Section 7 of this guide.  
 </details>
 
 To help you smoothly adopt and operationalize the VOD Reaction License model, this guide will detail the following steps and considerations:  
@@ -52,22 +52,10 @@ If you wish to use this license model for your VODs, you will be offering your o
 
 * Copy the full License Template text.  
 * Carefully find and replace all bracketed placeholders \[...\] with your own specific information. These include:  
-  * \[Licensor's Primary Channel Name\]: Your main channel name (e.g., "YourStreamChannel"). This will appear in the Preamble, Definition 1.a, and Section 11 (of the VOD Reaction License text, referring to "Distribution and Modification of This License Document").  
+  * \[Licensor's Primary Channel Name\]: Your main channel name (e.g., "YourStreamChannel"). This will appear in the Preamble, Definition 1.a, and Clause 11 (of the VOD Reaction License text, referring to "Distribution and Modification of This License Document").  
   * \[Year\] and \[Licensor's Name or Channel Name / Operator\] (in the Copyright notice section of the License Template): The current year and your legal name, channel name, or operating entity name.  
-    * (A Note on Your Copyright Line): The format Copyright (c) \[Year\] \[Your Name/Entity\] is common. For content like your VODs, you might also choose to state, for example: "Copyright (c) \[Year\] \[Your Channel Name\]. My VODs under this license are offered via the VOD Reaction License Version 0.3." The phrase "All rights reserved." (often seen with software) is generally optional for content, as your rights are reserved by copyright law anyway, and Section 5 of the License Template ("Reservation of Rights") already clarifies this. Select a style that you are comfortable with for your channel.  
-  * \[Licensor's Designated Channel Name for Attribution\] (in Definition 1.f and Section 3.b of the License Template): The specific channel name you want *your* Licensees (your VOD reusers) to credit when they use your VODs.  
-  * Important Considerations When Choosing/Adding Permitted Platforms:  
-    * Original Context of the License Template: This License Template was primarily written with Twitch and YouTube in mind as common distribution platforms for Derivative Works, due to their widespread use and features.  
-    * Your Choice and Responsibility: As the Licensor adopting this template, you have the flexibility to designate other platforms. However, the responsibility for this choice rests entirely with you.  
-    * If you add platforms beyond or instead of Twitch and YouTube, you MUST confirm the following:  
-      * Functional Compatibility with this License: The platform must genuinely support the core mechanisms and spirit of the VOD Reaction License. Key functionalities to verify include:  
-        * The platform's general ability to host and publicly display video content.  
-        * Clear and practical ways for Licensees to provide Attribution to you (as required by Clause 3.b of your License).  
-        * Reasonable public access to content and features that allow the grant-back rights (Clause 4 of your License) to operate as intended (e.g., for you to view and potentially reuse their work).  
-      * No Conflict with the Platform's Terms of Service (ToS):  
-        * The chosen platform's own Terms of Service must not conflict with the rights granted or obligations imposed by your VOD Reaction License.  
-        * If a platform's ToS would prevent or fundamentally contradict how this license is meant to work, that platform should not be listed by you as a Permitted Platform.  
-    * Guidance if Unsure: If you are unsure about a platform's suitability regarding these points, it is advisable to conduct thorough research, seek advice if necessary, or limit your Permitted Platforms to those you are confident are compatible (such as Twitch and YouTube).  
+    * (A Note on Your Copyright Line): The format Copyright (c) \[Year\] \[Your Name/Entity\] is common. For content like your VODs, you might also choose to state, for example: "Copyright (c) \[Year\] \[Your Channel Name\]. My VODs under this license are offered via the VOD Reaction License Version 0.3." The phrase "All rights reserved." (often seen with software) is generally optional for content, as your rights are reserved by copyright law anyway, and Clause 5 of the License Template ("Reservation of Rights") already clarifies this. Select a style that you are comfortable with for your channel.  
+  * \[Licensor's Designated Channel Name for Attribution\] (in Definition 1.f and Clause 3.b of the License Template): The specific channel name you want *your* Licensees (your VOD reusers) to credit when they use your VODs.  
 * Basic notes on replacing placeholders:
   * When you customize the license by replacing placeholder text, please be sure to delete the entire bracketed comment, including the square brackets \[ and \] themselves. The final, published license should only contain your own information, not the instructional comments from the template.
   * Ensure all bracketed placeholders \[...\] are correctly and consistently updated with *your* specific information. This customized text will become *your* license that *you* offer to your community.
@@ -75,19 +63,36 @@ If you wish to use this license model for your VODs, you will be offering your o
 </details>
 
 <details>
-<summary>Customizing Section 3.f: Adding Your Own Rules (Optional)</summary>
+<summary>Important Considerations When Choosing/Adding Permitted Platforms (Clause 1.d)</summary>
+&nbsp;
+
+As the Licensor adopting this template, you have the flexibility to designate other platforms. However, the responsibility for this choice rests entirely with you.  
+* This License Template was primarily written with Twitch and YouTube in mind as common distribution platforms for Derivative Works, due to their widespread use and features.  
+* If you add platforms beyond or instead of Twitch and YouTube, you MUST confirm the following:  
+   * Functional Compatibility with this License: The platform must genuinely support the core mechanisms and spirit of the VOD Reaction License. Key functionalities to verify include:  
+      * The platform's general ability to host and publicly display video content.  
+      * Clear and practical ways for Licensees to provide Attribution to you (as required by Clause 3.b of your License).  
+      * Reasonable public access to content and features that allow the grant-back rights (Clause 4 of your License) to operate as intended (e.g., for you to view and potentially reuse their work).  
+   * No Conflict with the Platform's Terms of Service (ToS):  
+      * The chosen platform's own Terms of Service must not conflict with the rights granted or obligations imposed by your VOD Reaction License.  
+      * If a platform's ToS would prevent or fundamentally contradict how this license is meant to work, that platform should not be listed by you as a Permitted Platform.  
+* Guidance if Unsure: If you are unsure about a platform's suitability regarding these points, it is advisable to conduct thorough research, seek advice if necessary, or limit your Permitted Platforms to those you are confident are compatible (such as Twitch and YouTube).  
+</details>
+
+<details>
+<summary>Customizing Clause 3.f: Adding Your Own Rules</summary>
 &nbsp;  
 
-The VOD Reaction License Version 0.3 template includes an optional section, Section 3.f "Additional Restrictions by Licensor," where you can add your own custom rules. 
+The VOD Reaction License Version 0.3 template includes an optional section, Clause 3.f "Additional Restrictions by Licensor," where you can add your own custom rules. 
 
-Crucially, the License itself limits the types of rules you can add in this section. As stated in the main text of Section 3.f, your custom restrictions may only pertain to (i) the permissibility of commercial use, and (ii) conditions regarding the Derivative Work itself. You cannot add restrictions unrelated to these topics (e.g., demanding royalties or requiring social media follows).
+Crucially, the License itself limits the types of rules you can add in this section. As stated in the main text of Clause 3.f, your custom restrictions may only pertain to (i) the permissibility of commercial use, and (ii) conditions regarding the Derivative Work itself. You cannot add restrictions unrelated to these topics (e.g., demanding royalties or requiring social media follows).
 
 If you have no rules to add, simply replace the placeholder comment in your license text with the word "None.".
 
 Understanding the Default Rule for Commercial Use:  
-Before you decide, please be aware of the important default behavior set in Section 2 of the License: If you do not add a specific restriction on commercial use in Section 3.f, commercial use WILL BE PERMITTED. Therefore, you only need to add a rule here if you wish to *change* this default permission.  
+Before you decide, please be aware of the important default behavior set in Clause 2 of the License: If you do not add a specific restriction on commercial use in Clause 3.f, commercial use WILL BE PERMITTED. Therefore, you only need to add a rule here if you wish to *change* this default permission.  
 
-How to Use Section 3.f:  
+How to Use Clause 3.f:  
 You can use this section to set your policy on commercial use and to add specific conditions regarding the Derivative Work.
 
 * To PROHIBIT commercial use: You must add an explicit rule here to override the default.
@@ -165,7 +170,7 @@ By customizing and publishing this license text for your VODs, you become the "L
 
 #### 3.2 Navigating Third-Party Content in Your VODs
 
-The License you grant via this template (specifically Section 5 of the License, "Reservation of Rights and Third-Party Content in Original VODs") clarifies key points for your Licensees regarding third-party content found *within your VODs*:
+The License you grant via this template (specifically Clause 5 of the License, "Reservation of Rights and Third-Party Content in Original VODs") clarifies key points for your Licensees regarding third-party content found *within your VODs*:
 
 <details>
 <summary>Your Permissions Don't Automatically Transfer</summary>
@@ -195,33 +200,33 @@ To help your community reuse your VODs safely and effectively under this License
 While these considerations about third-party content might seem to add complexity, it's important to remember that these copyright issues and responsibilities are inherent to any form of content reuse. Granting permissions on an ad-hoc, case-by-case basis without a clear license often leaves these same issues unaddressed and potentially more confusing for everyone involved. This License doesn't aim to create new complications; rather, it strives to provide a more structured and transparent framework for navigating these existing issues when you wish to allow community reuse of your VODs.
 </details>
 
-#### 3.3 Understanding the Grant-Back (License Section 4\)
+#### 3.3 Understanding the Grant-Back (License Clause 4\)
 
 <details>
-<summary>A core feature of the License is the "grant-back" (detailed in Section 4), where your Licensees grant you rights back to reuse their "Derivative Works."</summary>
+<summary>A core feature of the License is the "grant-back" (detailed in Clause 4), where your Licensees grant you rights back to reuse their "Derivative Works."</summary>
 
 It is vital to understand the nature of the rights you receive.  
 
-The terms of this grant-back are fixed by the License and are designed to be symmetrical to the rights you grant. The **Licensee cannot unilaterally change these grant-back terms**. This means that, by default (unless you use Section 3.f to prohibit commercial use entirely), the license you receive back from the Licensee allows you to use their Derivative Work for commercial purposes and without paying them royalties, just as they can use yours.  
+The terms of this grant-back are fixed by the License and are designed to be symmetrical to the rights you grant. The **Licensee cannot unilaterally change these grant-back terms**. This means that, by default (unless you use Clause 3.f to prohibit commercial use entirely), the license you receive back from the Licensee allows you to use their Derivative Work for commercial purposes and without paying them royalties, just as they can use yours.  
 
-This ensures a fair and predictable exchange. You allow your community to build upon your work, and in return, you have the right to celebrate, comment on, and incorporate their creative responses back into your own content stream under the same basic financial terms. When reusing their work, you, in turn, must adhere to the conditions in Section 4 (such as platform limits and, importantly, attributing the Licensee).
+This ensures a fair and predictable exchange. You allow your community to build upon your work, and in return, you have the right to celebrate, comment on, and incorporate their creative responses back into your own content stream under the same basic financial terms. When reusing their work, you, in turn, must adhere to the conditions in Clause 4 (such as platform limits and, importantly, attributing the Licensee).
 </details>
 
-#### 3.4 The "Provided Copy": What You Receive for Grant-Back Use (License Sections 3.d & 4.e.iv)
+#### 3.4 The "Provided Copy": What You Receive for Grant-Back Use (License Clauses 3.d & 4.e.iv)
 
-A significant aspect of the VOD Reaction License concerns the specific copy of the Licensee's Derivative Work you may request and receive for grant-back reuse. To manage this, Section 3.d of the License defines key terms: the "Published Version" (the Derivative Work as publicly distributed by the Licensee) and the "Provided Copy" (the digital copy prepared for and delivered to you, particularly for grant-back).
+A significant aspect of the VOD Reaction License concerns the specific copy of the Licensee's Derivative Work you may request and receive for grant-back reuse. To manage this, Clause 3.d of the License defines key terms: the "Published Version" (the Derivative Work as publicly distributed by the Licensee) and the "Provided Copy" (the digital copy prepared for and delivered to you, particularly for grant-back).
 
 <details>
 <summary>Understanding what you are entitled to in this "Provided Copy" is key.</summary>
 
-* Your Right to Request: You have the right to request a digital copy of relevant portions of a Licensee's Derivative Work that incorporates your VODs (as per Section 3.d of the License).  
-* Content of the Provided Copy: The License (Section 3.d(i)) specifies that this Provided Copy *must completely include all parts within the Licensee's Published Version that incorporate your VODs*.  
-* Strict Limits on Editing by Licensee: When a Licensee prepares the Provided Copy from their Published Version, any editing is *strictly limited* to the minimum extent objectively necessary to clear third-party copyrights that were present in their Published Version (e.g., muting music, removing a problematic third-party clip they had included). No other substantive or stylistic editing by the Licensee that would alter the content or presentation of the segments incorporating your VODs as they appeared in the Published Version is permitted (as per Section 3.d(ii) of the License). This ensures the Provided Copy remains a faithful representation of their public work concerning your VODs, merely cleaned for copyright.  
-* Notification of Lost Content: If these essential copyright-clearing edits by the Licensee unavoidably result in important parts of *their own original content* (like their speech) being lost or obscured in the Provided Copy, the Licensee *must* notify you of the nature and content of such lost parts, for example, by providing a textual transcript (as per Section 3.d(iii) of the License).  
-* Licensee's Warranty Applies to This "Provided Copy": Crucially, the Licensee's representation and warranty regarding the copyright cleanness of their work for your reuse (detailed in Section 4.e.iv of the License) is specifically tied to this "Provided Copy" that they prepare and deliver to you. This means you can rely on *this specific copy* as being warranted by the Licensee as clear for your grant-back use. If you choose to reuse the Licensee's Published Version directly without requesting or using the Provided Copy, you would be doing so without the benefit of this specific warranty applying to that particular cleaned and prepared artifact.
+* Your Right to Request: You have the right to request a digital copy of relevant portions of a Licensee's Derivative Work that incorporates your VODs (as per Clause 3.d of the License).  
+* Content of the Provided Copy: The License (Clause 3.d(i)) specifies that this Provided Copy *must completely include all parts within the Licensee's Published Version that incorporate your VODs*.  
+* Strict Limits on Editing by Licensee: When a Licensee prepares the Provided Copy from their Published Version, any editing is *strictly limited* to the minimum extent objectively necessary to clear third-party copyrights that were present in their Published Version (e.g., muting music, removing a problematic third-party clip they had included). No other substantive or stylistic editing by the Licensee that would alter the content or presentation of the segments incorporating your VODs as they appeared in the Published Version is permitted (as per Clause 3.d(ii) of the License). This ensures the Provided Copy remains a faithful representation of their public work concerning your VODs, merely cleaned for copyright.  
+* Notification of Lost Content: If these essential copyright-clearing edits by the Licensee unavoidably result in important parts of *their own original content* (like their speech) being lost or obscured in the Provided Copy, the Licensee *must* notify you of the nature and content of such lost parts, for example, by providing a textual transcript (as per Clause 3.d(iii) of the License).  
+* Licensee's Warranty Applies to This "Provided Copy": Crucially, the Licensee's representation and warranty regarding the copyright cleanness of their work for your reuse (detailed in Clause 4.e.iv of the License) is specifically tied to this "Provided Copy" that they prepare and deliver to you. This means you can rely on *this specific copy* as being warranted by the Licensee as clear for your grant-back use. If you choose to reuse the Licensee's Published Version directly without requesting or using the Provided Copy, you would be doing so without the benefit of this specific warranty applying to that particular cleaned and prepared artifact.
 </details>
 
-In summary, this creates a clear choice for you as the Licensor: The grant-back license you receive (under Section 4 of the License) applies to the Licensee's entire "Published Version." You therefore have the right to reuse any part of their publicly available work. However, the specific warranty from the Licensee that the work is "clean" for your reuse (as detailed in Section 4.e.iv of the License) applies only to the "Provided Copy" that they prepare and deliver to you upon request.
+In summary, this creates a clear choice for you as the Licensor: The grant-back license you receive (under Clause 4 of the License) applies to the Licensee's entire "Published Version." You therefore have the right to reuse any part of their publicly available work. However, the specific warranty from the Licensee that the work is "clean" for your reuse (as detailed in Clause 4.e.iv of the License) applies only to the "Provided Copy" that they prepare and deliver to you upon request.
 
 Therefore, while the Provided Copy may be shorter than the full Published Version (as it is only legally required to contain segments that incorporate your VODs), it is the version that comes with the Licensee's explicit warranty regarding its copyright status for your reuse. If you choose to reuse parts of the Published Version directly without requesting and relying on the warranted Provided Copy, you do so without the benefit of that specific warranty from the Licensee.
 
@@ -248,16 +253,16 @@ This License Template is experimental and provided as a starting point. You are 
 
 ### 4\. A Licensee Reused Your VOD Under Your License: Initial Steps
 
-So, a member of your community has created a Derivative Work using your VOD under your VOD Reaction License Version 0.3 and (as per Section 3.c of the License you offer) has notified you. Here’s what you might do:
+So, a member of your community has created a Derivative Work using your VOD under your VOD Reaction License Version 0.3 and (as per Clause 3.c of the License you offer) has notified you. Here’s what you might do:
 
 <details>
 <summary>Step 4.1: Review the Licensee's Derivative Work (Their "Published Version")</summary>
 
 * Watch their content\! See what they've created. This initial version you are reviewing is what the License refers to as the "Published Version."  
 * Check if they've complied with your license terms, such as:  
-  * Attribution to You: Have they correctly attributed your channel (as specified in your version of Section 3.b of the License)?  
-  * Permitted Platforms: Is their Derivative Work published on one of the platforms you designated as "Permitted Platforms" in the License (as per Section 3.a of the License)?  
-* Requesting the "Provided Copy" for Grant-Back Consideration: As the Licensor, you have the right under Section 3.d of the License to request a "Provided Copy" from the Licensee. This is a standard step to consider if you wish to evaluate their work for your own grant-back reuse. You might decide to request this copy for any number of reasons—perhaps you have concerns about the copyright cleanness of their "Published Version," or maybe you simply cannot access their work. Your request can be simple, such as, "As per the VOD Reaction License, could you please provide me with the copy of your derivative work?" You are not required to explain your reasoning or instruct the Licensee on how to perform the copyright clearance; the License itself outlines their obligations for preparing this copy. Finally, remember that receiving the Provided Copy simply gives you the option to reuse it; it does not create any obligation for you to actually publish content using it.
+  * Attribution to You: Have they correctly attributed your channel (as specified in your version of Clause 3.b of the License)?  
+  * Permitted Platforms: Is their Derivative Work published on one of the platforms you designated as "Permitted Platforms" in the License (as per Clause 3.a of the License)?  
+* Requesting the "Provided Copy" for Grant-Back Consideration: As the Licensor, you have the right under Clause 3.d of the License to request a "Provided Copy" from the Licensee. This is a standard step to consider if you wish to evaluate their work for your own grant-back reuse. You might decide to request this copy for any number of reasons—perhaps you have concerns about the copyright cleanness of their "Published Version," or maybe you simply cannot access their work. Your request can be simple, such as, "As per the VOD Reaction License, could you please provide me with the copy of your derivative work?" You are not required to explain your reasoning or instruct the Licensee on how to perform the copyright clearance; the License itself outlines their obligations for preparing this copy. Finally, remember that receiving the Provided Copy simply gives you the option to reuse it; it does not create any obligation for you to actually publish content using it.
 </details>
 
 <details>
@@ -267,21 +272,21 @@ So, a member of your community has created a Derivative Work using your VOD unde
 </details>
 
 <details>
-<summary>Step 4.3: Consider Using Your Grant-Back Rights (License Section 4)</summary>
+<summary>Step 4.3: Consider Using Your Grant-Back Rights (License Clause 4)</summary>
 
 * Remember, the License grants you (the Licensor) rights to reuse the Licensee's Derivative Work.  
 * You could:  
   * Feature the Derivative Work on your own stream or in a video.  
   * Create a "reacting to reactions" segment.  
   * Use clips from the Derivative Work in a compilation or highlights reel.  
-* Which Version to Reuse: For your reuse, especially if you requested it due to copyright concerns with the Published Version, you would typically use the "Provided Copy." This is because, as detailed in Section 4.e.iv of the License, the Licensee’s warranty regarding copyright cleanness for your reuse specifically applies to this Provided Copy.
+* Which Version to Reuse: For your reuse, especially if you requested it due to copyright concerns with the Published Version, you would typically use the "Provided Copy." This is because, as detailed in Clause 4.e.iv of the License, the Licensee’s warranty regarding copyright cleanness for your reuse specifically applies to this Provided Copy.
 </details>
 
 <details>
 <summary>Step 4.4: If You Reuse Their Derivative Work – Your Obligations to Them</summary>
 
-* Platform Restriction: Just like your Licensee, you must only use their Derivative Work (or derivatives you make from it, typically based on the Provided Copy if one was furnished) on the "Permitted Platforms" as defined in the License (as per Section 4.a of the License).  
-* Attribution to Them (the Licensee): This is crucial. You *must* provide attribution back to the creator of that Derivative Work (as per Section 4.b of the License).  
+* Platform Restriction: Just like your Licensee, you must only use their Derivative Work (or derivatives you make from it, typically based on the Provided Copy if one was furnished) on the "Permitted Platforms" as defined in the License (as per Clause 4.a of the License).  
+* Attribution to Them (the Licensee): This is crucial. You *must* provide attribution back to the creator of that Derivative Work (as per Clause 4.b of the License).  
   * Use their primary channel name (e.g., the channel on a Permitted Platform where they published the Derivative Work, or as they otherwise indicated).  
   * If they specified a preferred name for attribution when they notified you, use that.  
   * Make the attribution clear, either visually or audibly.  
@@ -289,15 +294,15 @@ So, a member of your community has created a Derivative Work using your VOD unde
 </details>
 
 <details>
-<summary>Step 4.5: Regarding Third-Party Content in Their Derivative Work (Especially the "Provided Copy" - Corresponds to License Sections 3.d and 4.e.iv)</summary>
+<summary>Step 4.5: Regarding Third-Party Content in Their Derivative Work (Especially the "Provided Copy" - Corresponds to License Clauses 3.d and 4.e.iv)</summary>
 
 * The Licensee is responsible for the copyright status of their entire Derivative Work. However, for the purpose of *your grant-back reuse*, the VOD Reaction License Version 0.3 places specific emphasis on the "Provided Copy" that the Licensee delivers to you upon request.  
-* Licensee's Warranty Applies to the "Provided Copy": Section 4.e.iv of the License states that the Licensee represents and warrants that the "Provided Copy" (as defined and prepared according to Section 3.d of the License) is clear of third-party rights issues that would prevent your reuse under the grant-back. This is the version you should primarily rely on if copyright cleanness is a concern.  
-* Nature of the "Provided Copy": Remember, Section 3.d of the License specifies that the Provided Copy must:  
+* Licensee's Warranty Applies to the "Provided Copy": Clause 4.e.iv of the License states that the Licensee represents and warrants that the "Provided Copy" (as defined and prepared according to Clause 3.d of the License) is clear of third-party rights issues that would prevent your reuse under the grant-back. This is the version you should primarily rely on if copyright cleanness is a concern.  
+* Nature of the "Provided Copy": Remember, Clause 3.d of the License specifies that the Provided Copy must:  
   * Completely include all parts from the Licensee's Published Version that incorporate *your* VODs.  
   * Have edits (compared to the Published Version) that are *strictly limited* to the minimum objectively necessary to clear third-party copyrights present in those parts of the Published Version. No other substantive or stylistic changes to those parts are permitted.  
   * If important original content from the Licensee (like their speech) was unavoidably lost during these copyright-clearing edits, the Licensee must notify you of this and provide details (e.g., a transcript).  
-* Your Review and Caution: Even with these provisions, review the Provided Copy. If you still have concerns about third-party content within it, or if the Licensee has notified you of lost content due to necessary muting, exercise caution. Section 4.e.iv of the License also states that the Licensee agrees to endeavor to identify or help remove/replace problematic content in the Provided Copy if you request it. Open communication with the Licensee is key if issues arise.
+* Your Review and Caution: Even with these provisions, review the Provided Copy. If you still have concerns about third-party content within it, or if the Licensee has notified you of lost content due to necessary muting, exercise caution. Clause 4.e.iv of the License also states that the Licensee agrees to endeavor to identify or help remove/replace problematic content in the Provided Copy if you request it. Open communication with the Licensee is key if issues arise.
 </details>
 
 ### 5\. Managing or Discontinuing Your License Offer
@@ -413,7 +418,7 @@ This section covers how to handle certain situations that may arise in practice.
 
 #### 6.1 Handling Potential Non-Compliance or Rights Issues by a Licensee
 
-The VOD Reaction License Version 0.3 aims for clarity, but misunderstandings or mistakes can occur. Section 8 of the License states that if a Licensee fails to comply with any condition, their rights under the License terminate automatically. This means their permission to use your VODs in their Derivative Work technically ceases.  
+The VOD Reaction License Version 0.3 aims for clarity, but misunderstandings or mistakes can occur. Clause 8 of the License states that if a Licensee fails to comply with any condition, their rights under the License terminate automatically. This means their permission to use your VODs in their Derivative Work technically ceases.  
 
 However, this automatic termination doesn't always mean that the only option is immediate deletion of the Licensee's Derivative Work. Open communication can often lead to a resolution.  
 
@@ -425,8 +430,8 @@ If you (the Licensor) become aware of a Derivative Work that appears to violate 
 * Improper attribution to you.  
 * Publication on a non-Permitted Platform.  
 * Failure to provide a "Provided Copy" upon your request in a timely manner.
-* Provision of a "Provided Copy" that does not meet the specific requirements of Section 3.d of the License.
-* Inclusion of uncleared third-party content by the Licensee in the "Provided Copy" which breaches their warranty under Section 4.e.iv of the License.
+* Provision of a "Provided Copy" that does not meet the specific requirements of Clause 3.d of the License.
+* Inclusion of uncleared third-party content by the Licensee in the "Provided Copy" which breaches their warranty under Clause 4.e.iv of the License.
 </details>
 
 <details>
@@ -439,20 +444,20 @@ Reach out to the Licensee. Explain your concern clearly and politely. Often, non
 <details>
 <summary>Possible Resolutions (Beyond Automatic Termination and Takedown)</summary>
 
-* Correction by Licensee: The Licensee might be able to correct the issue (e.g., fix attribution, move the content to a Permitted Platform, or re-prepare and re-submit a "Provided Copy" that meets the requirements of Section 3.d of the License). If they do so promptly to your satisfaction, you might, at your discretion, choose to consider the matter resolved and allow continued publication or accept the corrected Provided Copy. This is often the simplest path.  
+* Correction by Licensee: The Licensee might be able to correct the issue (e.g., fix attribution, move the content to a Permitted Platform, or re-prepare and re-submit a "Provided Copy" that meets the requirements of Clause 3.d of the License). If they do so promptly to your satisfaction, you might, at your discretion, choose to consider the matter resolved and allow continued publication or accept the corrected Provided Copy. This is often the simplest path.  
 * New, Separate Agreement or Understanding: Even if the original VOD Reaction License technically terminated due to the breach, alternative arrangements might be possible:  
   * For Corrected or Partially Used Content: If the Licensee corrects their Derivative Work (e.g., by removing the problematic third-party content), you and the Licensee can reach a new, separate understanding or grant specific permission for that corrected version to remain public. Similarly, you might agree that only certain "clean" portions of the original Derivative Work can continue to be used or be re-edited for publication under a new understanding. This new understanding would operate outside the terms of the original VOD Reaction License that was breached.  
   * For Continued Use of Content with Uncleared Third-Party Materials (Requires Consent from *All* Relevant Rights Holders): If the breach involved the Licensee including third-party copyrighted material (e.g., music, video clips not originating from your VODs) for which they did not secure the necessary rights to grant back to you for your reuse, and if the desire is for the Derivative Work to remain available *with that third-party material still included*, then any new agreement or permission would require the explicit consent not only from You (the Licensor) and the Licensee, but critically, also from the original copyright holder(s) of that embedded third-party material. Simply agreeing between You and the Licensee is insufficient if third-party rights are involved and those rights holders have not authorized the continued use by both the Licensee and potentially You (if you reuse the Derivative Work). Securing these permissions can be complex and may require direct licensing from those third-party copyright holders.  
 </details>
 
 <details>
-<summary>Scenario: Licensee Does Not Provide the "Provided Copy" Upon Request If you have requested a "Provided Copy" from a Licensee (as per Section 3.d of the License) and they do not provide it within a reasonable timeframe</summary>
+<summary>Scenario: Licensee Does Not Provide the "Provided Copy" Upon Request If you have requested a "Provided Copy" from a Licensee (as per Clause 3.d of the License) and they do not provide it within a reasonable timeframe</summary>
 &nbsp;
 
 Here's a suggested course of action:
 1. Send a Reminder: Your initial request may have been missed. If you haven't received a response after what you feel is a reasonable period (for example, two weeks to a month), it's good practice to send a polite reminder and perhaps suggest a new, final deadline.
-2. Acknowledge the Consequence: If the Licensee still fails to provide the copy or refuses to do so without a reason covered by the "Excusable Non-Performance" clause (Section 9 of the License), they are in breach of a condition of the License (specifically Section 3.d).
-3. Automatic Termination: As per Section 8 of the License, this breach results in the automatic termination of their rights to use your VODs. Their continued public display of the Derivative Work could now be considered an unlicensed use of your copyrighted material.
+2. Acknowledge the Consequence: If the Licensee still fails to provide the copy or refuses to do so without a reason covered by the "Excusable Non-Performance" clause (Clause 9 of the License), they are in breach of a condition of the License (specifically Clause 3.d).
+3. Automatic Termination: As per Clause 8 of the License, this breach results in the automatic termination of their rights to use your VODs. Their continued public display of the Derivative Work could now be considered an unlicensed use of your copyrighted material.
 4. Your Options: At this point, you have several options, at your discretion:
     * You can choose to do nothing.
     * You can formally notify the Licensee that their license has terminated due to the breach and that the Derivative Work is therefore unlicensed.
@@ -461,12 +466,12 @@ Here's a suggested course of action:
 </details>
 
 <details>
-<summary>Financial Responsibility for Uncleared Third-Party Content in Derivative Works Used Under Grant-Back (Corresponds to License Section 4.e.iv)</summary>
+<summary>Financial Responsibility for Uncleared Third-Party Content in Derivative Works Used Under Grant-Back (Corresponds to License Clause 4.e.iv)</summary>
 
-* It's important to remember that under the VOD Reaction License Version 0.3, specifically Section 4.e.iv, your Licensee provides a representation and warranty that the "Provided Copy" (as defined and prepared according to Section 3.d of the License) has all necessary rights cleared for your reuse under the grant-back terms.  
+* It's important to remember that under the VOD Reaction License Version 0.3, specifically Clause 4.e.iv, your Licensee provides a representation and warranty that the "Provided Copy" (as defined and prepared according to Clause 3.d of the License) has all necessary rights cleared for your reuse under the grant-back terms.  
 * This means if you (the Licensor) reuse the "Provided Copy" furnished by the Licensee and a third-party rights holder subsequently contacts you demanding usage fees or other compensation due to uncleared content within that Provided Copy, the License framework anticipates that the ultimate financial responsibility for such costs rests with the Licensee due to their breach of this specific warranty.  
-* In such a scenario, you would typically need to address the third-party claim. You would then have grounds to seek reimbursement or compensation from the Licensee for the costs you incurred (such as usage fees paid, settlements, or reasonable legal expenses) based on their breach of the warranty provided in Section 4.e.iv regarding the Provided Copy.  
-* Important Note on Using the "Published Version" Directly: If you choose to reuse the Licensee's "Published Version" (the one they publicly distributed) directly, without having requested or received the specific "Provided Copy" prepared under the strict conditions of Section 3.d, be aware that the Licensee's explicit warranty in Section 4.e.iv is tied to the "Provided Copy." While the Licensee has general responsibilities for their public content (under Section 3.e of the License), your strongest contractual basis for seeking reimbursement from the Licensee for *your* reuse issues under the grant-back is when relying on the warranted "Provided Copy."  
+* In such a scenario, you would typically need to address the third-party claim. You would then have grounds to seek reimbursement or compensation from the Licensee for the costs you incurred (such as usage fees paid, settlements, or reasonable legal expenses) based on their breach of the warranty provided in Clause 4.e.iv regarding the Provided Copy.  
+* Important Note on Using the "Published Version" Directly: If you choose to reuse the Licensee's "Published Version" (the one they publicly distributed) directly, without having requested or received the specific "Provided Copy" prepared under the strict conditions of Clause 3.d, be aware that the Licensee's explicit warranty in Clause 4.e.iv is tied to the "Provided Copy." While the Licensee has general responsibilities for their public content (under Clause 3.e of the License), your strongest contractual basis for seeking reimbursement from the Licensee for *your* reuse issues under the grant-back is when relying on the warranted "Provided Copy."  
 </details>
 
 <details>
@@ -525,31 +530,31 @@ A more complex situation can arise if a Licensee's non-compliance with the VOD R
 <summary>Licensee's Rights Terminate</summary>
 &nbsp;
 
-If a Licensee's failure to comply with the conditions of the VOD Reaction License Version 0.3 is discovered (e.g., improper attribution, publication on a non-Permitted Platform, or other breaches), the Licensee's rights to use your VODs under that license terminate automatically, as per Section 8 of the License.
+If a Licensee's failure to comply with the conditions of the VOD Reaction License Version 0.3 is discovered (e.g., improper attribution, publication on a non-Permitted Platform, or other breaches), the Licensee's rights to use your VODs under that license terminate automatically, as per Clause 8 of the License.
 </details>
 
 <details>
 <summary>Survival of Grant-Back to Licensor</summary>
 &nbsp;
 
-Section 8 of the License also specifies that Section 4 ("Grant-Back License for the Licensee's Derivative Works"), among others, shall survive any termination of this license. This means the license granted by the Licensee back to you for the reuse of their Derivative Work generally remains in effect.
+Clause 8 of the License also specifies that Clause 4 ("Grant-Back License for the Licensee's Derivative Works"), among others, shall survive any termination of this license. This means the license granted by the Licensee back to you for the reuse of their Derivative Work generally remains in effect.
 </details>
 
 <details>
 <summary>Implications for Your (the Licensor's) Content</summary>
 
 * General Case: Because the grant-back rights survive, you are typically not required to delete or alter your own content that incorporates the (now non-compliant) Licensee's Derivative Work, *provided that your use still complies with the terms of the grant-back* (attribution to Licensee, platform restrictions) and the issue is not related to uncleared third-party rights within the Licensee's work *that you reused*.  
-* Critical Consideration – Third-Party Rights Issues in the Licensee's Work You Reused: A significant issue arises if the Licensee's non-compliance involved a failure to secure necessary rights for third-party content that *they* incorporated into their Derivative Work, thereby breaching their warranty to you. The VOD Reaction License Version 0.3 (in Section 4.e.iv) clarifies that the Licensee's specific representation and warranty regarding copyright cleanness for your reuse applies to the "Provided Copy" (as defined and prepared according to Section 3.d of the License).  
+* Critical Consideration – Third-Party Rights Issues in the Licensee's Work You Reused: A significant issue arises if the Licensee's non-compliance involved a failure to secure necessary rights for third-party content that *they* incorporated into their Derivative Work, thereby breaching their warranty to you. The VOD Reaction License Version 0.3 (in Clause 4.e.iv) clarifies that the Licensee's specific representation and warranty regarding copyright cleanness for your reuse applies to the "Provided Copy" (as defined and prepared according to Clause 3.d of the License).  
   * If You Reused the "Provided Copy": If you requested and reused the "Provided Copy" and it turns out the Licensee breached their warranty (e.g., the Provided Copy included copyrighted music or video clips for which they didn't have sublicensable rights), then your video, by incorporating this problematic Provided Copy, may inadvertently infringe on the rights of those third parties.  
     * In such a scenario, the survival of the grant-back from the Licensee does not cure the underlying third-party rights issue. You (the Licensor) would then likely need to:  
       * Remove your video, or at least the portions containing the infringing third-party material originating from the Licensee's Provided Copy.  
       * Independently secure the necessary rights or permissions from the actual third-party rights holders to continue using that content.  
-    * Crucially, because the Licensee breached their explicit warranty regarding the "Provided Copy" (Section 4.e.iv of the License), you would have grounds to seek reimbursement or compensation from the Licensee for direct losses you incurred as a result of this breach (as also stated in Section 4.e.iv).  
-  * If You Reused the Licensee's "Published Version" Directly: If you chose to reuse the Licensee's "Published Version" (the one they publicly distributed) directly, without having requested or relied upon a "Provided Copy" prepared under the specific conditions of Section 3.d of the License:  
-    * You would be reusing a version of the work for which the Licensee's specific warranty of cleanness (as per Section 4.e.iv, which is tied to the "Provided Copy") was not directly applicable to the artifact you chose to reuse.  
-    * While the Licensee still has a general responsibility for their public content under Section 3.e of the License, your ability to claim against the Licensee based on the *specific grant-back warranty* in Section 4.e.iv might be different compared to if you had reused a warranted "Provided Copy."  
-    * If third-party rights issues emerge from a "Published Version" you reused directly, you would still likely need to take corrective action (remove/edit your content, secure rights). Your recourse against the Licensee would then depend more on broader legal principles or their general responsibilities under Section 3.e, rather than a breach of the specific warranty tied to a (non-existent or non-utilized) "Provided Copy."  
-* It's important for you (the Licensor) to be aware of which version of the Licensee's work you are reusing and understand that your strongest protection under the Licensee's specific warranty (Section 4.e.iv) comes when you reuse the "Provided Copy" that they have prepared and warranted according to Sections 3.d and 4.e.iv of the License.
+    * Crucially, because the Licensee breached their explicit warranty regarding the "Provided Copy" (Clause 4.e.iv of the License), you would have grounds to seek reimbursement or compensation from the Licensee for direct losses you incurred as a result of this breach (as also stated in Clause 4.e.iv).  
+  * If You Reused the Licensee's "Published Version" Directly: If you chose to reuse the Licensee's "Published Version" (the one they publicly distributed) directly, without having requested or relied upon a "Provided Copy" prepared under the specific conditions of Clause 3.d of the License:  
+    * You would be reusing a version of the work for which the Licensee's specific warranty of cleanness (as per Clause 4.e.iv, which is tied to the "Provided Copy") was not directly applicable to the artifact you chose to reuse.  
+    * While the Licensee still has a general responsibility for their public content under Clause 3.e of the License, your ability to claim against the Licensee based on the *specific grant-back warranty* in Clause 4.e.iv might be different compared to if you had reused a warranted "Provided Copy."  
+    * If third-party rights issues emerge from a "Published Version" you reused directly, you would still likely need to take corrective action (remove/edit your content, secure rights). Your recourse against the Licensee would then depend more on broader legal principles or their general responsibilities under Clause 3.e, rather than a breach of the specific warranty tied to a (non-existent or non-utilized) "Provided Copy."  
+* It's important for you (the Licensor) to be aware of which version of the Licensee's work you are reusing and understand that your strongest protection under the Licensee's specific warranty (Clause 4.e.iv) comes when you reuse the "Provided Copy" that they have prepared and warranted according to Clauses 3.d and 4.e.iv of the License.
 </details>
 
 
