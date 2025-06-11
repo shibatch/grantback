@@ -39,7 +39,7 @@ The Licensee must provide Attribution to the Licensor in each Derivative Work. T
 c. Reporting to Licensor:  
 After publishing the Licensee's Derivative Work, the Licensee must promptly notify the Licensor of its publication in a reasonable manner.
 
-d. Provision of Derivative Work Data to Licensor:
+d. Provision of Derivative Work Data to Licensor:  
 Upon the Licensor's request, the Licensee must promptly provide the Licensor with a digital copy of the relevant portions of the Licensee's Derivative Work that incorporate the Licensor's VODs. When such provided digital copy constitutes a Provided Copy, it must satisfy the following conditions in relation to the Published Version from which it is derived:
 
 (i) The Provided Copy must completely include all parts within the Published Version that incorporate the Licensor's VODs.

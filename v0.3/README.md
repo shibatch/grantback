@@ -34,11 +34,15 @@ To understand the background of this license model, the landmark U.S. copyright 
 
 While this ruling was a significant victory for creators of reaction videos, its scope is limited. Judge Katherine B. Forrest, who delivered the judgment, made a clear distinction between critical commentary, like the Kleins' video, and a mere "group watching session without comment," cautioning that not all reaction videos would qualify as fair use. Furthermore, YouTube's own official policy states that the final determination of whether a use is fair is made by a court of law, not the platform.
 
+It is widely believed that simply using a small amount of copyrighted content (e.g., a 10-second clip) or adding comments automatically qualifies as "fair use." However, the principle of fair use is a complex legal concept that depends on four main factors: the purpose and character of the use (transformativeness), the nature of the copyrighted work, the amount and substantiality of the portion used, and the effect of the use upon the potential market for or value of the copyrighted work. Simply "rewatching a VOD with minimal commentary" is generally not considered transformative enough to qualify as fair use.
+
 This means that creators who rely on "fair use" always face the following uncertainties:
 
 * The ambiguity of whether their video will be legally recognized as "transformative" criticism.
 * The fact that the platform will not necessarily protect them from a copyright infringement claim.
 * The need to be prepared for a potentially expensive legal battle to ultimately prove fair use in court.
+
+In addition, it is important to note that the concept of fair use itself is fundamentally specific to the U.S. legal system. Legal systems vary significantly from country to country; for example, Canada, the EU, and Japan—which has no general fair use provision—all have different laws. For creators who operate globally, this legal diversity is a source of further uncertainty.
 
 The VOD Reaction License offers a clear solution to these problems.
 
@@ -46,9 +50,7 @@ This license eliminates the need for community creators (Licensees) to guess whe
 
 Furthermore, this license features a Grant-Back clause, which is not found in the fair use doctrine. This clause allows the Licensor to reuse the Licensee's derivative work, which encourages a two-way dialogue and activates the entire community, moving beyond one-sided content use.
 
-In addition, it is important to note that the concept of fair use itself is fundamentally specific to the U.S. legal system. Legal systems vary significantly from country to country; for example, Canada, the EU, and Japan—which has no general fair use provision—all have different laws. For creators who operate globally, this legal diversity is a source of further uncertainty.
-
-The VOD Reaction License is designed to overcome these differences in national laws and provide a consistent, collaborative framework that allows creators to produce content with peace of mind.
+The VOD Reaction License is designed to overcome the differences in national laws and provide a consistent, collaborative framework that allows creators to produce content with peace of mind.
 </details>
 
 ### What's in This Repository?
