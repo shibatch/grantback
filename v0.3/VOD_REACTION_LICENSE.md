@@ -20,13 +20,13 @@ f. "Attribution" means clearly displaying the Licensor's designated channel name
 
 g. "Published Version" means a Derivative Work as publicly distributed or made available by the Licensee.
 
-h. "Provided Copy" means the specific digital copy of a Derivative Work, or relevant portions thereof, furnished by the Licensee to the Licensor for the purpose of enabling the Licensor's exercise of rights under Section 4 (Grant-Back License).
+h. "Provided Copy" means the specific digital copy of a Derivative Work, or relevant portions thereof, furnished by the Licensee to the Licensor for the purpose of enabling the Licensor's exercise of rights under Clause 4 (Grant-Back License).
 
 2\. License Grant for VODs
 
 The Licensor grants the Licensee a non-exclusive, worldwide, perpetual (for the duration of copyright in the VODs), irrevocable (as long as the Licensee complies with all conditions of this License), and non-transferable license, for which no monetary compensation is due to the Licensor, to copy, adapt, remix, transform, excerpt, and create new works based on the VODs (resulting in Derivative Works), solely for the purpose of creating and publishing such Derivative Works on the Permitted Platforms.
 
-This grant is subject to all conditions in this license. The permissibility of commercial use of the Derivative Work under this license is governed exclusively by the terms, if any, set forth by the Licensor in Section 3.f. Unless Section 3.f explicitly states that commercial use is not permitted, commercial use is permitted under the terms of this license.
+This grant is subject to all conditions in this license. The permissibility of commercial use of the Derivative Work under this license is governed exclusively by the terms, if any, set forth by the Licensor in Clause 3.f. Unless Clause 3.f explicitly states that commercial use is not permitted, commercial use is permitted under the terms of this license.
 
 3\. Conditions of this License
 
@@ -44,11 +44,11 @@ Upon the Licensor's request, the Licensee must promptly provide the Licensor wit
 
 (i) The Provided Copy must completely include all parts within the Published Version that incorporate the Licensor's VODs.
 
-(ii) Editing of the Provided Copy, transforming it from the Published Version, shall be limited to the minimum extent objectively necessary to clear third-party copyrights present in the Published Version (e.g., muting of relevant segments, replacement or removal of third-party materials). No other substantive or stylistic editing altering the content or presentation of the parts described in Section 3.d(i) as they appeared in the Published Version is permitted.
+(ii) Editing of the Provided Copy, transforming it from the Published Version, shall be limited to the minimum extent objectively necessary to clear third-party copyrights present in the Published Version (e.g., muting of relevant segments, replacement or removal of third-party materials). No other substantive or stylistic editing altering the content or presentation of the parts described in Clause 3.d(i) as they appeared in the Published Version is permitted.
 
-(iii) If, as a direct result of the editing permitted under Section 3.d(ii), important parts (such as the Licensee's own speech) present in the Published Version are unavoidably lost or obscured in the Provided Copy, the Licensee must, concurrently with providing the Provided Copy, notify the Licensor of the nature and content of such lost parts by reasonable and good-faith means (e.g., by providing a textual transcript of the lost speech).
+(iii) If, as a direct result of the editing permitted under Clause 3.d(ii), important parts (such as the Licensee's own speech) present in the Published Version are unavoidably lost or obscured in the Provided Copy, the Licensee must, concurrently with providing the Provided Copy, notify the Licensor of the nature and content of such lost parts by reasonable and good-faith means (e.g., by providing a textual transcript of the lost speech).
 
-The digital copy provided under this Section 3.d shall be in a common digital format and delivered via a reasonable method.
+The digital copy provided under this Clause 3.d shall be in a common digital format and delivered via a reasonable method.
 
 e. General Responsibility for Derivative Work:  
 The Licensee is solely responsible for all content within their Derivative Work and for ensuring that such Derivative Work complies with all applicable laws and does not infringe upon any third-party rights, including but not limited to copyright (beyond the rights granted herein for the Licensor's VODs), trademark, publicity rights, privacy rights, or any other personal or proprietary rights. The Licensor assumes no liability for the content or consequences of the Licensee's Derivative Work.
@@ -56,11 +56,11 @@ The Licensee is solely responsible for all content within their Derivative Work 
 f. Additional Restrictions by Licensor:  
 The Licensor may specify additional restrictions below. Such restrictions may only pertain to (i) the permissibility of commercial use, and (ii) conditions regarding the Derivative Work itself.
 
-**\[Adopting Licensor: This is where you specify your rules according to the limitations described above. To prohibit or place conditions on commercial use, you MUST state those restrictions here. As stated in Section 2, if this section contains no explicit restriction on commercial use, then commercial use will be permitted by default. If you have no additional restrictions to add at all, replace this entire comment with the word "None." For detailed instructions and examples, please see the Guide for Adopters.\]**
+**\[Adopting Licensor: This is where you specify your rules according to the limitations described above. To prohibit or place conditions on commercial use, you MUST state those restrictions here. As stated in Clause 2, if this section contains no explicit restriction on commercial use, then commercial use will be permitted by default. If you have no additional restrictions to add at all, replace this entire comment with the word "None." For detailed instructions and examples, please see the Guide for Adopters.\]**
 
 4\. Grant-Back License for the Licensee's Derivative Works
 
-For each Derivative Work that the Licensee creates and publishes by using the Licensor's VODs in accordance with the terms of this license, the Licensee hereby grants back to the Licensor a non-exclusive, worldwide, perpetual, irrevocable, and non-transferable license, for which no monetary compensation is due to the Licensor, to use, reproduce, distribute, display, perform, adapt, and create derivative works from such Derivative Work. The permissibility of commercial use of the Derivative Work by the Licensor under this grant-back shall be the same as the permissibility of commercial use granted to the Licensee under Section 2 of this license.
+For each Derivative Work that the Licensee creates and publishes by using the Licensor's VODs in accordance with the terms of this license, the Licensee hereby grants back to the Licensor a non-exclusive, worldwide, perpetual, irrevocable, and non-transferable license, for which no monetary compensation is due to the Licensor, to use, reproduce, distribute, display, perform, adapt, and create derivative works from such Derivative Work. The permissibility of commercial use of the Derivative Work by the Licensor under this grant-back shall be the same as the permissibility of commercial use granted to the Licensee under Clause 2 of this license.
 
 This license granted back to the Licensor is subject to the following conditions. This grant-back applies only to Derivative Works created by the Licensee that incorporate the Licensor's VODs under this license and does not apply to any other works created by the Licensee.
 
@@ -75,18 +75,18 @@ The Licensor may feature such Derivative Work on the Licensor's own channels on 
 However, if such Derivative Work is to be primarily or independently broadcast or published by a collaborator on a channel not operated by the Licensor as part of a collaboration authorized by the Licensor, the Licensee's prior explicit approval for such specific use by that collaborator is required.
 
 d. Sublicensing by Licensor:  
-The Licensor may grant necessary sublicenses to the operators of the Permitted Platforms (as per their respective Terms of Service) to the extent required to host, display, and enable platform features for such Derivative Work when featured on the Licensor's channels or for collaborative broadcasts conducted in accordance with Section 4.c. Except as expressly permitted in this Section 4.d (specifically regarding platform operators), any other form of sublicensing of such Derivative Work by the Licensor to third parties for their independent use is not permitted by this license without the Licensee's separate approval.
+The Licensor may grant necessary sublicenses to the operators of the Permitted Platforms (as per their respective Terms of Service) to the extent required to host, display, and enable platform features for such Derivative Work when featured on the Licensor's channels or for collaborative broadcasts conducted in accordance with Clause 4.c. Except as expressly permitted in this Clause 4.d (specifically regarding platform operators), any other form of sublicensing of such Derivative Work by the Licensor to third parties for their independent use is not permitted by this license without the Licensee's separate approval.
 
 e. Terms Applicable to Derivative Work Provided Under Grant-Back:  
-When the Licensee grants back the license to the Licensee's Derivative Work to the Licensor under this Section 4, the following terms also apply to that specific grant:  
+When the Licensee grants back the license to the Licensee's Derivative Work to the Licensor under this Clause 4, the following terms also apply to that specific grant:  
 
 (i) The Licensee provides the Licensee's Derivative Work to the Licensor "AS-IS," without any warranties from the Licensee to the Licensor, express or implied. The Licensee specifically disclaims any implied warranties of merchantability, fitness for a particular purpose, or non-infringement regarding the Licensee's Derivative Work.
 
 (ii) In no event shall the Licensee be liable to the Licensor for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the Licensor's use or inability to use such Derivative Work, even if the Licensee were advised of the possibility of such damage.
 
-(iii) All rights in the Licensee's Derivative Work not expressly granted back to the Licensor under this Section 4 are reserved by the Licensee.
+(iii) All rights in the Licensee's Derivative Work not expressly granted back to the Licensor under this Clause 4 are reserved by the Licensee.
 
-(iv) The Licensee represents and warrants that the Licensee has obtained all necessary rights, licenses, consents, and permissions for all content (including the Licensee's original contributions and any third-party content the Licensee incorporated) within the Provided Copy to grant the full scope of the license to the Licensor as described in this Section 4, free of any encumbrances or restrictions that would prevent the Licensor's exercise of such rights. The Licensee agrees that if any third-party content the Licensee included in the Provided Copy is not clear for the Licensor's reuse under this grant-back, the Licensee will, upon request, endeavor to identify such content to the Licensor or take reasonable steps to remove or replace it to enable the Licensor's use. The Licensor's use of the Provided Copy is reliant on these representations and warranties, and the Licensee acknowledges that they may be held liable for direct losses incurred by the Licensor as a result of any material breach thereof.
+(iv) The Licensee represents and warrants that the Licensee has obtained all necessary rights, licenses, consents, and permissions for all content (including the Licensee's original contributions and any third-party content the Licensee incorporated) within the Provided Copy to grant the full scope of the license to the Licensor as described in this Clause 4, free of any encumbrances or restrictions that would prevent the Licensor's exercise of such rights. The Licensee agrees that if any third-party content the Licensee included in the Provided Copy is not clear for the Licensor's reuse under this grant-back, the Licensee will, upon request, endeavor to identify such content to the Licensor or take reasonable steps to remove or replace it to enable the Licensor's use. The Licensor's use of the Provided Copy is reliant on these representations and warranties, and the Licensee acknowledges that they may be held liable for direct losses incurred by the Licensor as a result of any material breach thereof.
 
 5\. Reservation of Rights and Third-Party Content in Original VODs
 
@@ -102,7 +102,7 @@ In no event shall the Licensor be liable for any direct, indirect, incidental, s
 
 8\. Term and Termination
 
-This license is effective as long as the Licensee complies with its terms. If the Licensee fails to comply with any condition, the Licensee's rights under this license terminate automatically. Sections 4, 5, 6, 7, and 10 shall survive any termination of this license.
+This license is effective as long as the Licensee complies with its terms. If the Licensee fails to comply with any condition, the Licensee's rights under this license terminate automatically. Clauses 4, 5, 6, 7, and 10 shall survive any termination of this license.
 
 9\. Excusable Non-Performance
 

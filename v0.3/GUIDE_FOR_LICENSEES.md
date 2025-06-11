@@ -18,7 +18,7 @@ An Important Note for Corporate-Affiliated Creators
 
 If you are a creator affiliated with a corporation or agency, it is crucial that you check your own contract and your agency's policies before using VODs under this License.
 
-By using a VOD under this License, you are automatically agreeing to grant back a license to the original creator (the Licensor) under the terms described in Section 4 of their License. You cannot change these grant-back terms. You must ensure that these grant-back terms do not conflict with your obligations to your own agency.
+By using a VOD under this License, you are automatically agreeing to grant back a license to the original creator (the Licensor) under the terms described in Clause 4 of their License. You cannot change these grant-back terms. You must ensure that these grant-back terms do not conflict with your obligations to your own agency.
 
 &nbsp;
 
@@ -59,20 +59,20 @@ A. Regarding Third-Party Content *within the Licensor's VODs* (see License Claus
   3. Obtaining any necessary permissions directly from the rights holders of that third-party content if your use requires it.  
 * We (the Licensor) make no warranties that all third-party content within our VODs is cleared for your specific reuse.
 
-B. Preparing and Providing the "Provided Copy" of Your Derivative Work (Corresponds to the License Sections 3.d and 4.e.iv):
+B. Preparing and Providing the "Provided Copy" of Your Derivative Work (Corresponds to the License Clauses 3.d and 4.e.iv):
 
 When you publish a Derivative Work using our VODs, how we (the Licensor) engage with it can vary. We might not always create a direct response to every Derivative Work. Sometimes, if your publicly available video (the "Published Version") appears to have no copyright issues that would affect our reuse and is readily accessible to us, we might choose to react to it or feature it directly.
 
 However, there are situations where we may need to request that you provide us with a separate digital copy of your work. This request might occur if we believe your Published Version could contain third-party copyrighted material that needs to be addressed before we can reuse it under our grant-back rights, or if we are unable to access your Published Version in the first place (for instance, if it's behind a subscriber-only restriction, has been archived, or is otherwise not directly viewable by us).
 
-If we do decide to request a copy for such reasons, You are, in principle, required by the VOD Reaction License to promptly provide this copy to us. The License (in its Section 3.d) then details specific legal requirements for this copy (which the License calls the "Provided Copy"), particularly when it's intended for our grant-back reuse. The License also states that this copy shall be in a common digital format and delivered via a reasonable method.
+If we do decide to request a copy for such reasons, You are, in principle, required by the VOD Reaction License to promptly provide this copy to us. The License (in its Clause 3.d) then details specific legal requirements for this copy (which the License calls the "Provided Copy"), particularly when it's intended for our grant-back reuse. The License also states that this copy shall be in a common digital format and delivered via a reasonable method.
 
 Our main goal, when you prepare and provide this Provided Copy for grant-back, is that we can reuse it smoothly and legally. Here’s a step-by-step way to think about meeting the License requirements:
 
-1. First, Check for Additional Licensor Rules in Section 3.f:
-Before you create, it is crucial to check Section 3.f ("Additional Restrictions by Licensor") of our specific License text. This is a special section where we, the Licensor, may add our own specific rules that apply to your Derivative Work. The rules in this section can change from one licensor to another, so you must always check Section 3.f to ensure your work will be compliant.
+1. First, Check for Additional Licensor Rules in Clause 3.f:
+Before you create, it is crucial to check Clause 3.f ("Additional Restrictions by Licensor") of our specific License text. This is a special section where we, the Licensor, may add our own specific rules that apply to your Derivative Work. The rules in this section can change from one licensor to another, so you must always check Clause 3.f to ensure your work will be compliant.
 
-   Please be aware that if the conditions the Licensor presents in Section 3.f are not objectively predictable and include unilateral discretion, creating content under that license carries a high degree of risk. In such cases, voicing your concerns to the Licensor or the community is also an important action for fostering a healthy licensing culture.
+   Please be aware that if the conditions the Licensor presents in Clause 3.f are not objectively predictable and include unilateral discretion, creating content under that license carries a high degree of risk. In such cases, voicing your concerns to the Licensor or the community is also an important action for fostering a healthy licensing culture.
 
 2. Be Mindful of Copyright from the Start (Ideal Scenario for Your Published Version):
 Ideally, when you are first creating and editing your publicly available video (the "Published Version"), try to be mindful of any third-party copyrighted material you include (like background music, other video clips, game audio that might need clearance, etc.). If your Published Version is already "clean" – or the key parts related to our VOD are clean – preparing the Provided Copy for us will be much simpler. This is the best approach.
@@ -80,24 +80,24 @@ Ideally, when you are first creating and editing your publicly available video (
 3. Isolate Key Segments for the Provided Copy (Basic Method):
 Often, your full Published Version (e.g., a long stream recording) will contain various segments. A common and straightforward way to prepare the core of the Provided Copy for us is to edit your Published Version to isolate the main segment(s) where you directly engage with our VOD. This typically means:
    * All parts where our VOD is actually shown or heard.
-   * Your direct reactions, commentary, and discussion that occur while or immediately around the use of our VOD. Let's call this focused selection the "Primary Reaction Segment." The VOD Reaction License (Section 3.d(i)) legally requires that, at a minimum, all parts of your Published Version where our VOD is shown or heard must be completely included in the Provided Copy. Isolating the Primary Reaction Segment as described here is a good way to ensure you meet this core requirement.
+   * Your direct reactions, commentary, and discussion that occur while or immediately around the use of our VOD. Let's call this focused selection the "Primary Reaction Segment." The VOD Reaction License (Clause 3.d(i)) legally requires that, at a minimum, all parts of your Published Version where our VOD is shown or heard must be completely included in the Provided Copy. Isolating the Primary Reaction Segment as described here is a good way to ensure you meet this core requirement.
 
-4. Ensure the Primary Reaction Segment is "Clean" (Applying rules from Section 3.d of the License if copyrighted material was included):
+4. Ensure the Primary Reaction Segment is "Clean" (Applying rules from Clause 3.d of the License if copyrighted material was included):
 Now, review the Primary Reaction Segment you've isolated.
    * If it's already "clean" (hopefully because you were mindful during your initial creation, as mentioned in step 1): Excellent! This can form the basis of your Provided Copy.
-   * If it still contains uncleared third-party copyrighted material (e.g., background music you don't have the rights to for this reuse, uncleared game audio): You will need to edit this segment further to make it "clean" before providing it to us. The License (Section 3.d(ii)) is very specific about these edits:
+   * If it still contains uncleared third-party copyrighted material (e.g., background music you don't have the rights to for this reuse, uncleared game audio): You will need to edit this segment further to make it "clean" before providing it to us. The License (Clause 3.d(ii)) is very specific about these edits:
       * They must be strictly limited to the minimum objectively necessary to remove or replace that uncleared third-party material.
       * No other creative or stylistic changes should be made to the content or presentation of your Primary Reaction Segment as it appeared in your Published Version. (For example, this is not the opportunity to cut your own speech for brevity, change your opinions, or re-edit the flow of your reaction, unless those changes are a direct and unavoidable part of the copyright clearance itself).
-   * If Your Speech or Other Important Original Content is Lost During Cleaning: If these essential copyright-clearing edits (like muting a section with background music that also contained your speech) unavoidably cause your own important original content within the Primary Reaction Segment to be lost or obscured, the License (Section 3.d(iii)) requires you to inform us of what was lost. A practical way to do this is to provide a simple text file with the Provided Copy, noting, for example: "Segment from [timestamp] to [timestamp] was muted due to background music. During this time, my speech was: '[Your lost speech]'."
+   * If Your Speech or Other Important Original Content is Lost During Cleaning: If these essential copyright-clearing edits (like muting a section with background music that also contained your speech) unavoidably cause your own important original content within the Primary Reaction Segment to be lost or obscured, the License (Clause 3.d(iii)) requires you to inform us of what was lost. A practical way to do this is to provide a simple text file with the Provided Copy, noting, for example: "Segment from [timestamp] to [timestamp] was muted due to background music. During this time, my speech was: '[Your lost speech]'."
 
 5. Consider Including Your Broader Reactions (Highly Recommended for Community Spirit!):
-The License (Section 3.d(i)) legally requires the Provided Copy to include segments where our VOD is directly used. However, your overall engagement with our VOD might be much broader and equally interesting! For example:
+The License (Clause 3.d(i)) legally requires the Provided Copy to include segments where our VOD is directly used. However, your overall engagement with our VOD might be much broader and equally interesting! For example:
    * You might have an introductory discussion about our VOD before you show it.
    * You might share your overall thoughts and conclusions for several minutes after the direct VOD feature.
-   * You might even try out a game technique from our VOD in your own gameplay after the main VOD feature (even if our VOD isn't continuously on screen during your gameplay test). While these broader segments are not strictly required by Section 3.d(i) of the License to be in the Provided Copy (unless our VOD itself is being shown/heard within them), we strongly encourage you to also prepare and include these kinds of related reaction segments if you're happy to share them for our grant-back reuse. Of course, these additional segments would also need to be "clean" of any third-party copyright issues for which you cannot grant us reuse rights. Sharing your fuller reaction helps us understand your perspective completely and enriches our ability to interact with your creative work, fostering a better community dialogue! This is a friendly recommendation, not a strict legal requirement from the License for the composition of the Provided Copy beyond the "Primary Reaction Segment" described in step 2.
+   * You might even try out a game technique from our VOD in your own gameplay after the main VOD feature (even if our VOD isn't continuously on screen during your gameplay test). While these broader segments are not strictly required by Clause 3.d(i) of the License to be in the Provided Copy (unless our VOD itself is being shown/heard within them), we strongly encourage you to also prepare and include these kinds of related reaction segments if you're happy to share them for our grant-back reuse. Of course, these additional segments would also need to be "clean" of any third-party copyright issues for which you cannot grant us reuse rights. Sharing your fuller reaction helps us understand your perspective completely and enriches our ability to interact with your creative work, fostering a better community dialogue! This is a friendly recommendation, not a strict legal requirement from the License for the composition of the Provided Copy beyond the "Primary Reaction Segment" described in step 2.
 
 6. Final Check for Overall "Cleanness":
-Remember, the License (Section 4.e.iv) requires that the entire Provided Copy you ultimately give us must be "clean" – meaning you have all necessary rights for all its components, allowing us to reuse it under the grant-back terms.
+Remember, the License (Clause 4.e.iv) requires that the entire Provided Copy you ultimately give us must be "clean" – meaning you have all necessary rights for all its components, allowing us to reuse it under the grant-back terms.
 
 
 Step 2.5: Reporting Your Derivative Work to Us (License Clause 3.c)
@@ -107,13 +107,13 @@ After publishing Your Derivative Work, You must promptly notify us (the Licensor
 * **\[Licensor to specify preferred notification method(s) here. E.g., "Please notify us by tagging @\[Licensor'sSocialMediaHandle\] on X/Twitter when you post your video," or "Send a link to your Derivative Work to \[licensor-contact-email@example.com\]," or "Mention us in the YouTube upload using @\[LicensorYouTubeChannel\]."\]**
 
 
-Step 2.6: Providing a Copy of Your Derivative Work if Requested (Corresponds to Section 3.d of the License)
+Step 2.6: Providing a Copy of Your Derivative Work if Requested (Corresponds to Clause 3.d of the License)
 
-As highlighted at the beginning of Section 2.4.B, we (the Licensor) may request a digital copy of your Derivative Work after you've published it. The VOD Reaction License (in its Section 3.d) outlines important legal requirements for any copy you provide, especially if it's for our grant-back reuse.
+As highlighted at the beginning of Section 2.4.B, we (the Licensor) may request a digital copy of your Derivative Work after you've published it. The VOD Reaction License (in its Clause 3.d) outlines important legal requirements for any copy you provide, especially if it's for our grant-back reuse.
 
-Please refer to Section 3.d of the full License text for these binding conditions. Section 2.4.B of this guide provides a step-by-step approach and practical advice for preparing such a copy in line with those requirements.
+Please refer to Clause 3.d of the full License text for these binding conditions. Section 2.4.B of this guide provides a step-by-step approach and practical advice for preparing such a copy in line with those requirements.
 
-Remember that the "Excusable Non-Performance" clause (Section 9 of the License) may apply if extreme circumstances genuinely beyond your reasonable control prevent you from providing the copy.
+Remember that the "Excusable Non-Performance" clause (Clause 9 of the License) may apply if extreme circumstances genuinely beyond your reasonable control prevent you from providing the copy.
 
 
 3\. The Grant-Back to \[**Licensor's Primary Channel Name\]**: A Brief Explanation (License Clause 4\)
@@ -121,12 +121,12 @@ Remember that the "Excusable Non-Performance" clause (Section 9 of the License) 
 When You create and publish a Derivative Work under this License using our VODs, You are also granting us (**\[Licensor's Primary Channel Name\]**, the Licensor) specific rights to reuse Your Derivative Work.  
 When we reuse Your Derivative Work, we (the Licensor) will also adhere to the terms of this License:
 
-It is important to understand that the terms of this grant-back are fixed as part of the overall license agreement and are symmetrical to the rights we grant you. This means that if our license to you (as specified in our Section 3.f) does not prohibit commercial use, you cannot prohibit us from commercial use either. If you wish to prohibit our commercial use of your work, you would need to contact us to negotiate a separate, individual agreement instead of using this License.
+It is important to understand that the terms of this grant-back are fixed as part of the overall license agreement and are symmetrical to the rights we grant you. This means that if our license to you (as specified in our Clause 3.f) does not prohibit commercial use, you cannot prohibit us from commercial use either. If you wish to prohibit our commercial use of your work, you would need to contact us to negotiate a separate, individual agreement instead of using this License.
 
 * We will only use Your Derivative Work on the Permitted Platforms (as defined in our License).  
 * We will provide attribution to Your channel. (Please inform us of Your preferred channel name for this attribution if it's different from the one primarily associated with Your Derivative Work, for example, when You notify us about Your publication as per Step 2.5).
 
-This reciprocal arrangement is a core principle of this License, designed to encourage mutual sharing and promotion within our community. For full details, please see Section 4 of the VOD Reaction License.
+This reciprocal arrangement is a core principle of this License, designed to encourage mutual sharing and promotion within our community. For full details, please see Clause 4 of the VOD Reaction License.
 
 4\. Further Questions?
 

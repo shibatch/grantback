@@ -84,7 +84,7 @@ The [VOD\_REACTION\_LICENSE.md](VOD_REACTION_LICENSE.md) text template in this r
 
 * You are permitted to copy and distribute verbatim copies of this license document.  
 * You are permitted to modify this license document solely by filling in the designated placeholder sections (e.g., \[Licensor's Primary Channel Name\]) with your own information to create your instance of the license.  
-* If you modify any of the core legal terms beyond these placeholders, you may not call your modified version the "VOD Reaction License Version 0.3" or any confusingly similar name. Such a modified document would be your own new, distinct license. (Please see Section 11 of the [VOD\_REACTION\_LICENSE.md](VOD_REACTION_LICENSE.md) template for full details on these permissions).
+* If you modify any of the core legal terms beyond these placeholders, you may not call your modified version the "VOD Reaction License Version 0.3" or any confusingly similar name. Such a modified document would be your own new, distinct license. (Please see Clause 11 of the [VOD\_REACTION\_LICENSE.md](VOD_REACTION_LICENSE.md) template for full details on these permissions).
 
 The accompanying guide documents ([GUIDE\_FOR\_LICENSEES.md](GUIDE_FOR_LICENSEES.md) template and [GUIDE\_FOR\_ADOPTERS.md](GUIDE_FOR_ADOPTERS.md)) in this repository remain licensed under the Creative Commons Attribution-ShareAlike 4.0 International Public License (CC BY-SA 4.0). You are free to share and adapt these guide documents for your own purposes, provided you adhere to the terms of the CC BY-SA 4.0 license.
 
