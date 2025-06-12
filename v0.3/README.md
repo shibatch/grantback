@@ -94,6 +94,14 @@ This VOD Reaction License, like any agreement, is subject to applicable laws reg
 
 If you are a minor considering using VODs under this license, or offering your VODs under this license, it is strongly recommended to involve a parent or legal guardian. Similarly, if you are a Licensor adopting this license for a community that may include minors, or a Licensee interacting with content from a minor Licensor, awareness of these legal principles is important. Minors should typically seek consent and guidance from a parent or legal guardian before agreeing to terms that have legal implications.
 
+### A Note on Trust and Licensor Good Faith
+
+This license model is designed to provide legal clarity and encourage creative exchange based on a foundation of mutual trust. It provides a clear framework for resolving disputes, but like any agreement, its effectiveness is highest when both parties act in good faith.
+
+While the license is structured to be fair, it cannot completely protect a Licensee from a Licensor who intends to act in bad faith (e.g., by setting intentionally ambiguous rules in Clause 3.f or by issuing baseless takedown requests). Therefore, a degree of trust in the Licensor is an implicit part of using this license.
+
+Potential Licensees should exercise their own judgment. The mere fact that a VOD is offered under the VOD Reaction License does not eliminate all risks if the Licensor themselves seems suspicious or has a poor reputation within the community. It is always wise to be cautious when reusing content from any source, and this license is a tool to facilitate positive interactions, not a shield against all potential issues.
+
 ### Important Disclaimers (From Naoki Shibata, Template Author)
 
 * Experimental Model: The "VOD Reaction License" is an experimental, custom license model. Its legal effectiveness and community reception may vary.  
