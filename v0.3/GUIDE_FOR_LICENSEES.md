@@ -120,14 +120,12 @@ Remember that the "Excusable Non-Performance" clause (Clause 9 of the License) m
 
 When You create and publish a Derivative Work under this License using our VODs, You are also granting us (**\[Licensor's Primary Channel Name\]**, the Licensor) specific rights to reuse Your Derivative Work. When we reuse Your Derivative Work, we (the Licensor) will also adhere to the terms of this License.
 
-It is important to understand that the terms of this grant-back are fixed as part of the overall license agreement and are designed to be symmetrical in keyareas. This means that if our license to you (as specified in our Clause 3.f) does not prohibit commercial use, you cannot prohibit us from commercial use either. If you wish to prohibit our commercial use of your work, you would need to contact us to negotiate a separate, individual agreement instead of using this License.
-
-A Note on Asymmetrical Conditions: Please be aware that this principle of symmetry applies specifically to the commercial use policy, platform restrictions, and the mutual obligation of attribution. Other content-based restrictions that we, the Licensor, may add in our Clause 3.f (for example, rules about specific topics or types of commentary) do not automatically apply to us when we reuse your Derivative Work under the grant-back. The license you grant back to us is only restricted by the conditions explicitly stated in Clause 4 of the License (which are platform limits and attribution to you).
-
 * We will only use Your Derivative Work on the Permitted Platforms (as defined in our License).  
 * We will provide attribution to Your channel. (Please inform us of Your preferred channel name for this attribution if it's different from the one primarily associated with Your Derivative Work, for example, when You notify us about Your publication as per Step 2.5).
 
 This reciprocal arrangement is a core principle of this License, designed to encourage mutual sharing and promotion within our community. For full details, please see Clause 4 of the VOD Reaction License.
+
+It is important to understand that the terms of this grant-back are fixed as part of the overall license agreement and are designed to be symmetrical in keyareas. However, it is also important to understand that the overall legal responsibilities of the Licensor and the Licensee are not identical. The license assigns unique obligations to each party based on their role. We encourage you to read the full license text to understand the complete set of terms and the specific responsibilities that apply to you.
 
 4\. Further Questions?
 
