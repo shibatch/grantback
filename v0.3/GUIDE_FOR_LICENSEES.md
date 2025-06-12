@@ -128,6 +128,8 @@ It is important to understand that the terms of this grant-back are fixed as par
 
 This reciprocal arrangement is a core principle of this License, designed to encourage mutual sharing and promotion within our community. For full details, please see Clause 4 of the VOD Reaction License.
 
+A Note on Asymmetrical Conditions: Please be aware that this principle of symmetry applies specifically to the commercial use policy, platform restrictions, and the mutual obligation of attribution. Other content-based restrictions that we, the Licensor, may add in our Clause 3.f (for example, rules about specific topics or types of commentary) do not automatically apply to us when we reuse your Derivative Work under the grant-back. The license you grant back to us is only restricted by the conditions explicitly stated in Clause 4 of the License (which are platform limits and attribution to you).
+
 4\. Further Questions?
 
 If you have any questions about this License or guide, please contact us:  
