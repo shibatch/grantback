@@ -58,15 +58,15 @@ The VOD Reaction License is designed to overcome the differences in national law
 <summary>Comparison with Existing FOSS Licenses</summary>
 &nbsp;  
 
-This license model adopts a different architecture from existing Free and Open Source Software (FOSS) licenses. The necessity of this unique architecture is proven by the following logical constraints that it is designed to solve.
+While this license's architecture may seem unusual compared to standard FOSS licenses, it is a logical result of the need to address the following practical constraints:
 
 * Handling of Third-Party Content: With existing licenses like Creative Commons, it is difficult to license VODs that contain third-party content (e.g., in-game music), as they are premised on the licensor holding all necessary rights. This license solves this by allowing for such VODs while making it the licensee's responsibility to clear the rights for any reuse.
 
 * Flexibility for External Obligations: Real-world streaming often requires adherence to external rules, such as agency guidelines. Traditional FOSS licenses with fixed terms cannot accommodate this. This license addresses the issue by allowing the licensor to add custom restrictions (under Clause 3.f), ensuring compliance.
 
-* Guaranteed Grant-Back and Its Necessary Asymmetry: The licensor's right to reuse a derivative work (the grant-back) must be absolutely guaranteed to foster dialogue. This requires a critical asymmetry in the license terms. While the licensor can add restrictions, the licensee cannot add new restrictions to the grant-back. If a licensee could add their own terms, they could effectively block the licensor's reuse, rendering the grant-back clause meaningless. This asymmetrical structure, where the grant-back conditions (Clause 4) are fixed, is therefore indispensable. It is further strengthened by provisions like Clause 4.e.iv, which requires the licensee to provide a warranty for the content they furnish, ensuring the licensor can use it reliably.
+* Guaranteed Grant-Back and Its Necessary Asymmetry: The licensor's right to reuse a derivative work (the grant-back) must be guaranteed to foster dialogue. This requires a critical asymmetry in the license terms. While the licensor can add restrictions, the licensee cannot add new restrictions to the grant-back. If a licensee could add their own terms, they could effectively block the licensor's reuse, rendering the grant-back clause meaningless. This asymmetrical structure, where the grant-back conditions (Clause 4) are fixed, is therefore indispensable. It is further strengthened by the licensee's obligation to furnish a copy of their work upon request (the "Provided Copy" as defined in Clause 3.d), and to warrant that this copy is clear for reuse (Clause 4.e.iv), ensuring the licensor can use it reliably.
 
-Thus, the architecture adopted by this license is necessary to satisfy all three of these practical and logical constraints simultaneously.
+Thus, the architecture adopted by this license is necessary to satisfy all three of these constraints simultaneously.
 </details>
 
 ### What's in This Repository?
