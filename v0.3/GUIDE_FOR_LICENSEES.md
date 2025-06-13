@@ -52,7 +52,7 @@ When you create your Derivative Work, you are making a new piece of content. It'
 A. Regarding Third-Party Content *within the Licensor's VODs* (see License Clause 5):
 
 * The license we (the Licensor) grant you for our VODs covers *our original content* within those VODs.  
-* Our license to you does not automatically grant you the right to reuse any third-party copyrighted material that might be incidentally included in our VODs (for example, for karaoke sound sources, the licensor may have paid a fee for use in their own stream, and the licensee may need to pay an additional fee to reuse it in their own stream).
+* Our license to you does not automatically grant you the right to reuse any third-party copyrighted material that might be incidentally included in our VODs (for example, for karaoke sound sources, we may have paid a fee for use in our VODs, and you may need to pay an additional fee to reuse it in Your Derivative Work).
 * Your Responsibility: If you choose to include portions of our VODs that contain such third-party material in your Derivative Work, *you* are solely responsible for:  
   1. Identifying that third-party content.  
   2. Determining if your intended use of it is permissible (e.g., under fair use doctrines or other legal exceptions relevant to your situation, or because you obtain your own license for it).  
