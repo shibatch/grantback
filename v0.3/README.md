@@ -53,6 +53,24 @@ Furthermore, this license features a Grant-Back clause, which is not found in th
 The VOD Reaction License is designed to overcome the differences in national laws and provide a consistent, collaborative framework that allows creators to produce content with peace of mind.
 </details>
 
+
+<details>
+<summary>Comparison with Existing FOSS Licenses</summary>
+&nbsp;  
+
+This license model adopts a different architecture from existing Free and Open Source Software (FOSS) licenses, particularly Creative Commons licenses. While typical FOSS licenses are built on a model that permits the free redistribution of derivative works (including subsequent "grandchild" and "great-grandchild" works), this license is designed around a "Grant-Back" model that, in principle, limits the right to reuse a Derivative Work to the original Licensor.
+
+This unique structure is essential to satisfy all of the following three practical requirements faced by modern streamers:
+
+* Handling of Third-Party Content in VODs: VODs published by a streamer often contain third-party content for which the Licensor does not own the copyright, such as in-game footage or music. The license must allow for such VODs to be licensed, while structuring the terms so that the responsibility for clearing the rights for any reuse falls upon the Licensee.
+* Flexibility for the Licensor's External Obligations: The license needs the flexibility to apply external conditions—such as guidelines set by an agency or company the Licensor is affiliated with—to the Derivative Work. This license makes this possible through Clause 3.f, which allows the Licensor to add their own custom restrictions.
+* Ensuring Reliable Dialogue (Effectiveness of the Grant-Back): The Licensor needs a guaranteed right to respond to (e.g., react to) a Derivative Work created from their content. The system must prevent a situation where a Licensee can effectively block the Licensor's exercise of their grant-back right by intentionally or unintentionally including uncleared third-party content in their Derivative Work.
+
+With existing licenses like Creative Commons, it is difficult to meet the first requirement above, as they are premised on the licensor holding all necessary rights to the material they are licensing. Furthermore, because their terms are fixed, they do not permit the addition of custom conditions as required by the second requirement. These constraints make the use of such licenses for real-world streaming activities difficult.
+
+This license solves these issues and, on top of that, imposes the third, more challenging condition: ensuring the Licensor can reliably respond to the Licensee's Derivative Work. This is achieved through provisions such as Clause 4.e.iv, which requires the Licensee to provide a warranty for the copy of the Derivative Work they furnish (the "Provided Copy"). The unique architecture adopted by this license is, therefore, necessary to satisfy all three of these requirements simultaneously.
+</details>
+
 ### What's in This Repository?
 
 This repository contains the following key documents:
