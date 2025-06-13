@@ -207,7 +207,7 @@ While these considerations about third-party content might seem to add complexit
 
 It is vital to understand the nature of the rights you receive.  
 
-The terms of this grant-back are fixed by the License and are designed to be symmetrical to the rights you grant. The **Licensee cannot unilaterally change these grant-back terms**. This means that, by default (unless you use Clause 3.f to prohibit commercial use entirely), the license you receive back from the Licensee allows you to use their Derivative Work for commercial purposes and without paying them royalties, just as they can use yours.  
+The terms of this grant-back are fixed by the License and are designed to be mostly symmetrical to the rights you grant. The **Licensee cannot unilaterally change these grant-back terms**. This means that, by default (unless you use Clause 3.f to prohibit commercial use entirely), the license you receive back from the Licensee allows you to use their Derivative Work for commercial purposes and without paying them royalties, just as they can use yours.  
 
 This ensures a fair and predictable exchange. You allow your community to build upon your work, and in return, you have the right to celebrate, comment on, and incorporate their creative responses back into your own content stream under the same basic financial terms. When reusing their work, you, in turn, must adhere to the conditions in Clause 4 (such as platform limits and, importantly, attributing the Licensee).
 </details>
