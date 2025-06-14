@@ -14,6 +14,20 @@ Key features include:
 
 This License Template was originally conceived and drafted by [Naoki Shibata](https://github.com/shibatch/). The drafting and refinement process for this template and its accompanying guides involved iterative conceptual exploration and textual assistance from Google's AI model, Gemini. The final structure, terms, and intent of this license model are those of Naoki Shibata.  
 
+### TL;DR: Just Read This Part
+
+* A "license" is a promise of permission that sets the rules for how public content (like videos) can be used. By using this license, a creator clearly declares, "It's okay to make reaction videos," so viewers and other creators know exactly what they can create and what rules they need to follow to avoid issues.
+
+* Simply fill out the license template with your information and link to it from your Twitch "About" panel or YouTube channel description. This turns your VODs into content that everyone can feel safe reacting to.
+
+* Anyone who reuses your videos must do so only on the platforms you specify (e.g., YouTube, Twitch), give you proper credit (attribution), and notify you after they publish their new work.
+
+* If your VOD contains copyrighted material from others (e.g., background music, game footage, art), the person reusing your VOD is responsible for securing the rights to use that third-party content.
+
+* When another creator reuses your video to make their own, they grant you the right to reuse their new video under nearly identical conditions. This is called the "Grant-Back" feature.
+
+* For more detailed rules, specific examples, and help with troubleshooting, please see the full guides.
+
 
 ### Why This License Model?
 
@@ -64,7 +78,7 @@ While this license's architecture may seem unusual compared to standard FOSS lic
 
 * Flexibility for External Obligations: Real-world streaming often requires adherence to external rules, such as agency guidelines. Traditional FOSS licenses with fixed terms cannot accommodate this. This license addresses the issue by allowing the licensor to add custom restrictions (under Clause 3.f), ensuring compliance.
 
-* Guaranteed Grant-Back and Its Necessary Asymmetry: The licensor's right to reuse a derivative work (the grant-back) must be guaranteed to foster dialogue. This requires a critical asymmetry in the license terms. While the licensor can add restrictions, the licensee cannot add new restrictions to the grant-back. If a licensee could add their own terms, they could effectively block the licensor's reuse, rendering the grant-back clause meaningless. This asymmetrical structure, where the grant-back conditions (Clause 4) are fixed, is therefore indispensable. It is further strengthened by the licensee's obligation to furnish a copy of their work upon request (the "Provided Copy" as defined in Clause 3.d), and to warrant that this copy is clear for reuse (Clause 4.e.iv), ensuring the licensor can use it reliably.
+* Guaranteed Grant-Back: The licensor's right to reuse a derivative work (the grant-back) must be guaranteed to foster dialogue. This requires a critical asymmetry in the license terms. While the licensor can add restrictions, the licensee cannot add new restrictions to the grant-back. If a licensee could add their own terms, they could effectively block the licensor's reuse, rendering the grant-back clause meaningless. This asymmetrical structure, where the grant-back conditions (Clause 4) are fixed, is therefore indispensable. It is further strengthened by the licensee's obligation to furnish a copy of their work upon request (the "Provided Copy" as defined in Clause 3.d), and to warrant that this copy is clear for reuse (Clause 4.e.iv), ensuring the licensor can use it reliably.
 
 Thus, the architecture adopted by this license is necessary to satisfy all three of these constraints simultaneously.
 </details>
