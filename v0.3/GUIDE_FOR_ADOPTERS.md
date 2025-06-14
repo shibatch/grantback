@@ -55,6 +55,8 @@ If you wish to use this license model for your VODs, you will be offering your o
   * \[Licensor's Primary Channel Name\]: Your main channel name (e.g., "YourStreamChannel"). This will appear in the Preamble, Definition 1.a, and Clause 11 (of the VOD Reaction License text, referring to "Distribution and Modification of This License Document").  
   * \[Year\] and \[Licensor's Name or Channel Name / Operator\] (in the Copyright notice section of the License Template): The current year and your legal name, channel name, or operating entity name.  
     * (A Note on Your Copyright Line): The format Copyright (c) \[Year\] \[Your Name/Entity\] is common. For content like your VODs, you might also choose to state, for example: "Copyright (c) \[Year\] \[Your Channel Name\]. My VODs under this license are offered via the VOD Reaction License Version 0.3." The phrase "All rights reserved." (often seen with software) is generally optional for content, as your rights are reserved by copyright law anyway, and Clause 5 of the License Template ("Reservation of Rights") already clarifies this. Select a style that you are comfortable with for your channel.  
+    * If you are offering this license as a legal entity (e.g., a corporation), you must state the official registered name of that entity in this copyright notice section. Accurate identification is a condition for this license's validity under Clause 10.d.
+    * If you are offering the license as an individual, the license deems your publicly established channel name or pseudonym to be a legally sufficient identifier. This allows you to offer the license without disclosing your real name.
   * \[Licensor's Designated Channel Name for Attribution\] (in Definition 1.f and Clause 3.b of the License Template): The specific channel name you want *your* Licensees (your VOD reusers) to credit when they use your VODs.  
 * Basic notes on replacing placeholders:
   * When you customize the license by replacing placeholder text, please be sure to delete the entire bracketed comment, including the square brackets \[ and \] themselves. The final, published license should only contain your own information, not the instructional comments from the template.
@@ -98,6 +100,8 @@ You can use this section to set your policy on commercial use and to add specifi
 * To PROHIBIT commercial use: You must add an explicit rule here to override the default.
 
   Example: Commercial use of the Derivative Work is not permitted under this license.  
+
+   When prohibiting "commercial use," the question of whether standard platform monetization features—such as YouTube's Super Chat, Membership Gifts, Super Thanks, or Twitch's Bits, Subscriptions, and Sub Gifts—are included in the definition of "commercial use" can be ambiguous and a potential source of conflict. Therefore, if you establish a rule prohibiting or restricting commercial use, it is recommended that you explicitly clarify how these features are to be treated.
 
 * To add OTHER conditions regarding the Derivative Work: You can also list other brand-safety or conduct rules, as long as they relate directly to the content of the Derivative Work.
 
@@ -167,6 +171,7 @@ When you choose to adopt and implement your version of the "VOD Reaction License
 #### 3.1 You Are the Licensor
 
 By customizing and publishing this license text for your VODs, you become the "Licensor" in the agreement between you and anyone who reuses your VODs under its terms. The original author of this License Template ([Naoki Shibata](https://github.com/shibatch)) is not a party to your agreements. You are solely responsible for offering this license and its application to your content.
+
 
 #### 3.2 Navigating Third-Party Content in Your VODs
 
@@ -262,6 +267,7 @@ So, a member of your community has created a Derivative Work using your VOD unde
 * Check if they've complied with your license terms, such as:  
   * Attribution to You: Have they correctly attributed your channel (as specified in your version of Clause 3.b of the License)?  
   * Permitted Platforms: Is their Derivative Work published on one of the platforms you designated as "Permitted Platforms" in the License (as per Clause 3.a of the License)?  
+  * Check the Contracting Party: If the Licensee is a legal entity, check if their notification includes the official name of that entity, as required by Clause 3.c of the License.
 * Requesting the "Provided Copy" for Grant-Back Consideration: As the Licensor, you have the right under Clause 3.d of the License to request a "Provided Copy" from the Licensee. This is a standard step to consider if you wish to evaluate their work for your own grant-back reuse. You might decide to request this copy for any number of reasons—perhaps you have concerns about the copyright cleanness of their "Published Version," or maybe you simply cannot access their work. Your request can be simple, such as, "As per the VOD Reaction License, could you please provide me with the copy of your derivative work?" You are not required to explain your reasoning or instruct the Licensee on how to perform the copyright clearance; the License itself outlines their obligations for preparing this copy. Finally, remember that receiving the Provided Copy simply gives you the option to reuse it; it does not create any obligation for you to actually publish content using it.
 </details>
 

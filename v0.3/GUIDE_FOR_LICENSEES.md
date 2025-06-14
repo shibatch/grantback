@@ -104,7 +104,12 @@ Step 2.5: Reporting Your Derivative Work to Us (License Clause 3.c)
 
 After publishing Your Derivative Work, You must promptly notify us (the Licensor) of its publication in a reasonable manner.
 
-* **\[Licensor to specify preferred notification method(s) here. E.g., "Please notify us by tagging @\[Licensor'sSocialMediaHandle\] on X/Twitter when you post your video," or "Send a link to your Derivative Work to \[licensor-contact-email@example.com\]," or "Mention us in the YouTube upload using @\[LicensorYouTubeChannel\]."\]**
+As required by Clause 3.c of the License, your notification must also clarify your legal status as the creator:
+
+* If you are an individual creator, simply providing your channel name is sufficient. The license recognizes your channel name or pseudonym as your identifier.
+* If you are acting as a legal entity (e.g., a corporation or LLC), your notification must also include the official, registered name of your entity.
+
+**\[Licensor to specify preferred notification method(s) here. E.g., "Please notify us by tagging @\[Licensor'sSocialMediaHandle\] on X/Twitter when you post your video," or "Send a link to your Derivative Work to \[licensor-contact-email@example.com\]," or "Mention us in the YouTube upload using @\[LicensorYouTubeChannel\]."\]**
 
 
 Step 2.6: Providing a Copy of Your Derivative Work if Requested (Corresponds to Clause 3.d of the License)

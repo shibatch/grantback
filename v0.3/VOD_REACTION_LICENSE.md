@@ -24,7 +24,7 @@ h. "Provided Copy" means the specific digital copy of a Derivative Work, or rele
 
 2\. License Grant for VODs
 
-The Licensor grants the Licensee a non-exclusive, worldwide, perpetual (for the duration of copyright in the VODs), irrevocable (as long as the Licensee complies with all conditions of this License), and non-transferable license, for which no monetary compensation is due to the Licensor, to copy, adapt, remix, transform, excerpt, and create new works based on the VODs (resulting in Derivative Works), solely for the purpose of creating and publishing such Derivative Works on the Permitted Platforms.
+The Licensor grants to the Licensee, for no monetary compensation due to the Licensor, a non-exclusive, worldwide, perpetual (for the duration of copyright in the VODs), irrevocable (as long as the Licensee complies with all conditions of this License), and non-transferable license to copy, adapt, remix, transform, excerpt, and create new works based on the VODs (resulting in Derivative Works), solely for the purpose of creating and publishing such Derivative Works on the Permitted Platforms; provided, however, that this license may be transferred to a successor entity in connection with a sale, merger, or other corporate reorganization of the Licensee's entire business or specific assets to which this license relates.
 
 This grant is subject to all conditions in this license. The permissibility of commercial use of the Derivative Work under this license is governed exclusively by the terms, if any, set forth by the Licensor in Clause 3.f. Unless Clause 3.f explicitly states that commercial use is not permitted, commercial use is permitted under the terms of this license.
 
@@ -37,7 +37,7 @@ b. Attribution to Licensor:
 The Licensee must provide Attribution to the Licensor in each Derivative Work. This means either visually displaying the Licensor's designated channel name for Attribution in a clear and prominent manner within the video component of the Licensee's Derivative Work (e.g., in credits, as an on-screen overlay for a reasonable duration, or in a persistent description if the platform allows) OR by audibly stating the Licensor's designated channel name for Attribution clearly within the audio component of the Licensee's Derivative Work (e.g., "Content used from channel **\[Licensor's Designated Channel Name for Attribution\]**").
 
 c. Reporting to Licensor:  
-After publishing the Licensee's Derivative Work, the Licensee must promptly notify the Licensor of its publication in a reasonable manner.
+After publishing the Licensee's Derivative Work, the Licensee must promptly notify the Licensor of its publication in a reasonable manner. This notification must serve to identify the legal party acting as the Licensee. If the Licensee is a legal entity (e.g., a corporation or LLC), this notification must include the official name of that entity. If the Licensee is an individual, identification by their publicly established channel name or pseudonym shall be deemed sufficient for the purposes of this notification.
 
 d. Provision of Derivative Work Data to Licensor:  
 Upon the Licensor's request, the Licensee must promptly provide the Licensor with a digital copy of the relevant portions of the Licensee's Derivative Work that incorporate the Licensor's VODs. When such provided digital copy constitutes a Provided Copy, it must satisfy the following conditions in relation to the Published Version from which it is derived:
@@ -60,7 +60,7 @@ The Licensor may specify additional restrictions below. Such restrictions may on
 
 4\. Grant-Back License for the Licensee's Derivative Works
 
-For each Derivative Work that the Licensee creates and publishes by using the Licensor's VODs in accordance with the terms of this license, the Licensee hereby grants back to the Licensor a non-exclusive, worldwide, perpetual, irrevocable, and non-transferable license, for which no monetary compensation is due to the Licensor, to use, reproduce, distribute, display, perform, adapt, and create derivative works from such Derivative Work. The permissibility of commercial use of the Derivative Work by the Licensor under this grant-back shall be the same as the permissibility of commercial use granted to the Licensee under Clause 2 of this license.
+For each Derivative Work that the Licensee creates and publishes by using the Licensor's VODs in accordance with the terms of this license, the Licensee hereby grants back to the Licensor, for no monetary compensation due to the Licensee, a non-exclusive, worldwide, perpetual, irrevocable, and non-transferable license to use, reproduce, distribute, display, perform, adapt, and create derivative works from such Derivative Work; provided, however, that this license may be transferred to a successor entity in connection with a sale, merger, or other corporate reorganization of the Licensor's entire business or specific assets to which this license relates. The permissibility of commercial use of the Derivative Work by the Licensor under this grant-back shall be the same as the permissibility of commercial use granted to the Licensee under Clause 2 of this license.
 
 This license granted back to the Licensor is subject to the following conditions. This grant-back applies only to Derivative Works created by the Licensee that incorporate the Licensor's VODs under this license and does not apply to any other works created by the Licensee.
 
@@ -115,6 +115,8 @@ a. If any provision of this license is held to be unenforceable or invalid, such
 b. This license constitutes the entire agreement between the Licensee and the Licensor concerning the subject matter hereof.
 
 c. Order of Precedence. In the event of any conflict, ambiguity, or inconsistency between the information provided by the Licensor within any placeholder of this License and the standard, non-placeholder provisions of this License, the standard, non-placeholder provisions shall govern and control.
+
+d. Identification of Licensor. The party offering this license as the Licensor must, in the space designated for the Copyright Notice, clearly and accurately identify the legal party acting as the Licensor. If the Licensor is a legal entity (e.g., a corporation), its official registered name must be used. If the Licensor is an individual, the use of a publicly established channel name or pseudonym under which they consistently operate shall be deemed a sufficient identification for the purposes of this license. Ambiguous or incomplete identification of the Licensor may affect the validity and enforceability of this license.
 
 11\. Distribution and Modification of This License Document 
 
