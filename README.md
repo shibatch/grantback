@@ -41,7 +41,7 @@ Please choose the version that best suits your needs. For most current uses, the
 
 ## History
 
-* Version 0.3 (Released 2025-06-25)
+* Version 0.3 (Released 2025-06-15)
   * Introduced more detailed and practical terms for the grant-back process, including new definitions (e.g., "Published Version," "Provided Copy") and a section for licensors to add custom restrictions, such as on commercial use.
   * Significantly expanded the guides for both adopters and licensees with more detailed instructions, troubleshooting, and guidance for complex, real-world scenarios (e.g., corporate-affiliated creators).
   * Enhanced legal clarity throughout the license with new provisions for identifying legal parties and establishing an order of precedence for terms.
