@@ -105,7 +105,7 @@ For Streamers Wanting to Adopt This License Model for Their Own VODs (Adopting L
 4. Inform Your Community: Clearly state on your channel(s) that your designated VODs are offered under your instance of the "VOD Reaction License Version 0.4" and provide a direct link to your hosted version of the license.  
 5. Provide Guidance: It is highly recommended to also provide a version of the [GUIDE\_FOR\_LICENSEES.md](GUIDE_FOR_LICENSEES.md), customized for your channel, to help your community understand how they can reuse your content.
 
-A Note on VODs in Documentation: While this README and the guides often discuss VODs in the context of live stream recordings (due to the license's origins and common streamer use-cases), the VOD Reaction License text itself defines "VODs" more broadly. For the precise definition, please always refer to the actual license document.  
+A Note on VODs and Audio Content in Documentation: While this README and the guides often discuss VODs in the context of live stream recordings (due to the license's origins and common streamer use-cases), the VOD Reaction License text itself defines "VODs" more broadly to be fully compatible with audio-only content, such as podcasts. For the precise definition, please always refer to the actual license document.
 
 
 ### Licensing of These Documents

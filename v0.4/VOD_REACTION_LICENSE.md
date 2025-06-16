@@ -8,13 +8,13 @@ Copyright (c) **\[Year\]**, **\[Licensor's Name or Channel Name / Operator\]**
 
 a. "Licensor" refers to the operator(s) of the content creation channel "**\[Licensor's Primary Channel Name\]**".
 
-b. "VODs" (Video on Demand) refers to any audio-visual content created and made publicly available by the Licensor (e.g., on video sharing and streaming platforms such as Twitch or YouTube, including but not limited to, recordings of past live streams, fully pre-edited videos, or other forms of public video material) and which the Licensor has indicated are available for use under the terms of this license.
+b. "VODs" (Video on Demand) refers to any audio-visual or audio-only content created and made publicly available by the Licensor (e.g., on video sharing and streaming platforms such as Twitch or YouTube, including but not limited to, recordings of past live streams, fully pre-edited videos, or other forms of public video material) and which the Licensor has indicated are available for use under the terms of this license.
 
 c. "Licensee" refers to the individual or entity exercising rights under this license.
 
 d.  "Permitted Platforms" refers to \`**\[Adopting Licensor: Replace this entire bracketed comment with your chosen list of at least one specific video sharing/streaming platform (e.g., "Twitch (www.twitch.tv)", "YouTube (www.youtube.com)"). If listing platforms other than Twitch and YouTube, please do so carefully after thoroughly reading the "Important Considerations When Choosing/Adding Permitted Platforms" section in the "Guide for Streamers Adopting this License Template." \]**\`
 
-e. "Derivative Work" refers to any new audio-visual work created by the Licensee that incorporates or is derived from the VODs.
+e. "Derivative Work" refers to any new audio-visual or audio-only work created by the Licensee that incorporates or is derived from the VODs.
 
 f. "Attribution" means clearly displaying the Licensor's designated channel name (e.g., "**\[Licensor's Designated Channel Name for Attribution\]**") in text on screen OR clearly announcing it audibly within the Licensee's Derivative Work. The specific channel name for Attribution will be provided by the Licensor where the VODs are made available (e.g., on the Licensor's channel page or in the description of the VODs).
 
@@ -90,7 +90,7 @@ When the Licensee grants back the license to the Licensee's Derivative Work to t
 
 5\. Reservation of Rights and Third-Party Content in Original VODs
 
-All rights in the VODs not expressly granted by the Licensor in this license are hereby reserved by the Licensor. To the best of the Licensor's knowledge, the original content created by the Licensor within the VODs does not infringe upon the copyrights of third parties. This license grants rights only to such original content created by the Licensor. This license does not grant the Licensee any rights to use third-party copyrighted content that may be incidentally included in the VODs (e.g., in-game music, other's video clips, copyrighted music played during the stream). If the Licensee chooses to Reuse portions of the VODs that include such third-party content, the Licensee is solely responsible for determining if its use is permissible (e.g., under fair use doctrines or other exceptions) and for obtaining any necessary permissions from the respective rights holders of that third-party content. The Licensor makes no further warranties and assumes no liability regarding the clearance or suitability of any third-party content within the VODs for the Licensee's Reuse.
+All rights in the VODs not expressly granted by the Licensor in this license are hereby reserved by the Licensor. To the best of the Licensor's knowledge, the original content created by the Licensor within the VODs does not infringe upon the copyrights of third parties. This license grants rights only to such original content created by the Licensor. This license does not grant the Licensee any rights to use third-party copyrighted content that may be incidentally included in the VODs (e.g., in-game music, other's video or audio clips, copyrighted music played during the stream). If the Licensee chooses to Reuse portions of the VODs that include such third-party content, the Licensee is solely responsible for determining if its use is permissible (e.g., under fair use doctrines or other exceptions) and for obtaining any necessary permissions from the respective rights holders of that third-party content. The Licensor makes no further warranties and assumes no liability regarding the clearance or suitability of any third-party content within the VODs for the Licensee's Reuse.
 
 6\. Warranty Disclaimer
 
