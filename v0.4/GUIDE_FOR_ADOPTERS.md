@@ -444,6 +444,8 @@ At this point on July 15th, the Licensor can make a choice like the following:
 If the Licensor declares the latter ("retroactively"), the Derivative Work is legally considered to have been published without permission continuously from June 1st (i.e., in a state of copyright infringement). The entire period, including the grace period from July 1st to 15th when the Licensor was requesting correction, would be deemed the period of infringement. Having this option allows the Licensor to protect their rights more robustly.
 
 This automatic termination clause exists to legally clarify the Licensor's position as a baseline for any discussions that may become necessary between the Licensor and Licensee. If, as a result of discussions, the Licensor determines that the breach has been rectified, they may choose not to exercise their right to terminate, or they may grant a new, separate permission, distinct from the original terminated license.
+
+It is important to note that this mechanism, which gives the Licensor the authority to decide "from when" the termination takes effect, is a unique feature of the VOD Reaction License. Unlike many public licenses (such as those for open-source software) which often favor uniform, self-executing rules, this clause is intentionally designed to give the Licensor maximum practical flexibility. It blends the strong legal standing of an automatic termination principle with the discretionary power needed for effective and empathetic community management.
 </details>
 
 #### 6.1 Handling Potential Non-Compliance or Rights Issues by a Licensee
