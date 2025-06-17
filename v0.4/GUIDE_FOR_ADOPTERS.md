@@ -424,6 +424,28 @@ Public licenses, once accepted through compliant use, grant rights that are typi
 
 This section covers how to handle certain situations that may arise in practice.
 
+<details>
+<summary>Regarding the Concept of "Automatic Termination"</summary>
+&nbsp;  
+
+The "automatic termination" provision here does not necessarily mean that the license is mechanically revoked the instant a violation occurs, forcing the Licensor to act immediately without any discretion. More accurately, it means that at the point a violation of the license terms by the Licensee occurs, the right to assert that "the license has terminated" arises for the Licensor. The Licensor can, at their discretion, decide when to exercise that right. This includes the authority to decide "from when" the termination takes effect. This is the concept of making the termination "retroactive."
+
+Let's look at the example below:
+
+* June 1st: A Licensee publishes a video on a non-Permitted Platform (a license violation occurs).
+* July 1st: The Licensor discovers the violation and requests that the Licensee correct it.
+* July 15th: The Licensor determines that the Licensee has no intention of correcting the issue.
+
+At this point on July 15th, the Licensor can make a choice like the following:
+
+* Non-retroactive termination: Declare, "As I have determined you have no intention to correct the issue, your license is terminated as of today, July 15th."
+* Retroactive termination: Declare, "As I have determined you have no intention to correct the issue, your license shall be considered terminated retroactively to the point of the violation on June 1st."
+
+If the Licensor declares the latter ("retroactively"), the Derivative Work is legally considered to have been published without permission continuously from June 1st (i.e., in a state of copyright infringement). The entire period, including the grace period from July 1st to 15th when the Licensor was requesting correction, would be deemed the period of infringement. Having this option allows the Licensor to protect their rights more robustly.
+
+This automatic termination clause exists to legally clarify the Licensor's position as a baseline for any discussions that may become necessary between the Licensor and Licensee. If, as a result of discussions, the Licensor determines that the breach has been rectified, they may choose not to exercise their right to terminate, or they may grant a new, separate permission, distinct from the original terminated license.
+</details>
+
 #### 6.1 Handling Potential Non-Compliance or Rights Issues by a Licensee
 
 The VOD Reaction License Version 0.4 aims for clarity, but misunderstandings or mistakes can occur. Clause 8 of the License states that if a Licensee fails to comply with any condition, their rights under the License terminate automatically. This means their permission to use your VODs in their Derivative Work technically ceases.  
