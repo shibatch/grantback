@@ -248,12 +248,14 @@ Understanding these details helps you know what to expect and what your rights a
 
 While this VOD Reaction License provides a framework for the copyright aspects of reusing your VODs, please remember that all content creation and streaming activities – both your own and those of your Licensees – are subject to other applicable laws and third-party rights. These can include areas such as trademark, privacy, publicity rights, defamation, and unfair competition. This license does not override those other legal obligations, and compliance with all relevant laws is essential for everyone in the content creation ecosystem.
 
-<details>
-<summary>Final Important Reminders</summary>
-&nbsp;  
 
-This License Template is experimental and provided as a starting point. You are solely responsible for the license you implement. It is strongly recommended to have your customized license reviewed by legal counsel to ensure it meets your specific needs and legal context before offering it to your community. Remember that clear communication with your community about your licensing terms is key to fostering a positive and collaborative environment.  
-</details>
+#### 3.6 The "Provided Copy" and the Spirit of Collaboration
+
+The principle for the "Provided Copy" laid out in Clause 3.d is intended to enable you to meaningfully engage with derivative works. To achieve this, the license is built on the idea that the Provided Copy should be in a form that is reasonably modifiable.
+
+For instance, because meaningful modification of a computer program is impossible without its source code, the license assumes that the Provided Copy for a derivative program will include its source code.
+
+In the same spirit of collaboration, for other media formats like video or art, this principle encourages the inclusion of any similar data that makes editing easier. Providing the "editable" version of a work, whatever its format, is the ideal way to fulfill the collaborative potential of this license, allowing you to fully interact with and build upon the community's creativity.
 
 
 ### 4\. A Licensee Reused Your VOD Under Your License: Initial Steps

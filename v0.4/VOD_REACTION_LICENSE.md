@@ -8,7 +8,7 @@ Copyright (c) **\[Year\]**, **\[Licensor's Name or Channel Name / Operator\]**
 
 a. "Licensor" refers to the operator(s) of the content creation channel "**\[Licensor's Primary Channel Name\]**".
 
-b. "Licensed Content" refers to any digital work or material (including, but not limited to, videos, audio, still images, comics, and 3D models) which the Licensor has made publicly available and has indicated are available for use under the terms of this license.
+b. "Licensed Content" refers to any digital work or material (including, but not limited to, videos, audio, still images, comics, 3D models, and computer programs) which the Licensor has made publicly available and has indicated are available for use under the terms of this license.
 
 c. "Licensee" refers to the individual or entity exercising rights under this license.
 
@@ -48,7 +48,7 @@ Upon the Licensor's request, the Licensee must promptly provide the Licensor wit
 
 (iii) If, as a direct result of the editing permitted under Clause 3.d(ii), important parts (such as the Licensee's own speech) present in the Published Version are unavoidably lost or obscured in the Provided Copy, the Licensee must, concurrently with providing the Provided Copy, notify the Licensor of the nature and content of such lost parts by reasonable and good-faith means (e.g., by providing a textual transcript of the lost speech).
 
-The digital copy provided under this Clause 3.d shall be in a common digital format and delivered via a reasonable method.
+The digital copy provided under this Clause 3.d shall be in a common digital format and delivered via a reasonable method. Furthermore, if additional data beyond the digital copy of the Published Version itself is required to enable reasonable modification of the work, that additional data must also be included as part of the Provided Copy.
 
 e. General Responsibility for Derivative Work:  
 The Licensee is solely responsible for all content within their Derivative Work and for ensuring that such Derivative Work complies with all applicable laws and does not infringe upon any third-party rights, including but not limited to copyright (beyond the rights granted herein for the Licensor's Licensed Content), trademark, publicity rights, privacy rights, or any other personal or proprietary rights. The Licensor assumes no liability for the content or consequences of the Licensee's Derivative Work.
@@ -90,7 +90,7 @@ When the Licensee grants back the license to the Licensee's Derivative Work to t
 
 5\. Reservation of Rights and Third-Party Content in Original Licensed Content
 
-All rights in the Licensed Content not expressly granted by the Licensor in this license are hereby reserved by the Licensor. To the best of the Licensor's knowledge, the original content created by the Licensor within the Licensed Content does not infringe upon the copyrights of third parties. This license grants rights only to such original content created by the Licensor. This license does not grant the Licensee any rights to use third-party copyrighted content that may be incidentally included in the Licensed Content (e.g., in-game music, other's video clips, audio clips, illustrations, 3D models, or copyrighted music played during the stream). If the Licensee chooses to Reuse portions of the Licensed Content that include such third-party content, the Licensee is solely responsible for determining if its use is permissible (e.g., under fair use doctrines or other exceptions) and for obtaining any necessary permissions from the respective rights holders of that third-party content. The Licensor makes no further warranties and assumes no liability regarding the clearance or suitability of any third-party content within the Licensed Content for the Licensee's Reuse.
+All rights in the Licensed Content not expressly granted by the Licensor in this license are hereby reserved by the Licensor. To the best of the Licensor's knowledge, the original content created by the Licensor within the Licensed Content does not infringe upon the copyrights of third parties. This license grants rights only to such original content created by the Licensor. This license does not grant the Licensee any rights to use third-party copyrighted content that may be incidentally included in the Licensed Content (e.g., in-game music, other's video clips, audio clips, illustrations, 3D models, computer programs, or copyrighted music played during the stream). If the Licensee chooses to Reuse portions of the Licensed Content that include such third-party content, the Licensee is solely responsible for determining if its use is permissible (e.g., under fair use doctrines or other exceptions) and for obtaining any necessary permissions from the respective rights holders of that third-party content. The Licensor makes no further warranties and assumes no liability regarding the clearance or suitability of any third-party content within the Licensed Content for the Licensee's Reuse.
 
 6\. Warranty Disclaimer
 
