@@ -14,9 +14,9 @@ c. "Licensee" refers to the individual or entity exercising rights under this li
 
 d.  "Permitted Platforms" refers to \`**\[Adopting Licensor: Replace this entire bracketed comment with your chosen list of at least one specific media sharing/streaming platform (e.g., "Twitch (www.twitch.tv)", "YouTube (www.youtube.com)"). If listing platforms other than Twitch and YouTube, please do so carefully after thoroughly reading the "Important Considerations When Choosing/Adding Permitted Platforms" section in the "Guide for Streamers Adopting this License Template." \]**\`
 
-e. "Derivative Work" refers to any new digital work or material work created by the Licensee that incorporates or is derived from the Licensed Content.
+e. "Derivative Work" refers to any new digital work or material created by the Licensee that incorporates or is derived from the Licensed Content.
 
-f. "Attribution" means clearly displaying the Licensor's designated channel name (e.g., "**\[Licensor's Designated Channel Name for Attribution\]**") in text on screen OR clearly announcing it audibly within the Licensee's Derivative Work. The specific channel name for Attribution will be provided by the Licensor where the Licensed Content is made available (e.g., on the Licensor's channel page or in the description of the Licensed Content).
+f. "Attribution" means the clear and prominent identification of a party, performed by either visually displaying that party's designated name (e.g., in credits, as an on-screen overlay for a reasonable duration, or in a persistent description if the platform allows), OR by audibly stating that party's designated name clearly, OR by providing identification in a manner otherwise reasonable for the medium of the work.
 
 g. "Published Version" means a Derivative Work as publicly distributed or made available by the Licensee.
 
@@ -34,7 +34,7 @@ a. Platform Restriction:
 The Licensee's Derivative Work may only be published, shared, or made available on the Permitted Platforms. Publication on any other platform is not permitted under this license.
 
 b. Attribution to Licensor:  
-The Licensee must provide Attribution to the Licensor in each Derivative Work. This means either visually displaying the Licensor's designated channel name for Attribution in a clear and prominent manner within the video component of the Licensee's Derivative Work (e.g., in credits, as an on-screen overlay for a reasonable duration, or in a persistent description if the platform allows) OR by audibly stating the Licensor's designated channel name for Attribution clearly within the audio component of the Licensee's Derivative Work (e.g., "Content used from channel **\[Licensor's Designated Channel Name for Attribution\]**"), OR by providing attribution in a manner otherwise reasonable for the medium of the Derivative Work.
+The Licensee must provide Attribution to the Licensor in each Derivative Work. The specific name to be used for Attribution shall be the "[Licensor's Designated Channel Name for Attribution]" or as otherwise specified by the Licensor.
 
 c. Reporting to Licensor:  
 After publishing the Licensee's Derivative Work, the Licensee must promptly notify the Licensor of its publication in a reasonable manner. This notification must serve to identify the legal party acting as the Licensee. If the Licensee is a legal entity (e.g., a corporation or LLC), this notification must include the official name of that entity. If the Licensee is an individual, identification by their publicly established channel name or pseudonym shall be deemed sufficient for the purposes of this notification.
@@ -68,7 +68,7 @@ a. Platform Restriction for Licensor:
 The Licensor's use of such Derivative Work is restricted to the Permitted Platforms. The Licensor may only publish, share, or make such Derivative Work (or derivatives thereof created by the Licensor from such Derivative Work) available on these platforms.
 
 b. Attribution to Licensee by Licensor:  
-When using such Derivative Work, the Licensor must provide attribution to the Licensee. This means the Licensor will clearly display the Licensee's primary channel name (e.g., the Licensee's Twitch or YouTube channel name, whichever is primarily associated with such Derivative Work, or as the Licensee may otherwise instruct the Licensor in writing) in text on screen OR clearly announce it audibly within any new work created by the Licensor that incorporates such Derivative Work. The method of attribution shall be reasonable for the medium used by the Licensor.
+When using such Derivative Work, the Licensor must provide Attribution to the Licensee. The specific name to be used for Attribution shall be the Licensee's primary channel name (e.g., the Licensee's Twitch or YouTube channel name, whichever is primarily associated with such Derivative Work, or as the Licensee may otherwise instruct the Licensor in writing).
 
 c. Collaborative Use by Licensor:  
 The Licensor may feature such Derivative Work on the Licensor's own channels on the Permitted Platforms, including during collaborative streams or videos with other creators appearing on the Licensor's channel(s) as guests or co-hosts.
