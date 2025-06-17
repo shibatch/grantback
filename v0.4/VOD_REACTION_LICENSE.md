@@ -102,7 +102,7 @@ In no event shall the Licensor be liable for any direct, indirect, incidental, s
 
 8\. Term and Termination
 
-This license is effective as long as the Licensee complies with its terms. If the Licensee fails to comply with any condition, the Licensee's rights under this license terminate automatically. Clauses 4, 5, 6, 7, and 10 shall survive any termination of this license.
+This license is effective as long as the Licensee complies with its terms. If the Licensee fails to comply with any condition, the Licensee's rights under this license terminate automatically. However, the Licensor retains sole discretion to determine how and when such termination is enforced, and may set its effective date retroactively to the date of the Licensee's initial non-compliance. Clauses 4, 5, 6, 7, and 10 shall survive any termination of this license.
 
 9\. Excusable Non-Performance
 

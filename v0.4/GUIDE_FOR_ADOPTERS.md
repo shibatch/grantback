@@ -428,7 +428,7 @@ This section covers how to handle certain situations that may arise in practice.
 <summary>Regarding the Concept of "Automatic Termination"</summary>
 &nbsp;  
 
-The "automatic termination" provision here does not necessarily mean that the license is mechanically revoked the instant a violation occurs, forcing the Licensor to act immediately without any discretion. More accurately, it means that at the point a violation of the license terms by the Licensee occurs, the right to assert that "the license has terminated" arises for the Licensor. The Licensor can, at their discretion, decide when to exercise that right. This includes the authority to decide "from when" the termination takes effect. This is the concept of making the termination "retroactive."
+The "automatic termination" provision under this license does not necessarily mean that the license is mechanically revoked the instant a violation occurs, forcing the Licensor to act immediately without any discretion. More accurately, it means that at the point a violation of the license terms by the Licensee occurs, the right to assert that "the license has terminated" arises for the Licensor. The Licensor can, at their discretion, decide when to exercise that right. This includes the authority to decide "from when" the termination takes effect. This is the concept of making the termination "retroactive."
 
 Let's look at the example below:
 
