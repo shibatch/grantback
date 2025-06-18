@@ -446,6 +446,22 @@ If the Licensor declares the latter ("retroactively"), the Derivative Work is le
 This automatic termination clause exists to legally clarify the Licensor's position as a baseline for any discussions that may become necessary between the Licensor and Licensee. If, as a result of discussions, the Licensor determines that the breach has been rectified, they may choose not to exercise their right to terminate, or they may grant a new, separate permission, distinct from the original terminated license.
 
 It is important to note that this mechanism, which gives the Licensor the authority to decide "from when" the termination takes effect, is a unique feature of the VOD Reaction License. Unlike many public licenses (such as those for open-source software) which often favor uniform, self-executing rules, this clause is intentionally designed to give the Licensor maximum practical flexibility. It blends the strong legal standing of an automatic termination principle with the discretionary power needed for effective and empathetic community management.
+
+**Strategic Benefits of the Termination Clause**  
+
+In many other public licenses (like FOSS licenses), the license terminates automatically upon a licensee's breach. The typical response is then to contact the violator to demand correction, or to offer to re-license the work. However, with this approach, because the license agreement has already terminated, any discussion about the handling of the still-public video must be conducted under general copyright law. This creates an opening for the licensee to argue that their original use was permissible under "fair use," shifting the dispute into that ambiguous legal territory.
+
+The specific design of the termination clause in Clause 8 of the VOD Reaction License provides a superior alternative with two significant strategic benefits:
+
+1. Frames the Dispute as Breach of Contract: This framework allows you to legally presume that a binding agreement was formed. This is achieved by combining two key facts:
+   * You, the Licensor, clearly offered the license by following the steps in this guide, such as indicating the license on the VOD itself.
+   * The Licensee accepted this offer through their actions. The license itself defines a "Licensee" as someone "exercising rights under this license".
+
+   Crucially, the legal debate over "fair use" is predicated on the use of a work being unlicensed. Once it is established that the Licensee was operating under a license they agreed to, the "fair use" argument becomes largely irrelevant. By establishing that a contract was formed, any non-compliance with the conditions set forth in Clause 3 becomes a breach of that agreement. This shifts the focus of any dispute from the ambiguous world of copyright law to the much clearer world of contract law, providing a stronger legal foundation.
+
+2. Ensures Only the Licensee is the Breaching Party: The clause gives you, the Licensor, a clear, contractually defined process for enforcement. By following this process (i.e., exercise your right to decide when the contract is terminated), you are acting within the bounds of the agreement. This prevents a "mud-slinging" scenario where a Licensee might counterclaim that you also acted improperly (e.g., by breaching the Licensor's own obligations). It cleanly establishes that the Licensee is the sole party that has failed to meet their contractual obligations, strengthening your legal and moral high ground.
+
+Together, these benefits give you significant leverage and clarity, allowing you to manage your community and enforce your terms with confidence.
 </details>
 
 #### 6.1 Handling Potential Non-Compliance or Rights Issues by a Licensee
@@ -559,7 +575,7 @@ Consequences of Non-Compliance with Grant-Back Terms</summary>
 A more complex situation can arise if a Licensee's non-compliance with the VOD Reaction License Version 0.4 is discovered *after* you (the Licensor) have already exercised your grant-back rights to reuse the Licensee's Derivative Work (e.g., by creating a "reaction to the reaction" video).
 
 <details>
-<summary>Licensee's Rights Terminate</summary>
+<summary>Licensor's Right to Terminate</summary>
 &nbsp;
 
 If you discover that the Licensee has failed to comply with the conditions of the VOD Reaction License, Clause 8 of the license grants you the discretion to terminate the Licensee's rights.
