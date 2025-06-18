@@ -11,6 +11,7 @@ Key features include:
 * Attribution: Requires Licensees to provide clear attribution to the original Licensor.  
 * Grant-Back Clause: Licensees grant back a license to the original Licensor to reuse the new "Derivative Work" created by the Licensee, under mostly symmetrical conditions. This fosters dialogue and allows Licensors to engage with community creations.  
 * Community Focused: Aims to encourage interaction, collaboration, and mutual promotion within the streaming community.
+* A Different Approach to Problem-Solving: Unlike many FOSS licenses that aim to manage rights in an automatic and unambiguous way, this license model intentionally focuses on encouraging dialogue between creators to resolve issues, reflecting a different philosophy.
 
 This License Template was originally conceived and drafted by [Naoki Shibata](https://github.com/shibatch/). The drafting and refinement process for this template and its accompanying guides involved iterative conceptual exploration and textual assistance from Google's AI model, Gemini. The final structure, terms, and intent of this license model are those of Naoki Shibata.  
 
