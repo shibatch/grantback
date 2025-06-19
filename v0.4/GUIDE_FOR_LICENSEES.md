@@ -96,8 +96,8 @@ The License (Clause 3.d(i)) legally requires the Provided Copy to include segmen
    * You might share your overall thoughts and conclusions for several minutes after the direct VOD feature.
    * You might even try out a game technique from our VOD in your own gameplay after the main VOD feature (even if our VOD isn't continuously on screen during your gameplay test). While these broader segments are not strictly required by Clause 3.d(i) of the License to be in the Provided Copy (unless our VOD itself is being shown/heard within them), we strongly encourage you to also prepare and include these kinds of related reaction segments if you're happy to share them for our grant-back reuse. Of course, these additional segments would also need to be "clean" of any third-party copyright issues for which you cannot grant us reuse rights. Sharing your fuller reaction helps us understand your perspective completely and enriches our ability to interact with your creative work, fostering a better community dialogue! This is a friendly recommendation, not a strict legal requirement from the License for the composition of the Provided Copy beyond the "Primary Reaction Segment" described in step 2.
 
-6. Final Check for Overall "Cleanness":
-Remember, the License (Clause 4.e.iv) requires that the entire Provided Copy you ultimately give us must be "clean" – meaning you have all necessary rights for all its components, allowing us to reuse it under the grant-back terms.
+6. Warranty for Grant-Back (Clause 4.e.iv):
+When You provide this copy to us, You are legally warranting (promising) that all parts of it are clear for our reuse under the grant-back terms. Please be aware that this warranty includes not only the video file itself, but also all "additional data" provided under Clause 3.d. You must ensure you have the rights to grant us a license to these materials as well.
 
 
 Step 2.5: Reporting Your Derivative Work to Us (License Clause 3.c)
