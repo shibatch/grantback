@@ -448,7 +448,7 @@ If the Licensor declares the latter ("retroactively"), the Derivative Work is le
 
 This automatic termination clause exists to legally clarify the Licensor's position as a baseline for any discussions that may become necessary between the Licensor and Licensee. If, as a result of discussions, the Licensor determines that the breach has been rectified, they may choose not to exercise their right to terminate, or they may grant a new, separate permission, distinct from the original terminated license.
 
-It is important to note that this mechanism, which gives the Licensor the authority to decide "from when" the termination takes effect, is a unique feature of the VOD Reaction License. Unlike many public licenses (such as those for open-source software) which often favor uniform, self-executing rules, this clause is intentionally designed to give the Licensor maximum practical flexibility. It blends the strong legal standing of an automatic termination principle with the discretionary power needed for effective and empathetic community management.
+It is important to note that this license agreement is concluded on a per-licensee (user) basis, not on a per-video basis. Therefore, if a licensee commits a license violation in one derivative work and the licensor declares the license terminated, that licensee loses the right to reuse all other licensed content provided by that licensor under this license, unless they obtain new permission from the licensor in the future. This point is also explicitly stated in Clause 8 of the License.
 
 <details>
 <summary>Strategic Benefits of the Termination Clause</summary>
@@ -465,6 +465,8 @@ The unique feature of the VOD Reaction License—that the Licensor can, at their
     The VOD Reaction License is designed so that the licensor can specify whether and when to terminate the license, and the grant-back survives even if the license is terminated retroactively. This prevents a situation where content the licensor published based on the grant-back unintentionally becomes copyright infringement. This is an extremely important safeguard that allows the licensor to engage with community creations and use them in their own content creation with peace of mind.
 
 With these two benefits, you gain significant leverage and clarity, allowing you to manage your community and enforce your terms with confidence.
+
+This mechanism, which gives the Licensor the authority to decide "from when" the termination takes effect, is a unique feature of the VOD Reaction License. Unlike many public licenses (such as those for open-source software) which often favor uniform, self-executing rules, this clause is intentionally designed to give the Licensor maximum practical flexibility. It blends the strong legal standing of an automatic termination principle with the discretionary power needed for effective and empathetic community management.
 </details>
 
 </details>
