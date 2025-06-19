@@ -102,7 +102,7 @@ Remember, the License (Clause 4.e.iv) requires that the entire Provided Copy you
 
 Step 2.5: Reporting Your Derivative Work to Us (License Clause 3.c)
 
-Before publishing Your Derivative Work, You must notify us (the Licensor) of its publication in a reasonable manner.
+Before publishing each Derivative Work, You must notify us (the Licensor) of its publication in a reasonable manner.
 
 As required by Clause 3.c of the License, your notification must also clarify your legal status as the creator:
 
