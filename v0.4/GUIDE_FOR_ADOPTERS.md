@@ -290,6 +290,8 @@ So, a member of your community has created a Derivative Work using your VOD unde
 * Which Version to Reuse: For your reuse, especially if you requested it due to copyright concerns with the Published Version, you would typically use the "Provided Copy." This is because, as detailed in Clause 4.e.iv of the License, the Licensee’s warranty regarding copyright cleanness for your reuse specifically applies to this Provided Copy.
 </details>
 
+**[IMPORTANT] Prohibition on Reuse Before Receiving Notification**: The grant-back license from the Licensee (Clause 4) is only granted to you at the moment the Licensee accepts all terms of this License by providing you with notification (Clause 3.c). Therefore, you must never reuse their Derivative Work before receiving formal notification from the Licensee, as doing so could be considered an unlicensed use.
+
 <details>
 <summary>Step 4.4: If You Reuse Their Derivative Work – Your Obligations to Them</summary>
 
@@ -433,13 +435,14 @@ The "automatic termination" provision under this license does not necessarily me
 Let's look at the example below:
 
 * June 1st: A Licensee publishes a video on a non-Permitted Platform (a license violation occurs).
-* July 1st: The Licensor discovers the violation and requests that the Licensee correct it.
+* June 15th: The same Licensee publishes a second, fully compliant Derivative Work.
+* July 1st: The Licensor discovers the violation in the first video and requests that the Licensee correct it.
 * July 15th: The Licensor determines that the Licensee has no intention of correcting the issue.
 
 At this point on July 15th, the Licensor can make a choice like the following:
 
-* Non-retroactive termination: Declare, "As I have determined you have no intention to correct the issue, your license is terminated as of today, July 15th."
-* Retroactive termination: Declare, "As I have determined you have no intention to correct the issue, your license shall be considered terminated retroactively to the point of the violation on June 1st."
+* Non-retroactive termination: Declare, "As I have determined you have no intention to correct the issue, your license is terminated as of today, July 15th." In this case, the violating video from June 1st is considered copyright infringement from July 15th onward. However, the second, compliant video published on June 15th was created while the license was still valid, so it can remain public.
+* Retroactive termination: Declare, "As I have determined you have no intention to correct the issue, your license shall be considered terminated retroactively to the point of the violation on June 1st." In this case, not only the video from June 1st but also the second, compliant video from June 15th are considered copyright infringement. This is because the licensee's rights were retroactively voided as of June 1st; therefore, the second video was also published without a valid license.
 
 If the Licensor declares the latter ("retroactively"), the Derivative Work is legally considered to have been published without permission continuously from June 1st (i.e., in a state of copyright infringement). The entire period, including the grace period from July 1st to 15th when the Licensor was requesting correction, would be deemed the period of infringement. Having this option allows the Licensor to protect their rights more robustly.
 
@@ -451,19 +454,17 @@ It is important to note that this mechanism, which gives the Licensor the author
 <summary>Strategic Benefits of the Termination Clause</summary>
 &nbsp;  
 
-In many other public licenses (like FOSS licenses), the license terminates automatically upon a licensee's breach. The typical response is then to contact the violator to demand correction, or to offer to re-license the work. However, with this approach, because the license agreement has already terminated, any discussion about the handling of the still-public video must be conducted under general copyright law. This creates an opening for the licensee to argue that their original use was permissible under "fair use," shifting the dispute into that ambiguous legal territory.
+The unique feature of the VOD Reaction License—that the Licensor can, at their own discretion, determine whether to terminate the license and when it takes effect (including retroactively)—creates the following two major strategic benefits.
 
-The specific design of the termination clause in Clause 8 of the VOD Reaction License provides a superior alternative with two significant strategic benefits:
+1.  Frames the Dispute as Breach of Contract to Avoid Fair Use Arguments: In many other public licenses (like FOSS licenses), the license terminates immediately and automatically the moment a licensee commits a violation. With this approach, because the license agreement has already terminated, any discussion about the handling of the still-public video must be conducted under general copyright law. This creates an opening for the licensee to argue that their original use was permissible under "fair use," shifting the dispute into that ambiguous legal territory.
 
-1. Frames the Dispute as Breach of Contract: This framework allows you to legally presume that a binding agreement was formed. This is achieved by combining two key facts:
-   * You, the Licensor, clearly offered the license by following the steps in this guide, such as indicating the license on the VOD itself.
-   * The Licensee accepted this offer through their actions. The license itself defines a "Licensee" as someone "exercising rights under this license".
+    In contrast, under the VOD Reaction License, the formation of the contract is confirmed by the single act of the licensee's notification, making the "fair use" argument largely irrelevant. Because the licensee has explicitly accepted the license terms through notification, non-compliance with the conditions set forth in Clause 3 is not just a potential copyright issue, but a clear breach of the agreement they explicitly accepted. This shifts the focus of any dispute from the ambiguous world of copyright law to the much clearer realm of contract law, providing a stronger legal foundation for the Licensor.
 
-   Crucially, the legal debate over "fair use" is predicated on the use of a work being unlicensed. Once it is established that the Licensee was operating under a license they agreed to, the "fair use" argument becomes largely irrelevant. By establishing that a contract was formed, any non-compliance with the conditions set forth in Clause 3 becomes a breach of that agreement. This shifts the focus of any dispute from the ambiguous world of copyright law to the much clearer world of contract law, providing a stronger legal foundation.
+2.  Prevents Unintentional Copyright Infringement by the Licensor: If a license terminates immediately and automatically at the moment a licensee commits a violation, a problem arises when the licensor has already reused the grant-backed derivative work (e.g., by publishing a reaction-to-the-reaction video). Specifically, (1) once the licensee's license terminates, their derivative work becomes an unlicensed work, and (2) the associated grant-back may become legally invalid. If a licensee's violation is discovered after the licensor has already reused the grant-backed derivative work, the licensor could, before they know it, fall into a situation where the video they published on their own channel is infringing the licensee's copyright.
 
-2. Ensures Only the Licensee is the Breaching Party: The clause gives you, the Licensor, a clear, contractually defined process for enforcement. By following this process (i.e., exercise your right to decide when the contract is terminated), you are acting within the bounds of the agreement. This prevents a "mud-slinging" scenario where a Licensee might counterclaim that you also acted improperly (e.g., by breaching the Licensor's own obligations). It cleanly establishes that the Licensee is the sole party that has failed to meet their contractual obligations, strengthening your legal and moral high ground.
+    The VOD Reaction License is designed so that the licensor can specify whether and when to terminate the license, and the grant-back survives even if the license is terminated retroactively. This prevents a situation where content the licensor published based on the grant-back unintentionally becomes copyright infringement. This is an extremely important safeguard that allows the licensor to engage with community creations and use them in their own content creation with peace of mind.
 
-Together, these benefits give you significant leverage and clarity, allowing you to manage your community and enforce your terms with confidence.
+With these two benefits, you gain significant leverage and clarity, allowing you to manage your community and enforce your terms with confidence.
 </details>
 
 </details>
@@ -579,7 +580,7 @@ Consequences of Non-Compliance with Grant-Back Terms</summary>
 A more complex situation can arise if a Licensee's non-compliance with the VOD Reaction License Version 0.4 is discovered *after* you (the Licensor) have already exercised your grant-back rights to reuse the Licensee's Derivative Work (e.g., by creating a "reaction to the reaction" video).
 
 <details>
-<summary>Licensor's Right to Terminate</summary>
+<summary>Licensor's Right to Terminate the License</summary>
 &nbsp;
 
 If you discover that the Licensee has failed to comply with the conditions of the VOD Reaction License, Clause 8 of the license grants you the discretion to terminate the Licensee's rights.

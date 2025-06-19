@@ -102,7 +102,7 @@ Remember, the License (Clause 4.e.iv) requires that the entire Provided Copy you
 
 Step 2.5: Reporting Your Derivative Work to Us (License Clause 3.c)
 
-After publishing Your Derivative Work, You must promptly notify us (the Licensor) of its publication in a reasonable manner.
+Before publishing Your Derivative Work, You must notify us (the Licensor) of its publication in a reasonable manner.
 
 As required by Clause 3.c of the License, your notification must also clarify your legal status as the creator:
 
@@ -123,7 +123,7 @@ Remember that the "Excusable Non-Performance" clause (Clause 9 of the License) m
 
 3\. The Grant-Back to \[**Licensor's Primary Channel Name\]**: A Brief Explanation (License Clause 4\)
 
-When You create and publish a Derivative Work under this License using our VODs, You are also granting us (**\[Licensor's Primary Channel Name\]**, the Licensor) specific rights to reuse Your Derivative Work. When we reuse Your Derivative Work, we (the Licensor) will also adhere to the terms of this License.
+When you use our VODs and provide notification to us (the Licensor) as required by Clause 3.c, you are formally accepting all terms of this License. A direct result of this acceptance is that you also grant us (**\[Licensor's Primary Channel Name\]**, the Licensor) specific rights to reuse Your Derivative Work. When we reuse Your Derivative Work, we (the Licensor) will also adhere to the terms of this License.
 
 * We will only use Your Derivative Work on the Permitted Platforms (as defined in our License).  
 * We will provide attribution to Your channel. (Please inform us of Your preferred channel name for this attribution if it's different from the one primarily associated with Your Derivative Work, for example, when You notify us about Your publication as per Step 2.5).
