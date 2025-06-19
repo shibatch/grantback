@@ -290,7 +290,7 @@ So, a member of your community has created a Derivative Work using your VOD unde
 * Which Version to Reuse: For your reuse, especially if you requested it due to copyright concerns with the Published Version, you would typically use the "Provided Copy." This is because, as detailed in Clause 4.e.iv of the License, the Licensee’s warranty regarding copyright cleanness for your reuse specifically applies to this Provided Copy.
 </details>
 
-**[IMPORTANT] Prohibition on Reuse Before Receiving Notification**: The grant-back license from the Licensee (Clause 4) is only granted to you at the moment the Licensee accepts all terms of this License by providing you with notification (Clause 3.c). Therefore, you must never reuse their Derivative Work before receiving formal notification from the Licensee, as doing so could be considered an unlicensed use.
+**[IMPORTANT] Prohibition on Reuse Before Receiving Notification**: The grant-back license from the Licensee (Clause 4) is only granted to you at the moment the Licensee accepts all terms of this License by providing you with notification (Clause 3.c). Therefore, you must **never reuse their Derivative Work before receiving formal notification** from the Licensee, as doing so could be considered an unlicensed use. Furthermore, if a Licensee has violated the terms and you have declared their license terminated, you must not exercise grant-back rights for any subsequent Derivative Work from that Licensee until you have formally re-licensed them via a separate agreement. Any notification they send after termination does not automatically grant a new license or new grant-back rights under these terms.
 
 <details>
 <summary>Step 4.4: If You Reuse Their Derivative Work – Your Obligations to Them</summary>
@@ -424,7 +424,7 @@ Public licenses, once accepted through compliant use, grant rights that are typi
 
 ### 6\. Addressing Specific Scenarios and Potential Issues
 
-This section covers how to handle certain situations that may arise in practice.
+Unlike many FOSS licenses, this license does not terminate automatically upon a licensee's violation; it only terminates when you, the Licensor, declare it. This gives you the flexibility to resolve issues through thorough discussion with the licensee, while also retaining the power to take firm measures through retroactive termination.
 
 <details>
 <summary>Regarding the Concept of "Automatic Termination"</summary>
