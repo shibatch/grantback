@@ -141,7 +141,7 @@ IMPORTANT: As advised in the guide's "Important Considerations" section (Section
    >   * VOD Reaction License Version 0.Y:
    >      * License Text: \[Link to Your Hosted V0.Y License Text\]
    >      * Usage guide for Licensees: \[Link to Your Hosted V0.Y Licensee Guide\]  
-* Per-VOD Indication (Highly Recommended): To provide maximum clarity for your viewers and potential Licensees, it is highly recommended that for each VOD you publish:  
+* Per-VOD Indication (Highly Recommended): Clearly indicating the licensing status for each VOD you publish is crucial. This not only provides maximum clarity for your community but is also essential for protecting your own rights, as it makes it very difficult for a reuser to later claim they were unaware of the license terms. Therefore, for each VOD you publish, it is highly recommended that you:  
   * Include your standard copyright notice (e.g., "© \[Your Year\] \[Your Channel Name\]").  
   * Clearly indicate its licensing status directly in the video's description, as an on-screen graphic (e.g., at the end of the video), or in a pinned comment. Examples:  
     * For VODs offered under this license: "This VOD is available for reuse under the VOD Reaction License Version 0.4. Full license terms: \[Link to Your Hosted License Text\]. Usage Guide: \[Link to Your Hosted Licensee Guide\]"  
