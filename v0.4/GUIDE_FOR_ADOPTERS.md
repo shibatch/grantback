@@ -424,13 +424,13 @@ Public licenses, once accepted through compliant use, grant rights that are typi
 
 ### 6\. Addressing Specific Scenarios and Potential Issues
 
-Unlike many FOSS licenses, this license does not terminate automatically upon a licensee's violation; it only terminates when you, the Licensor, declare it. This gives you the flexibility to resolve issues through thorough discussion with the licensee, while also retaining the power to take firm measures through retroactive termination.
+Unlike many FOSS licenses where termination is typically self-executing, this license is not terminated by a violation itself; rather, termination only occurs when you, the Licensor, declare it. This gives you the flexibility to resolve issues through thorough discussion with the licensee, while also retaining the power to take firm measures through retroactive termination.
 
 <details>
-<summary>Regarding the Concept of "Automatic Termination"</summary>
+<summary>Regarding the Concept of "Discretionary Termination"</summary>
 &nbsp;  
 
-The "automatic termination" provision under this license does not necessarily mean that the license is mechanically revoked the instant a violation occurs, forcing the Licensor to act immediately without any discretion. More accurately, it means that at the point a violation of the license terms by the Licensee occurs, the right to assert that "the license has terminated" arises for the Licensor. The Licensor can, at their discretion, decide when to exercise that right. This includes the authority to decide "from when" the termination takes effect. This is the concept of making the termination "retroactive."
+The "discretionary termination" provision under this license does not necessarily mean that the license is mechanically revoked the instant a violation occurs, forcing the Licensor to act immediately without any discretion. More accurately, it means that at the point a violation of the license terms by the Licensee occurs, the right to assert that "the license has terminated" arises for the Licensor. The Licensor can, at their discretion, decide when to exercise that right. This includes the authority to decide "from when" the termination takes effect. This is the concept of making the termination "retroactive."
 
 Let's look at the example below:
 
@@ -446,7 +446,7 @@ At this point on July 15th, the Licensor can make a choice like the following:
 
 If the Licensor declares the latter ("retroactively"), the Derivative Work is legally considered to have been published without permission continuously from June 1st (i.e., in a state of copyright infringement). The entire period, including the grace period from July 1st to 15th when the Licensor was requesting correction, would be deemed the period of infringement. Having this option allows the Licensor to protect their rights more robustly.
 
-This automatic termination clause exists to legally clarify the Licensor's position as a baseline for any discussions that may become necessary between the Licensor and Licensee. If, as a result of discussions, the Licensor determines that the breach has been rectified, they may choose not to exercise their right to terminate, or they may grant a new, separate permission, distinct from the original terminated license.
+This discretionary termination clause exists to legally clarify the Licensor's position as a baseline for any discussions that may become necessary between the Licensor and Licensee. If, as a result of discussions, the Licensor determines that the breach has been rectified, they may choose not to exercise their right to terminate, or they may grant a new, separate permission, distinct from the original terminated license.
 
 It is important to note that this license agreement is concluded on a per-licensee (user) basis, not on a per-video basis. Therefore, if a licensee commits a license violation in one derivative work and the licensor declares the license terminated, that licensee loses the right to reuse all other licensed content provided by that licensor under this license, unless they obtain new permission from the licensor in the future. This point is also explicitly stated in Clause 8 of the License.
 
@@ -466,16 +466,14 @@ The unique feature of the VOD Reaction License—that the Licensor can, at their
 
 With these two benefits, you gain significant leverage and clarity, allowing you to manage your community and enforce your terms with confidence.
 
-This mechanism, which gives the Licensor the authority to decide "from when" the termination takes effect, is a unique feature of the VOD Reaction License. Unlike many public licenses (such as those for open-source software) which often favor uniform, self-executing rules, this clause is intentionally designed to give the Licensor maximum practical flexibility. It blends the strong legal standing of an automatic termination principle with the discretionary power needed for effective and empathetic community management.
+This mechanism, which gives the Licensor the authority to decide "from when" the termination takes effect, is a unique feature of the VOD Reaction License. Unlike many public licenses (such as those for open-source software) which often favor uniform, self-executing rules, this clause is intentionally designed to give the Licensor maximum practical flexibility. It blends the strong legal standing of a principle where a breach makes the license terminable with the discretionary power needed for effective and empathetic community management.
 </details>
 
 </details>
 
 #### 6.1 Handling Potential Non-Compliance or Rights Issues by a Licensee
 
-The VOD Reaction License Version 0.4 aims for clarity, but misunderstandings or mistakes can occur. Clause 8 of the License states that if a Licensee fails to comply with any condition, their rights under the License terminate automatically. This means their permission to use your VODs in their Derivative Work technically ceases.  
-
-However, this automatic termination doesn't always mean that the only option is immediate deletion of the Licensee's Derivative Work. Open communication can often lead to a resolution.  
+The VOD Reaction License Version 0.4 aims for clarity, but misunderstandings or mistakes can occur. Clause 8 of the License states that if a Licensee fails to comply with any condition, their rights under the License become subject to termination at your discretion. This means their permission to use your VODs in their Derivative Work is no longer secure and can be revoked by you. However, this does not mean that you must immediately declare the license terminated. Open communication can often lead to a resolution.
 
 <details>
 <summary>Identify the Issue.</summary>
@@ -497,7 +495,7 @@ Reach out to the Licensee. Explain your concern clearly and politely. Often, non
 </details>
 
 <details>
-<summary>Possible Resolutions (Beyond Automatic Termination and Takedown)</summary>
+<summary>Possible Resolutions (Beyond Termination and Takedown)</summary>
 
 * Correction by Licensee: The Licensee might be able to correct the issue (e.g., fix attribution, move the content to a Permitted Platform, or re-prepare and re-submit a "Provided Copy" that meets the requirements of Clause 3.d of the License). If they do so promptly to your satisfaction, you might, at your discretion, choose to consider the matter resolved and allow continued publication or accept the corrected Provided Copy. This is often the simplest path.  
 * New, Separate Agreement or Understanding: Even if the original VOD Reaction License technically terminated due to the breach, alternative arrangements might be possible:  
@@ -512,7 +510,8 @@ Reach out to the Licensee. Explain your concern clearly and politely. Often, non
 Here's a suggested course of action:
 1. Send a Reminder: Your initial request may have been missed. If you haven't received a response after what you feel is a reasonable period (for example, two weeks to a month), it's good practice to send a polite reminder and perhaps suggest a new, final deadline.
 2. Acknowledge the Consequence: If the Licensee still fails to provide the copy or refuses to do so without a reason covered by the "Excusable Non-Performance" clause (Clause 9 of the License), they are in breach of a condition of the License (specifically Clause 3.d).
-3. Automatic Termination: As per Clause 8 of the License, this breach results in the automatic termination of their rights to use your VODs. Their continued public display of the Derivative Work could now be considered an unlicensed use of your copyrighted material.
+3. Your Right to Terminate: Under Clause 8 of the License, this breach gives you the right to declare the license terminated. Once you have declared the termination, the Licensee's continued public display of the Derivative Work is no longer licensed and may constitute copyright infringement.
+
 4. Your Options: At this point, you have several options, at your discretion:
     * You can choose to do nothing.
     * You can formally notify the Licensee that their license has terminated due to the breach and that the Derivative Work is therefore unlicensed.
@@ -540,9 +539,9 @@ As a matter of community management and good faith, if the uncleared third-party
 <summary>Your Discretion</summary>
 &nbsp;
 
-As the Licensor, the decision on how to handle non-compliance ultimately rests with you. While the license provides for automatic termination for a breach, fostering a positive and collaborative community often involves dialogue and giving creators a reasonable chance to rectify mistakes where appropriate. However, for serious, repeated, or bad-faith breaches, relying on the termination clause and requesting removal of the content might be necessary to protect your rights and the integrity of your licensing approach.
+As the Licensor, the decision on how to handle non-compliance ultimately rests with you. While a breach gives you the right to terminate the license, fostering a positive and collaborative community often involves dialogue and giving creators a reasonable chance to rectify mistakes where appropriate. However, for serious, repeated, or bad-faith breaches, relying on the termination clause and requesting removal of the content might be necessary to protect your rights and the integrity of your licensing approach.
 
-The goal is to balance the enforcement of your license terms with practical community management. Having a clear license helps set expectations, and open communication can help resolve many issues constructively. The "automatic termination" provision in Clause 8 is specifically designed to support this balance. It gives you, the Licensor, a strong legal foundation by establishing that a breach results in termination, while simultaneously granting you the full discretion to decide if, when, and how to enforce that termination. This structure ensures you are never forced into a harsh, mechanical response, giving you the time and opportunity to first engage in a thorough discussion with the Licensee. You can then always choose a path of dialogue and constructive resolution, such as granting new, separate permissions to the Licensee after discussion.
+The goal is to balance the enforcement of your license terms with practical community management. Having a clear license helps set expectations, and open communication can help resolve many issues constructively. The "discretionary termination" provision in Clause 8 is specifically designed to support this balance. It gives you, the Licensor, a strong legal foundation by establishing that a breach results in termination, while simultaneously granting you the full discretion to decide if, when, and how to enforce that termination. This structure ensures you are never forced into a harsh, mechanical response, giving you the time and opportunity to first engage in a thorough discussion with the Licensee. You can then always choose a path of dialogue and constructive resolution, such as granting new, separate permissions to the Licensee after discussion.
 </details>
 
 
