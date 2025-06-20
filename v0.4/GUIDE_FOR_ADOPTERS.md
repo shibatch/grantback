@@ -446,7 +446,14 @@ At this point on July 15th, the Licensor can make a choice like the following:
 
 If the Licensor declares the latter ("retroactively"), the Derivative Work is legally considered to have been published without permission continuously from June 1st (i.e., in a state of copyright infringement). The entire period, including the grace period from July 1st to 15th when the Licensor was requesting correction, would be deemed the period of infringement. Having this option allows the Licensor to protect their rights more robustly.
 
-This discretionary termination clause exists to legally clarify the Licensor's position as a baseline for any discussions that may become necessary between the Licensor and Licensee. If, as a result of discussions, the Licensor determines that the breach has been rectified, they may choose not to exercise their right to terminate, or they may grant a new, separate permission, distinct from the original terminated license.
+The discretionary nature of this license's termination clause might seem unfair at first glance. However, this model was intentionally chosen to be more flexible and constructive than the "automatic termination" found in many FOSS licenses.
+
+* Automatic Termination is like a machine: any violation, no matter how small or unintentional, immediately and often irrevocably terminates the license. There is no room for dialogue or a second chance.
+* By contrast, Discretionary Termination allows for a human response. As the Licensor, a breach gives you the right to terminate, but it does not force you to. This structure empowers you to:
+   * Open a Dialogue: Instead of immediate termination, you can contact a licensee about an honest mistake (like improper attribution) and give them an opportunity to correct it.
+   * Choose Forgiveness: If the issue is resolved, you can simply choose not to exercise your right to terminate, allowing a good-faith community member to continue their work.
+
+This discretionary termination clause exists to legally clarify the Licensor's position as a baseline for any discussions that may become necessary between the Licensor and Licensee. If, as a result of discussions, the Licensor determines that the breach has been rectified, they may choose not to exercise their right to terminate, or they may grant a new, separate permission, distinct from the original terminated license. The ability to apply termination retroactively is a backstop, held in reserve to deal with bad-faith actors who refuse to cooperate. This model gives you, the Licensor, the flexibility to be a supportive community manager, not just a rigid enforcer of rules.
 
 It is important to note that this license agreement is concluded on a per-licensee (user) basis, not on a per-video basis. Therefore, if a licensee commits a license violation in one derivative work and the licensor declares the license terminated, that licensee loses the right to reuse all other licensed content provided by that licensor under this license, unless they obtain new permission from the licensor in the future. This point is also explicitly stated in Clause 8 of the License.
 
