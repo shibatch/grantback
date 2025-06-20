@@ -480,6 +480,7 @@ The VOD Reaction License Version 0.4 aims for clarity, but misunderstandings or 
 &nbsp;  
 
 If you (the Licensor) become aware of a Derivative Work that appears to violate the terms of your VOD Reaction License Version 0.4, the first step is to verify the issue. Examples of non-compliance could include:  
+* Publishing a video using your content without notifying you.
 * Improper attribution to you.  
 * Publication on a non-Permitted Platform.  
 * Failure to provide a "Provided Copy" upon your request in a timely manner.
