@@ -113,6 +113,8 @@ For Streamers Wanting to Adopt This License Model for Their Own VODs (Adopting L
 &nbsp;  
 
 While this license is named the "VOD Reaction License" and its documentation often uses examples from the streaming world, its scope is intentionally much broader. The core term in the license is "Licensed Content," which is defined to comprehensively cover a wide range of digital materials. This includes not only videos and audio (such as podcasts), but also still images (like comics and illustrations), 3D models, and computer programs. For the precise definition, please always refer to the actual license document.
+
+It should be noted that the VOD Reaction License is incompatible with the GNU General Public License (GPL).
 </details>
 
 
