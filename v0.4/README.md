@@ -41,11 +41,7 @@ The creation of this license model was motivated by several observations and goa
 5. Controlled Sharing: The ability to designate specific Permitted Platforms serves two key purposes. First, it allows Licensors to better manage the spread of their content beyond their desired ecosystems. Second, as the rights to stream certain content, such as video games, are often granted by publishers only for specific platforms, this platform restriction is also essential for complying with the original content's licensing terms.
 6. Flexibility for Corporate or Agency Guidelines: The license is adaptable to specific reuse guidelines set by a company or agency a licensor may be affiliated with. The license template provides a dedicated section where the licensor can add their own custom rules—such as prohibiting commercial use or restricting use with certain types of content—to align with corporate policies.
 
-#### Providing Clear Permission as an Alternative to Fair Use
-
-For content reuse, especially the creation of reaction videos, creators have often had to rely on the concept of "fair use." However, fair use is a legally complex doctrine, and the final determination of whether a particular use qualifies as fair must be made by a court of law, not the platform itself. This means that an unauthorized use is presumptively copyright infringement, and the claim of fair use is an affirmative defense that the user bears the burden to prove. Platforms typically do not actively protect the rights of either the original author or the reuser in these disputes.
-
-The purpose of this license is to eliminate the need for Licensees to rely on the uncertainty of fair use when reusing a Licensor's content. This license provides advance, explicit permission from the Licensor to the Licensee to reuse the content under specific conditions. This allows Licensees to focus on their creative activities with peace of mind, without worrying about legal risks.
+For content reuse, creators often have to rely on the concept of "fair use." However, fair use is a legally complex doctrine, and the final determination of whether a particular use qualifies as fair must be made by a court of law. The purpose of this license is to eliminate the need for relying on the uncertainty of fair use.
 
 When a Licensor applies this license to certain VODs, it does not affect the legal status of any other content. For videos where no explicit permissions for reuse have been granted by the creator, the ability to attempt a use under the doctrine of fair use remains unchanged.
 
