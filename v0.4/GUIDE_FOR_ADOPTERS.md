@@ -430,26 +430,27 @@ Unlike many FOSS licenses where termination is typically self-executing, this li
 <summary>Regarding the Concept of "Discretionary Termination"</summary>
 &nbsp;  
 
-The "discretionary termination" provision under this license does not necessarily mean that the license is mechanically revoked the instant a violation occurs, forcing the Licensor to act immediately without any discretion. More accurately, it means that at the point a violation of the license terms by the Licensee occurs, the right to assert that "the license has terminated" arises for the Licensor. The Licensor can, at their discretion, decide when to exercise that right. This includes the authority to decide "from when" the termination takes effect. This is the concept of making the termination "retroactive."
+Unlike many FOSS licenses where termination is typically self-executing, this license is not terminated by a violation itself; rather, termination or other actions are only executed when you, the Licensor, declare it. More accurately, it means that at the point a violation of the license terms by the Licensee occurs, the right to "initiate the procedure to terminate the license" arises for the Licensor. As a result, if the license is terminated in accordance with the procedure defined in Clause 8, the Licensor can set the termination date to any date retroactively to the date of the violation. This gives you the flexibility to resolve issues through thorough discussion with the licensee, while also retaining the power to take firm measures through retroactive termination.
 
 Let's look at the example below:
 
 * June 1st: A Licensee publishes a video on a non-Permitted Platform (a license violation occurs).
 * June 15th: The same Licensee publishes a second, fully compliant Derivative Work.
-* July 1st: The Licensor discovers the violation in the first video and requests that the Licensee correct it.
-* July 15th: The Licensor determines that the Licensee has no intention of correcting the issue.
+* July 1st: The Licensor discovers the violation in the first video and sends a formal notice to the Licensee requesting correction (as per Clause 8.a). This starts a one-month "Cure Period" and provisionally suspends permissions for the video in question and for creating new works (as per Clause 8.b).
+* August 1st: The Cure Period ends, but the Licensee has not corrected the issue.
 
-At this point on July 15th, the Licensor can make a choice like the following:
+At this point on August 1st, the Licensor can take the following actions based on Clause 8.c:
 
-* Non-retroactive termination: Declare, "As I have determined you have no intention to correct the issue, your license is terminated as of today, July 15th." In this case, the violating video from June 1st is considered copyright infringement from July 15th onward. However, the second, compliant video published on June 15th was created while the license was still valid, so it can remain public.
-* Retroactive termination: Declare, "As I have determined you have no intention to correct the issue, your license shall be considered terminated retroactively to the point of the violation on June 1st." In this case, not only the video from June 1st but also the second, compliant video from June 15th are considered copyright infringement. This is because the licensee's rights were retroactively voided as of June 1st; therefore, the second video was also published without a valid license.
-
-If the Licensor declares the latter ("retroactively"), the Derivative Work is legally considered to have been published without permission continuously from June 1st (i.e., in a state of copyright infringement). The entire period, including the grace period from July 1st to 15th when the Licensor was requesting correction, would be deemed the period of infringement. Having this option allows the Licensor to protect their rights more robustly.
+* Automatic and Permanent Revocation of Permission for the Infringing Content (Clause 8.c(i)): Because the issue was not cured, the license permission for the violating video published on June 1st is automatically and permanently revoked. Continuing to publish this video now constitutes copyright infringement.
+* Discretionary Choice to Terminate the Entire License (Clause 8.c(ii)):
+In addition to the above, the Licensor may, at their sole discretion, also decide whether to terminate the entire license agreement. At this time, they can choose when the termination takes effect:  
+   * Non-retroactive termination: Declare, "As of today, August 1st, your license agreement is terminated." In this case, the second, compliant video published on June 15th was created while the license was still valid, so it can remain public.
+   * Retroactive termination: Declare, "Your license shall be considered terminated retroactively to the point of the violation on June 1st." In this case, not only the video from June 1st but also the second, compliant video from June 15th are considered copyright infringement. This is because the licensee's rights were retroactively voided as of June 1st; therefore, the second video was also published without a valid license.
 
 The discretionary nature of this license's termination clause might seem unfair at first glance. However, this model was intentionally chosen to be more flexible and constructive than the "automatic termination" found in many FOSS licenses.
 
 * Automatic Termination is like a machine: any violation, no matter how small or unintentional, immediately and often irrevocably terminates the license. There is no room for dialogue or a second chance.
-* By contrast, Discretionary Termination allows for a human response. As the Licensor, a breach gives you the right to terminate, but it does not force you to. This structure empowers you to:
+* Discretionary Termination allows for a human response: Retroactive termination is equivalent to giving the Licensor the authority to delay the effective date of termination for any period they choose. As the Licensor, a breach gives you the right to terminate, but it does not force you to. This structure empowers you to:
    * Open a Dialogue: Instead of immediate termination, you can contact a licensee about an honest mistake (like improper attribution) and give them an opportunity to correct it.
    * Choose Forgiveness: If the issue is resolved, you can simply choose not to exercise your right to terminate, allowing a good-faith community member to continue their work.
 
@@ -469,7 +470,7 @@ The unique feature of the VOD Reaction License—that the Licensor can, at their
 
 2.  Prevents Unintentional Copyright Infringement by the Licensor: If a license terminates immediately and automatically at the moment a licensee commits a violation, a problem arises when the licensor has already reused the grant-backed derivative work (e.g., by publishing a reaction-to-the-reaction video). Specifically, (1) once the licensee's license terminates, their derivative work becomes an unlicensed work, and (2) the associated grant-back may become legally invalid. If a licensee's violation is discovered after the licensor has already reused the grant-backed derivative work, the licensor could, before they know it, fall into a situation where the video they published on their own channel is infringing the licensee's copyright.
 
-    The VOD Reaction License is designed so that the licensor can specify whether and when to terminate the license, and the grant-back survives even if the license is terminated retroactively. This prevents a situation where content the licensor published based on the grant-back unintentionally becomes copyright infringement. This is an extremely important safeguard that allows the licensor to engage with community creations and use them in their own content creation with peace of mind.
+    The VOD Reaction License is designed so that the licensor can specify whether and when to terminate the license, and the grant-back survives even if the license is terminated retroactively (this is now explicitly guaranteed by Clause 8.f). This prevents a situation where content the licensor published based on the grant-back unintentionally becomes copyright infringement. This is an extremely important safeguard that allows the licensor to engage with community creations and use them in their own content creation with peace of mind.
 
 With these two benefits, you gain significant leverage and clarity, allowing you to manage your community and enforce your terms with confidence.
 
@@ -512,19 +513,24 @@ Reach out to the Licensee. Explain your concern clearly and politely. Often, non
 </details>
 
 <details>
-<summary>Scenario: Licensee Does Not Provide the "Provided Copy" Upon Request If you have requested a "Provided Copy" from a Licensee (as per Clause 3.d of the License) and they do not provide it within a reasonable timeframe</summary>
+<summary>Scenario: Licensee Does Not Provide the "Provided Copy" Upon Request</summary>
 &nbsp;
 
-Here's a suggested course of action:
-1. Send a Reminder: Your initial request may have been missed. If you haven't received a response after what you feel is a reasonable period (for example, two weeks to a month), it's good practice to send a polite reminder and perhaps suggest a new, final deadline.
-2. Acknowledge the Consequence: If the Licensee still fails to provide the copy or refuses to do so without a reason covered by the "Excusable Non-Performance" clause (Clause 9 of the License), they are in breach of a condition of the License (specifically Clause 3.d).
-3. Your Right to Terminate: Under Clause 8 of the License, this breach gives you the right to declare the license terminated. Once you have declared the termination, the Licensee's continued public display of the Derivative Work is no longer licensed and may constitute copyright infringement.
+If you have requested a Provided Copy from a Licensee (as per Clause 3.d of the License) and they do not provide it, here is a guide to the formal process outlined in Clause 8 of your VOD Reaction License. It is recommended to proceed with these formal steps only after informal reminders have failed.
 
-4. Your Options: At this point, you have several options, at your discretion:
-    * You can choose to do nothing.
-    * You can formally notify the Licensee that their license has terminated due to the breach and that the Derivative Work is therefore unlicensed.
-    * You can request that they remove the Derivative Work from public view.
-    * If they do not comply with a removal request, you may then consider filing a copyright-based takedown notice with the relevant platform, as their right to use your VOD has been terminated.
+1. Send a Formal Notice (Clause 8.a)
+   You should send a formal notice to the Licensee. This notice should clearly state that they are in breach of Clause 3.d for failing to provide the Provided Copy. The notice must also inform them that, effective upon its sending, the permissions granted under the VRL are provisionally suspended for two areas: (i) for the specific Derivative Work in question, and (ii) for the creation and publication of any new Derivative Works.
+
+2. The Cure Period Begins (Clause 8.b)
+   A one-month "Cure Period" begins on the date the Licensee receives your notice. The Licensee has this time to provide you with a compliant Provided Copy. If they do so, the provisional suspensions under Clause 8.a are lifted, and all license permissions are reinstated.
+
+3. If the Licensee Fails to Cure (Clause 8.c(i))
+   If the Licensee does not provide the copy within the Cure Period, you should be aware of the following automatic consequence defined in Clause 8.c(i): the license for the specific Derivative Work in question is automatically and permanently revoked. Its continued public availability now constitutes copyright infringement, for which you may issue a takedown notice to the platform.
+
+4. Regarding the Overall License Agreement (Clauses 8.c(ii) and 8.e)
+   At this stage, while the permission for the specific infringing work has been revoked, the general license agreement with the Licensee technically remains. If you determine that their failure to cooperate is serious enough to warrant severing the entire relationship, you can choose to exercise your most powerful right under Clause 8.c(ii): terminating the entire agreement.
+
+   However, it is crucial to understand the time limit imposed by Clause 8.e ("Time Limit on Exercise of Termination Rights"). This right to terminate the entire agreement must be exercised promptly after the Cure Period ends. You are prohibited from holding this right in reserve to use it at a much later date for the same violation. Therefore, you must make a timely decision. If you choose to proceed with full termination, you would send a final notice to the Licensee, stating that you are permanently terminating the entire license agreement and specifying the retroactive effective date. This is the most significant step you can take and should be reserved for situations where the trust and collaborative relationship have irreparably broken down.
 </details>
 
 <details>

@@ -100,9 +100,30 @@ The Licensed Content is provided "AS-IS" without any warranties of any kind, exp
 
 In no event shall the Licensor be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use or inability to use the Licensed Content, even if advised of the possibility of such damage.
 
-8\. Term and Termination
+8\. Violation, Cure, and Actions
 
-This license is effective as long as the Licensee complies with its terms. If the Licensee fails to comply with any condition, the Licensee's rights under this license shall be subject to termination at the sole discretion of the Licensor. The Licensor retains sole discretion to determine how and when such termination is enforced, and may set its effective date retroactively to the date of the Licensee's initial non-compliance. Once a Licensee's rights have been terminated, they may not rely on this license for any future use, and no new license shall be automatically granted hereunder by any subsequent use of the Licensed Content. Any future permission must be granted via a separate, explicit agreement with the Licensor. Clauses 4, 5, 6, 7, and 10 shall survive any termination of this license. Furthermore, the survival of Clause 4 shall apply even when the termination of the Licensee's rights is declared retroactively by the Licensor in accordance with this Clause.
+a. Notification and Provisional Suspension: If the Licensee fails to comply with any condition of this License, the Licensor may, at their sole discretion, notify the Licensee, identifying the specific Derivative Work(s) and the nature of the violation. Effective upon the sending of such notice, the following permissions granted under this license shall be provisionally suspended:
+
+(i) The permission for the Derivative Work(s) identified in the notice.
+
+(ii) The permission for the Licensee to create and publish any new Derivative Works.
+
+b. Cure Period and Reinstatement: The Licensee shall have a period of one (1) month from the date of receipt of the notice (hereinafter "Cure Period") to cure the specified violation. If the Licensee completely cures the violation within the Cure Period, the permissions provisionally suspended under Clause 8.a shall be reinstated, and the license shall continue in full force and effect.
+
+c. Actions upon Failure to Cure: If the Licensee fails to cure the violation within the Cure Period, the following measures shall apply:
+
+(i) Permanent Revocation for the Infringing Content: The permission for the Derivative Work(s) identified in the notice, which was provisionally suspended under Clause 8.a, shall be automatically and permanently revoked.
+
+(ii) Optional Termination of the Entire License: In addition to the revocation in Clause 8.c(i), the Licensor may, at their sole discretion, also permanently terminate this entire license agreement. The Licensor may set the effective date of this termination to any date on or after the date of the non-compliance that led to the notice.
+
+d. Actions for Repeat Violations: Notwithstanding the cure of any prior violation under Clause 8.b, if the Licensee commits multiple violations of this License, the Licensor shall have the right, upon any second or subsequent violation, to permanently terminate this license. The Licensor may set the effective date of this termination to any date on or after the date of the Licensee's initial, first-ever violation.
+
+e. Time Limit on Exercise of Termination Rights: The Licensor must exercise their rights to permanently terminate the entire license agreement under Clause 8.c(ii) or Clause 8.d promptly after the expiration of the Cure Period. The Licensor is prohibited from holding these rights in reserve to exercise them at a significantly later date for the same underlying violation.
+
+f. Survival: Clauses 4, 5, 6, 7, and 10 shall survive any permanent revocation of permission under Clause 8.c(i) or any permanent termination of this license under Clause 8.c(ii) or Clause 8.d. Furthermore, the survival of Clause 4 shall apply even when a termination of the Licensee's rights is declared retroactively by the Licensor in accordance with this Clause.
+
+g. Re-grant After Final Termination: After the license has been permanently terminated under Clause 8.c(ii) or Clause 8.d, any future permission must be granted via a separate, explicit agreement with the Licensor.
+
 
 9\. Excusable Non-Performance
 
