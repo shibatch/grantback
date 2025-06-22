@@ -485,7 +485,7 @@ The unique feature of the VOD Reaction License—that the Licensor can, at their
 
 2.  Prevents Unintentional Copyright Infringement by the Licensor: If a license terminates immediately and automatically at the moment a licensee commits a violation, a problem arises when the licensor has already reused the grant-backed derivative work (e.g., by publishing a reaction-to-the-reaction video). Specifically, (1) once the licensee's license terminates, their derivative work becomes an unlicensed work, and (2) the associated grant-back may become legally invalid. If a licensee's violation is discovered after the licensor has already reused the grant-backed derivative work, the licensor could, before they know it, fall into a situation where the video they published on their own channel is infringing the licensee's copyright.
 
-    The VOD Reaction License is designed so that the licensor can specify whether and when to terminate the license, and the grant-back survives even if the license is terminated retroactively (this is now explicitly guaranteed by Clause 8.f). This prevents a situation where content the licensor published based on the grant-back unintentionally becomes copyright infringement. This is an extremely important safeguard that allows the licensor to engage with community creations and use them in their own content creation with peace of mind.
+    The VOD Reaction License is designed so that the licensor can specify whether and when to terminate the license, and the grant-back survives even if the license is terminated retroactively (this is now explicitly guaranteed by Clause 8.e). This prevents a situation where content the licensor published based on the grant-back unintentionally becomes copyright infringement. This is an extremely important safeguard that allows the licensor to engage with community creations and use them in their own content creation with peace of mind.
 
 With these two benefits, you gain significant leverage and clarity, allowing you to manage your community and enforce your terms with confidence.
 
@@ -542,10 +542,10 @@ If you have requested a Provided Copy from a Licensee (as per Clause 3.d of the 
 3. If the Licensee Fails to Cure (Clause 8.c(i))
    If the Licensee does not provide the copy within the Cure Period, you should be aware of the following automatic consequence defined in Clause 8.c(i): the license for the specific Derivative Work in question is automatically and permanently revoked. Its continued public availability now constitutes copyright infringement, for which you may issue a takedown notice to the platform.
 
-4. Regarding the Overall License Agreement (Clauses 8.c(ii) and 8.e)
+4. Regarding the Overall License Agreement (Clauses 8.c(ii) and 8.d)
    At this stage, while the permission for the specific infringing work has been revoked, the general license agreement with the Licensee technically remains. If you determine that their failure to cooperate is serious enough to warrant severing the entire relationship, you can choose to exercise your most powerful right under Clause 8.c(ii): terminating the entire agreement.
 
-   However, it is crucial to understand the time limit imposed by Clause 8.e ("Time Limit on Exercise of Termination Rights"). This right to terminate the entire agreement must be exercised promptly after the Cure Period ends. You are prohibited from holding this right in reserve to use it at a much later date for the same violation. Therefore, you must make a timely decision. If you choose to proceed with full termination, you would send a final notice to the Licensee, stating that you are permanently terminating the entire license agreement and specifying the retroactive effective date. This is the most significant step you can take and should be reserved for situations where the trust and collaborative relationship have irreparably broken down.
+   However, it is crucial to understand the time limit imposed by Clause 8.d ("Time Limit on Exercise of Termination Rights"). This right to terminate the entire agreement must be exercised promptly after the Cure Period ends. You are prohibited from holding this right in reserve to use it at a much later date for the same violation. Therefore, you must make a timely decision. If you choose to proceed with full termination, you would send a final notice to the Licensee, stating that you are permanently terminating the entire license agreement and specifying the retroactive effective date. This is the most significant step you can take and should be reserved for situations where the trust and collaborative relationship have irreparably broken down.
 </details>
 
 <details>
@@ -629,9 +629,9 @@ A more complex situation can arise if a Licensee's non-compliance with the VOD R
 <summary>The Termination Process and Survival of Your Rights</summary>
 &nbsp;
 
-If you discover a Licensee's non-compliance after you have already reused their work, Clause 8 provides a clear process for terminating their rights while ensuring your own content remains protected. The process allows you to terminate the license in phases, starting with a notification and a Cure Period (as per Clauses 8.a-d).
+If you discover a Licensee's non-compliance after you have already reused their work, Clause 8 provides a clear process for terminating their rights while ensuring your own content remains protected. The process allows you to terminate the license in phases, starting with a notification and a Cure Period (as per Clauses 8.a-c).
 
-Most importantly, Clause 8.f stipulates that even if you terminate the Licensee's rights (including retroactively), the grant-back license you received from them survives. This means your own "reaction to a reaction" videos are safe, and you do not need to worry about them becoming copyright infringement as a result of the Licensee's violation.
+Most importantly, Clause 8.e stipulates that even if you terminate the Licensee's rights (including retroactively), the grant-back license you received from them survives. This means your own "reaction to a reaction" videos are safe, and you do not need to worry about them becoming copyright infringement as a result of the Licensee's violation.
 </details>
 
 <details>
