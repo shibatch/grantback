@@ -430,7 +430,7 @@ Unlike many FOSS licenses where termination is typically self-executing, this li
 <summary>Regarding the Concept of "Discretionary Termination"</summary>
 &nbsp;  
 
-Unlike many FOSS licenses where termination is typically self-executing, this license is not terminated by a violation itself; rather, termination or other actions are only executed when you, the Licensor, declare it. More accurately, it means that at the point a violation of the license terms by the Licensee occurs, the right to "initiate the procedure to terminate the license" arises for the Licensor. As a result, if the license is terminated in accordance with the procedure defined in Clause 8, the Licensor can set the termination date to any date retroactively to the date of the violation. This gives you the flexibility to resolve issues through thorough discussion with the licensee, while also retaining the power to take firm measures through retroactive termination.
+Unlike many FOSS licenses where termination is typically self-executing, this license is not terminated by a violation itself; rather, termination or other actions are only executed when you, the Licensor, declare it. More accurately, it means that at the point a violation of the license terms by the Licensee occurs, the right to "initiate the procedure to terminate the license" arises for the Licensor. Since the timing for initiating this procedure is left to the licensor, the licensor may have discussions with the licensee prior to initiating this procedure. In most cases, it is expected that the issue will be resolved through discussion alone, without initiating the procedure. If the discussion is unsuccessful and the license is terminated in accordance with the procedure defined in Clause 8, the Licensor can set the termination date to any date retroactively to the date of the violation.
 
 Let's look at the example below:
 
@@ -462,10 +462,10 @@ It is important to note that this license agreement is concluded on a per-licens
 <summary>A Note on Repeat Violations</summary>
 &nbsp;  
 
-Consider a scenario in which a licensee violates a license, the license is terminated, and then a new license is granted again (re-licensing). If the licensee then commits another violation, the licensor may choose to retroactively revoke the license back to the date of the first violation. At first glance, this may seem like an overly harsh power of the licensor. However, the intent of this clause can be understood by viewing the act of "re-licensing" not as the start of a brand-new contract, but as an act of temporarily retracting the decision to terminate, conditioned on future good-faith compliance.
+Consider a scenario where a licensee violates the license and fails to remedy the issue within the Cure Period, leading to the termination of the license. If that same licensee is later granted a new license (re-licensing) and then commits another violation, the licensor may choose to retroactively revoke the new license back to the date of the first violation under the prior agreement that the licensee failed to remedy. At first glance, this may seem like an overly harsh power of the licensor. However, the intent of this clause can be understood by viewing the act of "re-licensing" not as the start of a brand-new contract, but as an act of temporarily retracting the decision to terminate, conditioned on future good-faith compliance.
 
 Under this interpretation, the situation is as follows:
-* The right to terminate retroactively, which arose from the first violation, is not extinguished by the re-licensing; instead, it is held in reserve by the Licensor.
+* The right to terminate retroactively, which arose from the first violation that was not remedied, is not extinguished by the re-licensing; instead, it is held in reserve by the Licensor.
 * The "re-licensing" is equivalent to a conditional pardon, which defers the exercise of this reserved right.
 * When the Licensee commits another violation, it means they have broken the condition of this pardon.
 * As a result, the Licensor becomes free to exercise the original right they had held in reserve.
