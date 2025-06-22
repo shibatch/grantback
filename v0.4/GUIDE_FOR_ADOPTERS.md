@@ -626,17 +626,12 @@ Consequences of Non-Compliance with Grant-Back Terms</summary>
 A more complex situation can arise if a Licensee's non-compliance with the VOD Reaction License Version 0.4 is discovered *after* you (the Licensor) have already exercised your grant-back rights to reuse the Licensee's Derivative Work (e.g., by creating a "reaction to the reaction" video).
 
 <details>
-<summary>Licensor's Right to Terminate the License</summary>
+<summary>The Termination Process and Survival of Your Rights</summary>
 &nbsp;
 
-If you discover that the Licensee has failed to comply with the conditions of the VOD Reaction License, Clause 8 of the license grants you the discretion to terminate the Licensee's rights.
-</details>
+If you discover a Licensee's non-compliance after you have already reused their work, Clause 8 provides a clear process for terminating their rights while ensuring your own content remains protected. The process allows you to terminate the license in phases, starting with a notification and a Cure Period (as per Clauses 8.a-d).
 
-<details>
-<summary>Survival of Grant-Back to Licensor</summary>
-&nbsp;
-
-Clause 8 of the License also specifies that Clause 4 ("Grant-Back License for the Licensee's Derivative Works"), among others, shall survive any termination of this license. This means the license granted by the Licensee back to you for the reuse of their Derivative Work generally remains in effect.
+Most importantly, Clause 8.f stipulates that even if you terminate the Licensee's rights (including retroactively), the grant-back license you received from them survives. This means your own "reaction to a reaction" videos are safe, and you do not need to worry about them becoming copyright infringement as a result of the Licensee's violation.
 </details>
 
 <details>
