@@ -22,9 +22,9 @@ g. "Published Version" means a Derivative Work as publicly distributed or made a
 
 h. "Provided Copy" means the specific digital copy of a Derivative Work, or relevant portions thereof, furnished by the Licensee to the Licensor for the purpose of enabling the Licensor's exercise of rights under Clause 4 (Grant-Back License).
 
-i. "Non-Public Sharing" refers to the act of sharing a Derivative Work with a limited number of Collaborators in a private, non-public manner for the purposes of feedback, review, or joint creation, prior to any public publication.
+i. "Non-Public Sharing" refers to the act of sharing a digital work or material with a limited number of Collaborators in a private, non-public manner for the purposes of feedback, review, or joint creation.
 
-j. "Collaborator" refers to an identified individual or a small group of identified individuals making a substantive contribution to the creation or editing of a Derivative Work.
+j. "Collaborator" refers to an identified individual or a small group of identified individuals making a substantive contribution to the creation or editing of a digital work or material.
 
 2\. License Grant for Licensed Content
 
@@ -35,7 +35,7 @@ This grant is subject to all conditions in this license. The permissibility of c
 3\. Conditions of this License
 
 a. Platform Restriction:  
-The Licensee's Derivative Work may only be published, shared, or made available on the Permitted Platforms. This restriction does not prohibit Non-Public Sharing with Collaborators. Publication on any other platform is not permitted under this license.
+The Licensee's Derivative Work may only be publicly published, shared, or made available on the Permitted Platforms. This restriction does not prohibit the Non-Public Sharing of such Derivative Work with Collaborators. Publication on any other platform is not permitted under this license.
 
 b. Attribution to Licensor:  
 The Licensee must provide Attribution to the Licensor in each Derivative Work. The specific name to be used for Attribution shall be the "[Licensor's Designated Channel Name for Attribution]" or as otherwise specified by the Licensor.
@@ -69,7 +69,7 @@ For each Derivative Work published by a Licensee who has accepted the terms of t
 This license granted back to the Licensor is subject to the following conditions. This grant-back applies only to Derivative Works created by the Licensee that incorporate the Licensor's Licensed Content under this license and does not apply to any other works created by the Licensee.
 
 a. Platform Restriction for Licensor:  
-The Licensor's use of such Derivative Work is restricted to the Permitted Platforms. The Licensor may only publish, share, or make such Derivative Work (or derivatives thereof created by the Licensor from such Derivative Work) available on these platforms.
+The Licensor's use of such Derivative Work, and any derivatives thereof created by the Licensor, may only be publicly published, shared, or made available on the Permitted Platforms. This restriction does not prohibit the Non-Public Sharing of such works with the Licensor's own Collaborators.
 
 b. Attribution to Licensee by Licensor:  
 When using such Derivative Work, the Licensor must provide Attribution to the Licensee. The specific name to be used for Attribution shall be the Licensee's primary channel name (e.g., the Licensee's Twitch or YouTube channel name, whichever is primarily associated with such Derivative Work, or as the Licensee may otherwise instruct the Licensor in writing).
