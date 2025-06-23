@@ -259,6 +259,11 @@ For instance, because meaningful modification of a computer program is impossibl
 In the same spirit of collaboration, for other media formats like video or art, this principle encourages the inclusion of any similar data that makes editing easier. Providing the "editable" version of a work, whatever its format, is the ideal way to fulfill the collaborative potential of this license, allowing you to fully interact with and build upon the community's creativity.
 
 
+#### 3.7 A Note on Non-Public Sharing
+
+As a note, this license permits your licensees to share their work-in-progress non-publicly with a limited number of specific, identified production collaborators. Formal notification to you is only required prior to public publication, and the grant-back license from them applies only to the publicly published version of their work.
+
+
 ### 4\. A Licensee Reused Your VOD Under Your License: Initial Steps
 
 So, a member of your community has created a Derivative Work using your VOD under your VOD Reaction License Version 0.4 and (as per Clause 3.c of the License you offer) has notified you. Here’s what you might do:
