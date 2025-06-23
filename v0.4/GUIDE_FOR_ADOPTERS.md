@@ -472,12 +472,13 @@ Under this interpretation, the situation is as follows:
 
 Thus, this clause does not create a new, extraordinary power. Instead, it is a rational framework for restoring trust, which stipulates that if a second chance is squandered by the Licensee, the judgment they originally deserved can then be executed.
 </details>
+</details>
 
 <details>
-<summary>Strategic Benefits of the Termination Clause</summary>
+<summary>Strategic Advantages of the VOD Reaction License Framework</summary>
 &nbsp;  
 
-The unique feature of the VOD Reaction License—that the Licensor can, at their own discretion, determine whether to terminate the license and when it takes effect (including retroactively)—creates the following three major strategic benefits.
+The unique feature of the VOD Reaction License—that the Licensor can, at their own discretion, determine whether to terminate the license and when it takes effect (including retroactively)—creates the following major strategic benefits.
 
 1. Frames the Dispute as Breach of Contract to Avoid Fair Use Arguments: In many other public licenses (like FOSS licenses), the license terminates immediately and automatically the moment a licensee commits a violation. With this approach, because the license agreement has already terminated, any discussion about the handling of the still-public video must be conducted under general copyright law. This creates an opening for the licensee to argue that their original use was permissible under "fair use," shifting the dispute into that ambiguous legal territory.
 
@@ -491,11 +492,13 @@ The unique feature of the VOD Reaction License—that the Licensor can, at their
 
    The VOD Reaction License prevents this by ensuring that the grant-back license you received survives even if the Licensee's rights are later terminated retroactively (as guaranteed by Clause 8.e). This is an extremely important safeguard that allows you to confidently engage with community creations, secure in the knowledge that your own content will not become infringing as a result of the Licensee's actions.
 
-With these three benefits, you gain significant leverage and clarity, allowing you to manage your community and enforce your terms with confidence.
+4. Strengthens Position Against Unlicensed Live Stream Reuse: By publishing a VOD under this license, you can weaken a potential "fair use" claim from someone who reacts to your live stream without permission. The VRL framework explicitly designates VODs (archived recordings) as the sole content eligible for reuse under these terms. By providing a clear, official, and permissive path for reusing the content via the VOD, you define the legitimate "market" for community interaction.
+
+   Should someone bypass this system and react to the live stream directly—an act not permitted by the license—their fair use argument becomes more difficult to sustain. A key factor in fair use analysis is the effect of the use on the potential market for the original work. By ignoring a readily available licensing channel, their unlicensed use can be framed as undermining the system you have established. This strengthened legal position is expected to serve as a powerful deterrent, discouraging unauthorized live stream reuse even without resorting to legal action.
+
+With these benefits, you gain significant leverage and clarity, allowing you to manage your community and enforce your terms with confidence.
 
 This mechanism, which gives the Licensor the authority to decide "from when" the termination takes effect, is a unique feature of the VOD Reaction License. Unlike many public licenses (such as those for open-source software) which often favor uniform, self-executing rules, this clause is intentionally designed to give the Licensor maximum practical flexibility. It blends the strong legal standing of a principle where a breach makes the license terminable with the discretionary power needed for effective and empathetic community management.
-</details>
-
 </details>
 
 #### 6.1 Handling Potential Non-Compliance or Rights Issues by a Licensee
