@@ -28,7 +28,7 @@ j. "Collaborator" refers to an identified individual or a small group of identif
 
 2\. License Grant for Licensed Content
 
-The Licensor grants to the Licensee, for no monetary compensation due to the Licensor, a non-exclusive, worldwide, perpetual (for the duration of any and all applicable intellectual property and proprietary rights, including copyright, in the Licensed Content), irrevocable (as long as the Licensee complies with all conditions of this License), and non-transferable license to copy, adapt, remix, transform, excerpt, and create new works based on the Licensed Content (resulting in Derivative Works), solely for the purpose of creating and publishing such Derivative Works on the Permitted Platforms; provided, however, that this license may be transferred to a successor entity in connection with a sale, merger, or other corporate reorganization of the Licensee's entire business or specific assets to which this license relates.
+The Licensor grants to the Licensee, for no monetary compensation due to the Licensor, a non-exclusive, worldwide, perpetual (for the duration of any and all applicable intellectual property and proprietary rights, including copyright, in the Licensed Content), irrevocable (as long as the Licensee complies with all conditions of this License), and non-transferable license to copy, adapt, remix, transform, excerpt, and create new works based on the Licensed Content (resulting in Derivative Works), provided that any public publication of such Derivative Works by the Licensee is restricted solely to the Permitted Platforms; provided, however, that this license may be transferred to a successor entity in connection with a sale, merger, or other corporate reorganization of the Licensee's entire business or specific assets to which this license relates.
 
 This grant is subject to all conditions in this license. The permissibility of commercial use of the Derivative Work under this license is governed exclusively by the terms, if any, set forth by the Licensor in Clause 3.f. Unless Clause 3.f explicitly states that commercial use is not permitted, commercial use is permitted under the terms of this license.
 
@@ -48,7 +48,7 @@ Upon the Licensor's request, the Licensee must promptly provide the Licensor wit
 
 (i) The Provided Copy must completely include all parts within the Published Version that incorporate the Licensor's Licensed Content.
 
-(ii) Editing of the Provided Copy, transforming it from the Published Version, shall be limited to the minimum extent objectively necessary to clear third-party rights present in the Published Version (e.g., muting of relevant segments, replacement or removal of third-party materials). No other substantive or stylistic editing altering the content or presentation of the parts described in Clause 3.d(i) as they appeared in the Published Version is permitted.
+(ii) Editing of the Provided Copy, transforming it from the Published Version, shall be limited to the minimum extent objectively necessary to clear third-party rights present in the Published Version (e.g., muting of relevant segments, replacement or removal of third-party materials). No other substantive or stylistic editing altering the content or presentation of the parts described in Clause 3.d(i) as they appeared in the Published Version is permitted, except for minor technical or format adjustments that do not materially alter the content or presentation.
 
 (iii) If, as a direct result of the editing permitted under Clause 3.d(ii), important parts (such as the Licensee's own speech) present in the Published Version are unavoidably lost or obscured in the Provided Copy, the Licensee must, concurrently with providing the Provided Copy, notify the Licensor of the nature and content of such lost parts by reasonable and good-faith means (e.g., by providing a textual transcript of the lost speech; or, if the lost speech itself consists of third-party copyrighted material, by providing a clear reference to its original source).
 
@@ -75,8 +75,11 @@ b. Attribution to Licensee by Licensor:
 When using such Derivative Work, the Licensor must provide Attribution to the Licensee. The specific name to be used for Attribution shall be the Licensee's primary channel name (e.g., the Licensee's Twitch or YouTube channel name, whichever is primarily associated with such Derivative Work, or as the Licensee may otherwise instruct the Licensor in writing).
 
 c. Collaborative Use by Licensor:  
-The Licensor may feature such Derivative Work on the Licensor's own channels on the Permitted Platforms, including during collaborative streams or videos with other creators appearing on the Licensor's channel(s) as guests or co-hosts.
-However, if such Derivative Work is to be primarily or independently broadcast or published by a collaborator on a channel not operated by the Licensor as part of a collaboration authorized by the Licensor, the Licensee's prior explicit approval for such specific use by that collaborator is required.
+The Licensor's right to use the Derivative Work in collaborative content is governed by the following:
+
+(i) Use on the Licensor's Channels: The Licensor may feature the Derivative Work (and any new works created from it) on the Licensor's own channels on the Permitted Platforms, even when other creators appear as guests or co-hosts.
+
+(ii) Use on Other Channels: The Licensor may not permit a third party (such as a collaborator) to primarily or independently publish the Derivative Work (or any new work created from it by the Licensor) on a channel not operated by the Licensor without obtaining the Licensee's prior explicit approval for that specific use. This applies even if the Licensor appears in the third party's content.
 
 d. Sublicensing by Licensor:  
 The Licensor may grant necessary sublicenses to the operators of the Permitted Platforms (as per their respective Terms of Service) to the extent required to host, display, and enable platform features for such Derivative Work when featured on the Licensor's channels or for collaborative broadcasts conducted in accordance with Clause 4.c. Except as expressly permitted in this Clause 4.d (specifically regarding platform operators), any other form of sublicensing of such Derivative Work by the Licensor to third parties for their independent use is not permitted by this license without the Licensee's separate approval.
@@ -86,7 +89,7 @@ When the Licensee grants back the license to the Licensee's Derivative Work to t
 
 (i) The Licensee provides the Licensee's Derivative Work to the Licensor "AS-IS," without any warranties from the Licensee to the Licensor, express or implied. The Licensee specifically disclaims any implied warranties of merchantability, fitness for a particular purpose, or non-infringement regarding the Licensee's Derivative Work.
 
-(ii) In no event shall the Licensee be liable to the Licensor for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the Licensor's use or inability to use such Derivative Work, even if the Licensee were advised of the possibility of such damage.
+(ii) In no event shall the Licensee be liable to the Licensor for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the Licensor's use or inability to use such Derivative Work, even if the Licensee were advised of the possibility of such damage. This limitation shall not apply to the extent that such damages are caused by the Licensee's gross negligence or willful misconduct.
 
 (iii) All rights in the Licensee's Derivative Work not expressly granted back to the Licensor under this Clause 4 are reserved by the Licensee.
 
@@ -102,7 +105,7 @@ The Licensed Content is provided "AS-IS" without any warranties of any kind, exp
 
 7\. Limitation of Liability
 
-In no event shall the Licensor be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use or inability to use the Licensed Content, even if advised of the possibility of such damage.
+In no event shall the Licensor be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use or inability to use the Licensed Content, even if advised of the possibility of such damage. This limitation shall not apply to the extent that such damages are caused by the Licensor's gross negligence or willful misconduct.
 
 8\. Violation, Cure, and Actions
 

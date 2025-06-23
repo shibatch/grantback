@@ -310,6 +310,19 @@ So, a member of your community has created a Derivative Work using your VOD unde
 </details>
 
 <details>
+<summary>An Optional Choice: Adopting a "Reciprocal/ShareAlike" Policy</summary>
+&nbsp;  
+
+The standard VOD Reaction License Version 0.4 does not obligate you to re-license the new works you create using the grant-back feature. This is an intentional design choice to give you, the Licensor, maximum freedom and to encourage you to engage with community content without hesitation.
+
+However, some creators may wish to adopt a more reciprocal or "ShareAlike" philosophy. A primary motivation for this is to provide licensees with a structural "right of reply"—an explicit, license-based opportunity to create a counter-response if they feel their work has been unfairly represented—thereby fostering a truly fair and collaborative ecosystem.
+
+You could add the following text to your channel's "About" page where you link to the License:
+
+> "In the spirit of reciprocity, I also commit to releasing any new videos I create that are based on community-made Derivative Works under the same VOD Reaction License Version 0.4."
+</details>
+
+<details>
 <summary>Step 4.5: Regarding Third-Party Content in Their Derivative Work (Especially the "Provided Copy" - Corresponds to License Clauses 3.d and 4.e.iv)</summary>
 
 * The Licensee is responsible for the copyright status of their entire Derivative Work. However, for the purpose of *your grant-back reuse*, the VOD Reaction License Version 0.4 places specific emphasis on the "Provided Copy" that the Licensee delivers to you upon request.  
