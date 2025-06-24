@@ -28,7 +28,8 @@ To help you smoothly adopt and operationalize the VOD Reaction License model, th
 * **[Section 5: Managing or Discontinuing Your License Offer](#5-managing-or-discontinuing-your-license-offer)** - Explains the appropriate procedures and precautions when changing your license offer terms or discontinuing the offer.
 * **[Section 6: Addressing Specific Scenarios and Potential Issues](#6-addressing-specific-scenarios-and-potential-issues)** - Details responses to various situations that might arise in practice, such as Licensee non-compliance or rights issues.
 * **[Section 7: Using and Modifying This License Template](#7-using-and-modifying-this-license-template)** - Explains the terms of use for the License Template itself.
-* **[Section 8: Disclaimer from the Author of this Template](#8-disclaimer-from-the-author-of-this-template)** - Contains disclaimers regarding this template.
+* **[Section 8: Common Misunderstandings](#8-common-misunderstandings)** - Common misunderstandings are explained.
+* **[Section 9: Disclaimer from the Author of this Template](#9-disclaimer-from-the-author-of-this-template)** - Contains disclaimers regarding this template.
 
 &nbsp;
 
@@ -763,6 +764,54 @@ This approach to the License Template text is designed to ensure that any licens
 
 The accompanying guide documents in this repository (like this "Guide for Streamers Adopting..." and the GUIDE\_FOR\_LICENSEES.md template, if provided by the original template author) are typically offered under a more permissive license like Creative Commons CC BY-SA 4.0, allowing you to adapt them for your own community (with attribution and by sharing your adaptations under similar terms). Check the specific licensing for guide documents in the repository where you obtained this template.
 
-### 8\. Disclaimer from the Author of this Template
+### 8\. Common Misunderstandings
+
+Because this license model has unique features, some misunderstandings may arise. This section addresses some common concerns and provides clarification.
+
+<details>
+<summary>Misunderstanding 1: "The Licensor can unilaterally terminate the license retroactively at any time, on a whim."</summary>
+&nbsp;
+
+The Facts: This is incorrect. The termination process is based on multiple steps and clear conditions designed to protect the Licensee.
+
+* Prerequisite Condition: A Licensor can only consider terminating the agreement if a Licensee has failed to cure a specific, notified violation within a one-month Cure Period.
+* Guaranteed Opportunity to Cure: The Licensee is always guaranteed a one-month period to fix the violation. The Cure Period begins when the Licensee receives the notice, so there is no risk of "missing" the notification.
+* The Simple Cure: Even if a specific fix is technically difficult, the Licensee can always "cure" the violation by deleting the video in question, thereby always being able to avoid the worst-case scenario of having their entire license agreement terminated.
+* Comparison with FOSS Licenses: Whereas many FOSS licenses terminate "automatically" upon any violation, the VRL model is intended to be a more humane and flexible approach that leaves room for dialogue and correction.
+
+In conclusion, a Licensor cannot terminate the license for past works on a "whim." The exercise of this right is limited to being a last resort when a Licensee fails to take the opportunity to cure a violation.
+
+</details>
+
+<details>
+<summary>Misunderstanding 2: "This is a one-sided (asymmetrical) license that only benefits the Licensor."</summary>
+&nbsp;
+
+The Facts: This license is designed for a balanced, "reciprocal exchange" to ensure both the Licensor's creative drive and the community's health are maintained.
+
+* On Additional Restrictions (Clause 3.f): The additional rules a Licensor can set are not unlimited. They are strictly limited to two areas: (i) rules about the permissibility of commercial use, and (ii) conditions regarding the Derivative Work itself (such as brand safety). A Licensor cannot use this clause to demand payment or social media follows.
+* On the Symmetry of the Grant-Back (Clause 4): The Grant-Back is the "consideration" that the Licensee provides in exchange for the right to use the VOD. This grant-back is not a blank check; when exercising it, the Licensor is bound by many of the same obligations as the Licensee:
+   * The Licensor is obligated to provide Attribution (credit) to the Licensee.
+   * The Licensor may also only use the work on the Permitted Platforms.
+
+In conclusion, the Licensor provides the "Content," and in return, the Licensee provides "Credit and the Grant-Back." Rights and obligations are set for both parties, and the structure does not create a one-sided relationship.
+
+</details>
+
+<details>
+<summary>Misunderstanding 3: "The Licensor can use retroactive termination to delete any past videos they don't like."</summary>
+&nbsp;
+
+The Facts: "Retroactive termination" is a limited right that can only be exercised under specific conditions.
+
+* Limited Activation Condition: To reiterate, this right can only be considered if a Licensee fails to cure a violation within the Cure Period.
+* Time Limit on Exercise: Furthermore, Clause 8.d explicitly prohibits the Licensor from holding this right in reserve indefinitely to use it later on a "whim." After the Cure Period expires, the Licensor must decide whether to exercise the right "promptly."
+* Purpose: The purpose of this clause is not to delete videos that the Licensor dislikes. It is a logical consequence for a breach of contract, designed to invalidate the license for other videos that were created after the initial, uncured violation, by a Licensee who has demonstrated an unwillingness to comply. With many other FOSS licenses, the license terminates automatically at the first violation; therefore, the VRL's retroactive termination is not a stricter measure than those licenses.
+
+In conclusion, "retroactive termination" is not targeted at sincere licensees; it is a limited and final measure against a party deemed unwilling to comply with the rules of the license.
+
+</details>
+
+### 9\. Disclaimer from the Author of this Template
 
 This "VOD Reaction License Version 0.4" template and this accompanying guide are provided "AS-IS," without any warranties of any kind. The author of this template ([Naoki Shibata](https://github.com/shibatch)) is not providing legal advice. You are solely responsible for your use and implementation of any license based on this template and for ensuring its suitability for your specific needs and legal context.
