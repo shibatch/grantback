@@ -109,13 +109,23 @@ In no event shall the Licensor be liable for any direct, indirect, incidental, s
 
 8\. Violation, Cure, and Actions
 
-a. Notification and Provisional Suspension: If the Licensee fails to comply with any condition of this License, the Licensor may, at their sole discretion, notify the Licensee, identifying the specific Derivative Work(s) and the nature of the violation. Effective upon the sending of such notice, the following permissions granted under this license shall be provisionally suspended:
+a. Notification and Provisional Suspension: If the Licensee fails to comply with any condition of this License, the Licensor may, at their sole discretion, notify the Licensee by sending a formal Notice of Violation. This Notice of Violation must identify the specific Derivative Work(s) and the nature of the violation. Effective upon the sending of such Notice of Violation, the following permissions granted under this license shall be provisionally suspended:
 
 (i) The permission for the Derivative Work(s) identified in the notice.
 
 (ii) The permission for the Licensee to create and publish any new Derivative Works.
 
-b. Cure Period and Reinstatement: The Licensee shall have a period of one (1) month from the date of receipt of the notice (hereinafter "Cure Period") to cure the specified violation. If the Licensee completely cures the violation within the Cure Period, the permissions provisionally suspended under Clause 8.a shall be reinstated, and the license shall continue in full force and effect.
+b. Cure Period and Reinstatement: The Licensee shall have a period of one (1) month from the date of receipt of the Notice of Violation (hereinafter "Cure Period") to cure the specified violation. The Licensor may, at their sole discretion, extend this Cure Period at any time by providing written notice to the Licensee. The following process shall govern the cure and its confirmation:
+
+(i) Initiation of Confirmation: To receive confirmation of a cure's acceptance, the Licensee may, at any time during the Cure Period, send a Notification of Cure to the Licensor.
+
+(ii) Review and Acceptance by Silence: Upon receipt of a Notification of Cure, the Licensor shall have seven (7) days to review the cure. If the Licensor does not send a Notice of Insufficiency to the Licensee within this seven-day review period, the cure shall be deemed accepted.
+
+(iii) Subsequent Cure Attempts: If the Licensor sends a Notice of Insufficiency, the Licensee shall have an additional seven (7) days from the date of receipt of that notice to attempt a subsequent cure. The Licensee may re-initiate the confirmation process for this new cure attempt by sending another Notification of Cure, as described in 8.b(i).
+
+(iv) Final Determination: Regardless of whether the optional confirmation process in 8.b(i)-(iii) was used, upon the expiration of the overall Cure Period (including any and all extensions thereof), the Licensor shall make a final determination based on a good-faith review of whether the violation has been completely cured.
+
+(v) Effect of Cure: If a cure is deemed complete, either through the process in 8.b(i)-(iii) or by the final determination in 8.b(iv), the permissions provisionally suspended under Clause 8.a shall be reinstated, and the license shall continue in full force and effect. The failure to achieve a complete cure by the expiration of the Cure Period shall be deemed a failure to cure under Clause 8.c.
 
 c. Actions upon Failure to Cure: If the Licensee fails to cure the violation within the Cure Period, the following measures shall apply:
 
