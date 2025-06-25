@@ -558,21 +558,33 @@ Reach out to the Licensee. Explain your concern clearly and politely. Often, non
 <summary>Scenario: Licensee Does Not Provide the "Provided Copy" Upon Request</summary>
 &nbsp;
 
-If you have requested a Provided Copy from a Licensee (as per Clause 3.d of the License) and they do not provide it, here is a guide to the formal process outlined in Clause 8 of your VOD Reaction License. It is recommended to proceed with these formal steps only after informal reminders have failed.
+If you have requested a "Provided Copy" from a Licensee under Clause 3.d and they have not provided it in a timely manner, this constitutes a breach of the license. Here is a guide to the formal resolution process detailed in Clause 8. It is recommended to use this formal process only after informal reminders have failed.
 
-1. Send a Formal Notice (Clause 8.a)
-   You should send a formal notice to the Licensee. This notice should clearly state that they are in breach of Clause 3.d for failing to provide the Provided Copy. The notice must also inform them that, effective upon its sending, the permissions granted under the VRL are provisionally suspended for two areas: (i) for the specific Derivative Work in question, and (ii) for the creation and publication of any new Derivative Works.
+**Step 1: Send a Formal Notice of Violation**
 
-2. The Cure Period Begins (Clause 8.b)
-   A one-month "Cure Period" begins on the date the Licensee receives your notice. The Licensee has this time to provide you with a compliant Provided Copy. If they do so, the provisional suspensions under Clause 8.a are lifted, and all license permissions are reinstated.
+Your first formal action is to send the Licensee a Notice of Violation as described in Clause 8.a. This notice must identify the breach (in this case, the failure to provide the copy). The sending of this notice officially starts a one-month "Cure Period" and provisionally suspends the Licensee's rights. The notice must also inform them that, effective upon its sending, the permissions granted under the VRL are provisionally suspended for two areas: (i) for the specific Derivative Work in question, and (ii) for the creation and publication of any new Derivative Works. You have the discretion to extend this Cure Period at any time by notifying the Licensee. 
 
-3. If the Licensee Fails to Cure (Clause 8.c(i))
-   If the Licensee does not provide the copy within the Cure Period, you should be aware of the following automatic consequence defined in Clause 8.c(i): the license for the specific Derivative Work in question is automatically and permanently revoked. Its continued public availability now constitutes copyright infringement, for which you may issue a takedown notice to the platform.
+**Step 2: The Cure and Confirmation Process**
 
-4. Regarding the Overall License Agreement (Clauses 8.c(ii) and 8.d)
-   At this stage, while the permission for the specific infringing work has been revoked, the general license agreement with the Licensee technically remains. If you determine that their failure to cooperate is serious enough to warrant severing the entire relationship, you can choose to exercise your most powerful right under Clause 8.c(ii): terminating the entire agreement.
+The Licensee's primary responsibility during the Cure Period is to provide you with the requested copy. Clause 8.b outlines a detailed, interactive process for this:
 
-   However, it is crucial to understand the time limit imposed by Clause 8.d ("Time Limit on Exercise of Termination Rights"). This right to terminate the entire agreement must be exercised promptly after the Cure Period ends. You are prohibited from holding this right in reserve to use it at a much later date for the same violation. Therefore, you must make a timely decision. If you choose to proceed with full termination, you would send a final notice to the Licensee, stating that you are permanently terminating the entire license agreement and specifying the retroactive effective date. This is the most significant step you can take and should be reserved for situations where the trust and collaborative relationship have irreparably broken down.
+* Optional Confirmation by Licensee: If the Licensee provides the copy and wants to be certain their cure is accepted, they can send you a Notification of Cure.
+* Your Review Period: Once you receive a Notification of Cure, a 7-day clock starts for you to review it.
+* Acceptance by Silence: If you do not respond within those 7 days, the cure is automatically deemed accepted, and the issue is resolved.
+* Notice of Insufficiency: If you find the provided copy insufficient (e.g., incomplete, wrong format), you must send a Notice of Insufficiency back to the Licensee. This automatically gives the Licensee an additional 7 days to try again. This cycle can repeat.
+
+**Step 3: Final Determination at the End of the Cure Period**
+
+The license also includes a fail-safe. Regardless of whether the optional confirmation process was used, you will make a final, good-faith determination of whether the cure has been completed at the end of the overall Cure Period. This protects a Licensee who provides the correct copy but forgets to send the formal Notification of Cure.
+
+**Step 4: Consequences of Failure to Cure**
+
+If, after the entire Cure Period and any extensions have expired, the Licensee has still failed to provide a sufficient copy, the consequences in Clause 8.c apply:
+
+* The license for the specific Derivative Work in question is permanently revoked. Its continued public availability now constitutes copyright infringement, for which you may issue a takedown notice to the platform.
+* If you determine that their failure to cooperate is serious enough to warrant severing the entire relationship, you can choose to exercise your most powerful right under Clause 8.c(ii): terminating the entire agreement.
+
+However, it is crucial to understand the time limit imposed by Clause 8.d ("Time Limit on Exercise of Termination Rights"). This right to terminate the entire agreement must be exercised promptly after the Cure Period ends. You are prohibited from holding this right in reserve to use it at a much later date for the same violation. Therefore, you must make a timely decision. If you choose to proceed with full termination, you would send a final notice to the Licensee, stating that you are permanently terminating the entire license agreement and specifying the retroactive effective date. This is the most significant step you can take and should be reserved for situations where the trust and collaborative relationship have irreparably broken down.
 </details>
 
 <details>
