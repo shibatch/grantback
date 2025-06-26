@@ -18,21 +18,21 @@ This repository is organized by version. Each version directory contains the spe
 
 Please choose the version that best suits your needs. For most current uses, the latest stable version is recommended.
 
-* **Version 0.3 (Stable Release)**
+* **Version 0.4 (Stable Release)**
     * Description: The latest stable release of the VOD Reaction License.
+    * **[Access Version 0.4 Files and Documentation](./v0.4/README.md)**
+
+* **Version 0.3 (Previous Release)**
+    * Description: Previous stable release of the VOD Reaction License. This repository stores all previous release versions.
     * **[Access Version 0.3 Files and Documentation](./v0.3/README.md)**
 
-* **Version 0.2 (Previous Release)**
-    * Description: Previous stable release of the VOD Reaction License. This repository stores all previous release versions.
-    * **[Access Version 0.2 Files and Documentation](./v0.2/README.md)**
-
-* **Version 0.4 (Work in Progress)**
+* **Version 0.5 (Work in Progress)**
     * Description: This version is currently under development. Terms and documents may be unstable, incomplete, or subject to significant change. Use with caution or for testing and feedback purposes only.
-    * **[Access Version 0.4 (WIP) Files and Documentation](./v0.4/README.md)**
+    * **[Access Version 0.5 (WIP) Files and Documentation](./v0.5/README.md)**
 
 ## How This Repository is Organized
 
-* Each major version of the license and its associated documents is contained within its own directory (e.g., `/v0.2/`, `/v0.3/`).
+* Each major version of the license and its associated documents is contained within its own directory (e.g., `/v0.3/`, `/v0.4/`).
 * Inside each version directory, you will typically find:
     * `VOD_REACTION_LICENSE.md`: The customizable license template text for that version.
     * `GUIDE_FOR_ADOPTERS.md`: A guide for streamers who wish to adopt that version of the license template for their own VODs.
@@ -40,6 +40,13 @@ Please choose the version that best suits your needs. For most current uses, the
     * `README.md`: A README specific to that version, detailing its features, changes (if any from previous versions), and status.
 
 ## History
+
+* Version 0.4 (Released 2025-06-26)
+  * Expanded the scope of licensable works by changing the core definition from "VODs" to "Licensed Content."
+  * Private, collaborative work on derivative content is now allowed.
+  * Clarified the process for license acceptance and reporting.
+  * Licensor can now request additional data beyond a simple digital copy, such as source files, if necessary for modification.
+  * Changed handling of license violations by introducing a new process for "Violation, Cure, and Actions".
 
 * Version 0.3 (Released 2025-06-15)
   * Introduced more detailed and practical terms for the grant-back process, including new definitions (e.g., "Published Version," "Provided Copy") and a section for licensors to add custom restrictions, such as on commercial use.
