@@ -800,7 +800,7 @@ The Facts: This license is designed for a balanced, "reciprocal exchange" to ens
 * On the Symmetry of the Grant-Back (Clause 4): The Grant-Back is the "consideration" that the Licensee provides in exchange for the right to use the VOD. This grant-back is not a blank check; when exercising it, the Licensor is bound by many of the same obligations as the Licensee:
    * The Licensor is obligated to provide Attribution (credit) to the Licensee.
    * The Licensor may also only use the work on the Permitted Platforms.
-* On the Asymmetry of Choice: The Licensee has the freedom to choose which Licensor's content to use. In contrast, the Licensor, by offering a public license, cannot pre-select who their Licensees will be.
+* On the Asymmetry of Choice: The Licensee has the freedom to choose which Licensor's content to use. In contrast, the Licensor, by offering a public license, cannot pre-select who their Licensees will be. In addition, the number of licensees could be large for a single licensor, in which case the licensor's position becomes weaker than that of the licensees as a whole.
 
 In conclusion, the Licensor provides the "Content," and in return, the Licensee provides "Credit and the Grant-Back." Rights and obligations are set for both parties, and the structure does not create a one-sided relationship.
 </details>
