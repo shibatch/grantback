@@ -791,7 +791,22 @@ In conclusion, a Licensor cannot terminate the license for past works on a "whim
 </details>
 
 <details>
-<summary>Misunderstanding 2: "This is a one-sided (asymmetrical) license that only benefits the Licensor."</summary>
+<summary>Misunderstanding 2: "The license leaves the Licensee vulnerable to the Licensor's whims and sudden copyright strikes."</summary>
+&nbsp;
+
+The Facts: This is incorrect. In fact, one of the significant benefits for a Licensee is the procedural protection the VRL provides against arbitrary actions from the Licensor.
+
+* No Termination Without Cause: The license is "irrevocable" as long as the Licensee complies with the terms. A Licensor cannot simply terminate the license because they change their mind or dislike the Licensee. Without a valid license, a reuser is always at risk of a takedown notice based on the original creator's subjective judgment. The VRL replaces this uncertainty with contractual stability.
+
+* A Mandatory Cure Period: If a Licensee makes a mistake and violates a term, the Licensor cannot immediately issue a copyright strike. They are contractually obligated to follow the procedure in Clause 8 of the license, which requires them to first send a "Notice of Violation" and then provide a one-month "Cure Period" for the Licensee to fix the issue. A copyright strike would only be a legitimate action after this process fails.
+
+In conclusion, the VRL transforms the relationship from one based on the creator's whim into a predictable, contractual one. It provides the Licensee with procedural safeguards, offering significant protection and peace of mind to create content without fear of sudden, unfair takedowns from the Licensor.
+
+However, it should be noted that if a Licensor is extremely malicious, the possibility of them colluding with a third party to have that third party issue a copyright strike against the Licensee may still exist.
+</details>
+
+<details>
+<summary>Misunderstanding 3: "This is a one-sided (asymmetrical) license that only benefits the Licensor."</summary>
 &nbsp;
 
 The Facts: This license is designed for a balanced, "reciprocal exchange" to ensure both the Licensor's creative drive and the community's health are maintained.
@@ -806,7 +821,7 @@ In conclusion, the Licensor provides the "Content," and in return, the Licensee 
 </details>
 
 <details>
-<summary>Misunderstanding 3: "The Licensor can use retroactive termination to delete any past videos they don't like."</summary>
+<summary>Misunderstanding 4: "The Licensor can use retroactive termination to delete any past videos they don't like."</summary>
 &nbsp;
 
 The Facts: "Retroactive termination" is a limited right that can only be exercised under specific conditions.
@@ -819,7 +834,7 @@ In conclusion, "retroactive termination" is not targeted at sincere licensees; i
 </details>
 
 <details>
-<summary>Misunderstanding 4: "This license creates a double standard regarding 'Fair Use'."</summary>
+<summary>Misunderstanding 5: "This license creates a double standard regarding 'Fair Use'."</summary>
 &nbsp;
 
 The Facts: This is a misunderstanding of how specific licenses (like the VRL) and general legal doctrines (like "Fair Use") interact. The VRL is designed to create a clear and safe option in addition to fair use, not to replace it or create a conflict. This principle applies to everyone.
