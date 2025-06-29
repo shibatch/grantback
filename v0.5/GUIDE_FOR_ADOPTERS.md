@@ -110,7 +110,9 @@ How to Use Clause 3.f:
   * Derivative Works must not contain content that is contrary to public order and morals, or that is intended to harm the image of the Licensor or any third party.
   * Use of the VODs in content primarily focused on expressing or promoting specific ideologies, beliefs, religions, or political positions is not permitted.  
 
-IMPORTANT: As advised in the guide's "Important Considerations" section, be careful not to add rules in this placeholder that would contradict the core terms of the License (e.g., demanding royalties, changing the terms of the grant-back). To ensure fairness and clarity, the conditions described within this placeholder should be objectively predictable.
+IMPORTANT: The only restrictions you may add in the placeholder are those that fall within the two categories permitted in Clause 3.f of the License, and you are not allowed to add rules that conflict with the core terms of the License. If a Licensor adds terms that fall outside of these conditions, that particular term will be deemed invalid under Clause 10.a of the License.
+
+In addition, to ensure fairness and clarity, the conditions described within this placeholder should be objectively predictable.
 </details>
 
 <details>
