@@ -261,7 +261,18 @@ For instance, because meaningful modification of a computer program is impossibl
 As a note, this license permits your licensees to share their work-in-progress non-publicly with a limited number of specific, identified production collaborators. Formal notification to you is only required prior to public publication, and the grant-back license from them applies only to the publicly published version of their work.
 
 
-### 4\. A Licensee Reused Your VOD Under Your License: Initial Steps
+### 4\. License Operation and Best Practices
+
+You might worry that by adopting this license, especially if you have a large community, you will be overwhelmed by notifications every time a derivative work is created. However, you can rest assured. This license is designed so that you do not need to actively manage or respond to every notification.
+
+The licensee's obligation under Clause 3.c is simply to "notify" you, not to seek your "approval." They have fulfilled their duty the moment they send the notification and do not need to wait for your reply. Therefore, even if you do nothing after reading a notification, the license remains valid, and the licensee's creative activities are not hindered. You only need to take action in two main scenarios:
+
+* When you like a derivative work and wish to use it in your own content by exercising your grant-back right (Clause 4).
+* When you discover a derivative work that violates your rules and you wish to demand a correction (Clause 8).
+
+Therefore, you can treat these notifications as a "log of community activity" or "records to be referred to in case of an issue," and it is generally fine to leave them as they are. This allows you to foster community creation without creating a significant management burden for yourself.
+
+&nbsp;
 
 So, a member of your community has created a Derivative Work using your VOD under your VOD Reaction License Version 0.5 and (as per Clause 3.c of the License you offer) has notified you. Here’s what you might do:
 
