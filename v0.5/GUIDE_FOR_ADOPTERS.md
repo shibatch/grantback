@@ -112,7 +112,7 @@ How to Use Clause 3.f:
 
 IMPORTANT: The only restrictions you may add in the placeholder are those that fall within the two categories permitted in Clause 3.f of the License, and you are not allowed to add rules that conflict with the core terms of the License. If a Licensor adds terms that fall outside of these conditions, that particular term will be deemed invalid under Clause 10.a of the License.
 
-In addition, to ensure fairness and clarity, the conditions described within this placeholder should be objectively predictable.
+In addition, to ensure fairness and clarity, the conditions described within this placeholder must be objectively predictable. This means a condition must pass a simple "viewing-only test": its fulfillment must be verifiable solely by inspecting the final, published Derivative Work itself. This verification cannot rely on any external factors, such as the identity or actions of the Licensee, nor does the scope of this verification extend to the "Additional data" (e.g., project files) that may be requested under the separate Clause 3.d.
 </details>
 
 <details>
