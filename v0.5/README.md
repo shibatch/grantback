@@ -142,6 +142,12 @@ While the license is structured to be fair, it cannot completely protect a Licen
 
 Potential Licensees should exercise their own judgment. The mere fact that a VOD is offered under the VOD Reaction License does not eliminate all risks if the Licensor themselves seems suspicious or has a poor reputation within the community. It is always wise to be cautious when reusing content from any source, and this license is a tool to facilitate positive interactions, not a shield against all potential issues.
 
+### Converting Documents
+
+Below are instructions on how to convert this document to docx and PDF formats using Microsoft Word.
+
+With this document formatted and displayed on GitHub or elsewhere, select the entire document and copy it. You can then paste this into Microsoft Word, which will copy the document while retaining the formatting. To convert to PDF, select Print, choose "Microsoft Print to PDF" for printer, and print. Note that you cannot properly convert collapsed items with this method.
+
 ### Important Disclaimers (From Naoki Shibata, Template Author)
 
 * Experimental Model: The "VOD Reaction License" is an experimental, custom license model. Its legal effectiveness and community reception may vary.  

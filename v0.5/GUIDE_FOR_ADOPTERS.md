@@ -231,9 +231,14 @@ A significant aspect of the VRL concerns the specific copy of the Licensee's Der
 * Licensee's Warranty Applies to This "Provided Copy": Crucially, the Licensee's representation and warranty regarding the copyright cleanness of their work for your reuse (detailed in Clause 4.e.iv of the License) is specifically tied to this "Provided Copy" that they prepare and deliver to you. This means you can rely on *this specific copy* as being warranted by the Licensee as clear for your grant-back use. If you choose to reuse the Licensee's Published Version directly without requesting or using the Provided Copy, you would be doing so without the benefit of this specific warranty applying to that particular cleaned and prepared artifact.
 </details>
 
+<details>
+<summary>You have the right to reuse any part of their publicly available work.</summary>
+&nbsp;
+
 In summary, this creates a clear choice for you as the Licensor: The grant-back license you receive (under Clause 4 of the License) applies to the Licensee's entire "Published Version." You therefore have the right to reuse any part of their publicly available work. However, the specific warranty from the Licensee that the work is "clean" for your reuse (as detailed in Clause 4.e.iv of the License) applies only to the "Provided Copy" that they prepare and deliver to you upon request.
 
 Therefore, while the Provided Copy may be shorter than the full Published Version (as it is only legally required to contain segments that incorporate your VODs), it is the version that comes with the Licensee's explicit warranty regarding its copyright status for your reuse. If you choose to reuse parts of the Published Version directly without requesting and relying on the warranted Provided Copy, you do so without the benefit of that specific warranty from the Licensee.
+</details>
 
 <details>
 <summary>A Note on the License's Design Philosophy</summary>
@@ -251,10 +256,14 @@ While the VRL provides a framework for the copyright aspects of reusing your VOD
 
 #### 3.6 The "Provided Copy" and the Spirit of Collaboration
 
+<details>
+<summary>The Provided Copy should be reasonably modifiable.</summary>
+&nbsp;
+
 The principle for the "Provided Copy" laid out in Clause 3.d is intended to enable you to meaningfully engage with derivative works. To achieve this, the license is built on the idea that the Provided Copy should be in a form that is reasonably modifiable.
 
 For instance, because meaningful modification of a computer program is impossible without its source code, the license assumes that the Provided Copy for a derivative program will include its source code. For video and audio works, this principle means that if a higher-resolution or higher-bitrate version was used for editing, it is good practice to provide this master version. This allows the Licensor to create a high-quality new work. However, this does not mean the Licensee must provide the editing project file itself. If providing the project file would expose sensitive know-how such as the Licensee's unique editing techniques or plugin configurations, the Licensee is not obligated to include it as part of the Provided Copy. Providing the "editable" version of a work, whatever its format, is the ideal way to fulfill the collaborative potential of this license, allowing you to fully interact with and build upon the community's creativity.
-
+</details>
 
 #### 3.7 A Note on Non-Public Sharing
 
@@ -263,7 +272,13 @@ As a note, this license permits your licensees to share their work-in-progress n
 
 ### 4\. License Operation and Best Practices
 
-You might worry that by adopting this license, especially if you have a large community, you will be overwhelmed by notifications every time a derivative work is created. However, you can rest assured. This license is designed so that you do not need to actively manage or respond to every notification.
+So, a member of your community has created a Derivative Work using your VOD under your VOD Reaction License Version 0.5 and (as per Clause 3.c of the License you offer) has notified you. Here’s what you might do:
+
+<details>
+<summary>You do not need to respond to every notification.</summary>
+&nbsp;
+
+You might worry that by adopting this license, especially if you have a large community, you will be overwhelmed by notifications every time a derivative work is created. However, you can rest assured. This license is designed so that you do not need to actively manage or respond to every notification. 
 
 The licensee's obligation under Clause 3.c is simply to "notify" you, not to seek your "approval." They have fulfilled their duty the moment they send the notification and do not need to wait for your reply. Therefore, even if you do nothing after reading a notification, the license remains valid, and the licensee's creative activities are not hindered. You only need to take action in two main scenarios:
 
@@ -271,10 +286,7 @@ The licensee's obligation under Clause 3.c is simply to "notify" you, not to see
 * When you discover a derivative work that violates your rules and you wish to demand a correction (Clause 8).
 
 Therefore, you can treat these notifications as a "log of community activity" or "records to be referred to in case of an issue," and it is generally fine to leave them as they are. This allows you to foster community creation without creating a significant management burden for yourself.
-
-&nbsp;
-
-So, a member of your community has created a Derivative Work using your VOD under your VOD Reaction License Version 0.5 and (as per Clause 3.c of the License you offer) has notified you. Here’s what you might do:
+</details>
 
 <details>
 <summary>Step 4.1: Review the Licensee's Derivative Work (Their "Published Version")</summary>
