@@ -146,7 +146,7 @@ Potential Licensees should exercise their own judgment. The mere fact that a VOD
 
 Below are instructions on how to convert this document to docx and PDF formats using Microsoft Word.
 
-With this document formatted and displayed on GitHub or elsewhere, select the entire document and copy it. You can then paste this into Microsoft Word, which will copy the document while retaining the formatting. To convert to PDF, select Print, choose "Microsoft Print to PDF" for printer, and print. Note that you cannot properly convert collapsed items with this method.
+With this document formatted and displayed on GitHub or elsewhere, select the entire document and copy it. You can then paste this into Microsoft Word, which will copy the document while retaining the formatting. To convert to PDF, go to "File" &rarr; "Save As," choose PDF, and click "Save." Note that you cannot properly convert collapsed items with this method.
 
 ### Important Disclaimers (From Naoki Shibata, Template Author)
 

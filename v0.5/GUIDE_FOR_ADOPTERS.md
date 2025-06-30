@@ -488,7 +488,7 @@ In addition to the above, the Licensor may, at their sole discretion, also decid
 
 The discretionary nature of this license's termination clause might seem unfair at first glance. However, this model was intentionally chosen to be more flexible and constructive than the "automatic termination" found in many FOSS licenses.
 
-* Automatic Termination is like a machine: any violation, no matter how small or unintentional, immediately and often irrevocably terminates the license. There is no room for dialogue or a second chance.
+* Automatic Termination is like a machine: any violation, no matter how small or unintentional, immediately and often irrevocably terminates the license. There is no room for dialogue or a second chance. It should be also noted that automatic termination does not automatically detect violations; the licensor must discover the violation and send a notice to the licensee. However, the license is already terminated at the time of the violation, not at the time the notice is sent.
 * Discretionary Termination allows for a human response: Retroactive termination is equivalent to giving the Licensor the authority to delay the effective date of termination for any period they choose. As the Licensor, a breach gives you the right to terminate, but it does not force you to. This structure empowers you to:
    * Open a Dialogue: Instead of immediate termination, you can contact a licensee about an honest mistake (like improper attribution) and give them an opportunity to correct it.
    * Choose Forgiveness: If the issue is resolved, you can simply choose not to exercise your right to terminate, allowing a good-faith community member to continue their work.
