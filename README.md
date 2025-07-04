@@ -1,5 +1,7 @@
 # The VOD Reaction License Project
 
+&#127909; Watch the Official Introduction: [https://youtu.be/ATQlJW0bQD0](https://youtu.be/ATQlJW0bQD0)
+
 Welcome to the official repository for the VOD Reaction License project! This project provides a set of experimental, customizable license templates and accompanying guides designed for content creators (especially streamers on platforms like Twitch and YouTube) who wish to allow and encourage specific types of reuse of their VODs by their community.
 
 The core goal of the VOD Reaction License model is to foster a more interactive, collaborative, and respectful community environment by:

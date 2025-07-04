@@ -24,7 +24,7 @@ To help you smoothly adopt and operationalize the VRL model, this guide will det
 
 * **[Section 2: How to Adopt This License for Your Channel: Step-by-Step](#2-how-to-adopt-this-license-for-your-channel-step-by-step)** - Explains the concrete steps from obtaining the License Template to customizing it and announcing it to your community.
 * **[Section 3: Important Considerations for You (as an Adopting Licensor)](#3-important-considerations-for-you-as-an-adopting-licensor)** - Describes key points to keep in mind when offering the license, such as handling third-party content and understanding the grant-back.
-* **[Section 4: A Licensee Reused Your VOD Under Your License: Initial Steps](#4-a-licensee-reused-your-vod-under-your-license-initial-steps)** - Guides you on actions to take and points to check when a community member reuses your VOD.
+* **[Section 4: License Operation and Best Practices](#4-license-operation-and-best-practices)** - Guides you on actions to take and points to check when a community member reuses your VOD.
 * **[Section 5: Managing or Discontinuing Your License Offer](#5-managing-or-discontinuing-your-license-offer)** - Explains the appropriate procedures and precautions when changing your license offer terms or discontinuing the offer.
 * **[Section 6: Addressing Specific Scenarios and Potential Issues](#6-addressing-specific-scenarios-and-potential-issues)** - Details responses to various situations that might arise in practice, such as Licensee non-compliance or rights issues.
 * **[Section 7: Using and Modifying This License Template](#7-using-and-modifying-this-license-template)** - Explains the terms of use for the License Template itself.
