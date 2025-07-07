@@ -1,6 +1,6 @@
 # The VOD Reaction License Project
 
-&#127909; Watch the Official Introduction: [https://youtu.be/Ti2XxT3TYZ4](https://youtu.be/Ti2XxT3TYZ4)
+&#127909; Watch the Official Introduction Video: [https://youtu.be/lfoETGz5L0c](https://youtu.be/lfoETGz5L0c)
 
 &nbsp;
 
